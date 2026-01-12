@@ -1,0 +1,86 @@
+[
+  {
+    "id": "96d4cf26f5ce0238a848037a",
+    "country": "PAKISTAN",
+    "source_name": "Geo News",
+    "source_slug": "geo_news",
+    "url": "https://www.geo.tv/latest/644715-pakistan-indonesia-closing-in-on-jets-and-drones-defence-deal-say-sources",
+    "title": "Pakistan, Indonesia closing in on jets and drones defence deal: sources",
+    "published_at": "2026-01-12T16:30:00+00:00",
+    "author": "Reuters",
+    "summary": "<img src=\"https://www.geo.tv/assets/uploads/updates/2026-01-12/l_644715_091911_updates.jpg\" />\n\t            \tA JF-17 Thunder fighter jet of the Pakistan Air Force takes off from Mushaf base in Sargodha, Pakistan. &mdash; Reuters/FileTalks held between Indonesia's minister, PAF chief.Potential deal includes over 40 JF-17 fighter jets.Defence deal covers training, strategic dialogue.<p>Indonesia's...",
+    "content_text": "January 12, 2026\nIndonesia's defence minister met Pakistan's air force chief in Islamabad to discuss a potential deal that includes the sale of combat jets and killer drones to Jakarta, three security officials with knowledge of the meeting on Monday said.\nThe talks come as Pakistan's defence industry moves forward with a series of defence procurement negotiations and looks to establish itself as a sizable regional player.\nIndonesia's Defence Ministry confirmed the meeting between Defence Minister Sjafrie Sjamsoeddin and Pakistan's Air Chief Marshal Zaheer Ahmed Baber Sidhu.\n\"The meeting focused on discussing general defence cooperation relations, including strategic dialogue, strengthening communication between defence institutions, and opportunities for mutually beneficial cooperation in various fields in the long term,\" defence ministry spokesperson Brigadier General Rico Ricardo Sirait told Reuters, adding the talks had not yet led to concrete decisions.\nOne source said the talks revolved around the sale of JF-17 jets, a multi-role combat aircraft jointly developed by Pakistan and China, and killer drones designed for surveillance and striking targets.\nThe other two sources said the talks were in an advanced stage and involved more than 40 JF-17 jets. One of them said Indonesia was also interested in Pakistan's Shahpar drones.\nThe sources did not share any discussions about delivery timelines and the number of years a proposed deal would span.\nThe Pakistani military's public relations wing did not immediately respond to a request for comment.\nOne additional security source with knowledge of military procurement talks said Pakistan was discussing the sale of JF-17 Thunder jets, air defence systems, training for junior, mid-level, and senior Indonesian air force officials, and engineering staff.\n\"The Indonesia deal is in the pipeline,\" retired Air Marshal Asim Suleiman, who remains briefed on air force deals, told Reuters, adding that the number of JF-17 jets involved was close to 40.\nIndonesia's President Prabowo Subianto was in Pakistan last month for a two-day visit for talks on improving bilateral ties, including defence.\nIndonesia has put in a slew of orders for jets in the past few years, including 42 French Rafale jets worth $8.1 billion in 2022 and 48 KAAN fighter jets from Turkey last year to strengthen its air force and replace its ageing air force fleet.\nJakarta has also considered buying China's J-10 fighter jets and is in talks to purchase US-made F-15EX jets.\nInterest in the Pakistani military's weapons development programme has surged since its jets were deployed in a short conflict with India last year.\nThe four-day war between the two nuclear-armed nations saw Pakistan downing multiple Indian fighter jets, including French-made Rafale aircraft.\nPakistan also used JF-17 Thunder jets to destroy India's S-400 air defence system in Adampur by using hypersonic missiles during the four-day war.\nIn a meeting with the PAF chief last week, Iraqi Air Force Lieutenant General Staff Pilot Mohanad Ghalib Mohammed Radi Al-Asadi expressed keen interest in JF-17 Thunder and Super Mushshak trainer aircraft, the Inter-Services Public Relations (ISPR) said on January 10.\nPrior to that, Bangladesh Air Force Air Chief Marshal Hasan Mahmood Khan held detailed discussions with Air Chief Marshal Sidhu on the potential procurement of JF-17 Thunder fighter jets.\nThe fighter jet was also the highlight of last year's Dubai Airshow 2025, where a memorandum of understanding (MoU) was signed with a friendly country for its procurement, the military’s media wing at the time.",
+    "content_length": 3628,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Pakistan",
+      "Pakistani",
+      "Islamabad",
+      "Sargodha",
+      "Defence Ministry",
+      "ISPR",
+      "Pakistan Air Force",
+      "PAF",
+      "Defence",
+      "Military",
+      "armed",
+      "weapons"
+    ],
+    "keywords_national_matched": [
+      "Pakistan",
+      "Pakistani",
+      "Islamabad",
+      "Sargodha",
+      "Defence Ministry",
+      "ISPR",
+      "Pakistan Air Force",
+      "PAF",
+      "Defence",
+      "Military"
+    ],
+    "keywords_threat_matched": [
+      "armed",
+      "weapons"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.geo.tv/rss/1/1",
+      "fetched_at": "2026-01-12T17:10:54.876431+00:00",
+      "rss": {
+        "published_at": "2026-01-12T16:30:00+00:00"
+      },
+      "kw_national_hits": [
+        "Pakistan",
+        "Pakistani",
+        "Islamabad",
+        "Sargodha",
+        "Defence Ministry",
+        "ISPR",
+        "Pakistan Air Force",
+        "PAF",
+        "Defence",
+        "Military"
+      ],
+      "kw_threat_hits": [
+        "armed",
+        "weapons"
+      ],
+      "kw_shortlisted": true
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "5faf2538ce69eb492e96d46e",
+    "country": "QATAR",
+    "source_name": "Gulf Times",
+    "source_slug": "gulf_times",
+    "url": "https://www.gulf-times.com/article/718439/international/denmarks-pm-warns-of-repercussions-of-greenland-conflict-on-nato-security",
+    "title": "Denmark's PM warns of repercussions of Greenland conflict on NATO security",
+    "published_at": "2026-01-12T08:49:00+00:00",
+    "author": "info@gulf-times.com (Gulf Times)",
+    "summary": "Danish Prime Minister Mette Frederiksen has warned that the escalating conflict over Greenland could have direct reprecussions for NATO security, stressing that any threat to the self-governing territ...",
+    "content_text": "Danish Prime Minister Mette Frederiksen has warned that the escalating conflict over Greenland could have direct reprecussions for NATO security, stressing that any threat to the self-governing territory would undermine the Alliance's collective security that has been established since the end of the World War II.\nSpeaking at a party leader debate at a political rally on Sunday, Frederiksen said that Greenland is going through a \"fateful moment\"آ amid escalating US pressure and President Donald Trump's efforts to impose Washington's control over the Arctic island.\n\"There is a conflict over Greenland,\" she said, adding \"What is at stake is bigger than what the eye can see.\"\nIn posts on Facebook and Instagram, Frederiksen stressed that Denmark is \"a historically close ally\",and said \"we are ready to defend our values â€” wherever it is necessary â€” also in the Arctic. We believe in international law and in peoples' right to self-determination\".\nIn this context, the Danish Prime Minister announced that her country's Foreign Minister Lars Lokke Rasmussen will meet with his US counterpart Marco Rubio next week for talks on Greenland, following a joint request from Denmark and the Greenland government to initiate a dialogue with Washington.\nFrederiksen said that \"Denmark stands at a crossroads\", without specifying a precise date or location for the meeting.\nThis comes as the US President repeatedly emphasizes that US control over Greenland, which is rich in natural resources, is a matter of â€œparamount importanceâ€ for US national security in response to what Washington considers a rise in Russian and Chinese influence in the Arctic.\nIn a New York Times interview published previously, Trump acknowledgedآ that \"it may be a choice\" betweenآ preservingآ theآ NATO alliance or acquiring Greenland.\nGreenland, which has a population of fewer than 57,000 and is covered by ice over roughly four-fifths of its territory, enjoys self-governance within the Kingdom of Denmark, a NATO member.\nThe territory's residents have repeatedly affirmed their opposition to joining the United States, while Copenhagen maintains its commitment to the principles of sovereignty and the right to self-determination under international law.",
+    "content_length": 2242,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [],
+    "keywords_national_matched": [],
+    "keywords_threat_matched": [],
+    "national_relevant": false,
+    "threat_relevant": null,
+    "shortlisted": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "feed_directory",
+      "endpoint_used": "https://www.gulf-times.com/Rss/Index",
+      "fetched_at": "2026-01-12T17:20:58.558389+00:00",
+      "rss": {
+        "published_at": "2026-01-12T08:49:00+00:00"
+      },
+      "kw_national_hits": [],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  }
+]

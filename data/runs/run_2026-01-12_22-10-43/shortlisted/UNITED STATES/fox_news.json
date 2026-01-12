@@ -1,0 +1,71 @@
+[
+  {
+    "id": "d30aaa940cdf510b01c28388",
+    "country": "UNITED STATES",
+    "source_name": "Fox News",
+    "source_slug": "fox_news",
+    "url": "https://www.foxnews.com/us/luigi-mangione-wins-evidentiary-hearing-backpack-search-after-judges-about-face-decision",
+    "title": "Luigi Mangione wins evidentiary hearing on backpack search after judge's about-face decision",
+    "published_at": "2026-01-12T16:56:03+00:00",
+    "author": "Julia Bonavita; Maria Paronich",
+    "summary": "Federal judge reverses decision, will now hold hearing on Luigi Mangione backpack evidence seized at McDonald&apos;s during arrest for alleged CEO murder.",
+    "content_text": "In an about-face on Monday, a federal judge has decided to hold an evidentiary hearing to determine if Luigi Mangione’s backpack was lawfully seized and searched inside an Altoona, Pennsylvania, McDonald’s during his arrest.\nJudge Margaret Garnett wrote in a court order that she considered \"both the arguments made by counsel\" during Friday’s hearing and \"the seriousness of the charges the Defendant is facing\" before walking back her previous decision deeming the hearing unnecessary.\nThe hearing is expected to include testimony from an Altoona police officer regarding the department’s procedures \"for securing, safeguarding [and] inventorying the personal property of a person arrested in a public place.\"\nNYC PROSECUTORS SHARE EVIDENCE PHOTOS REVEALING LUIGI MANGIONE'S POSSESSIONS AT TIME OF ARREST\nHowever, the judge clarified that the witness chosen by the prosecution was not required to be one of the officers involved in Mangione’s arrest.\nFOLLOW THE FOX TRUE CRIME TEAM ON X\nThe move comes after several Altoona officers testified in state court regarding Mangione’s request to exclude evidence seized by police during his arrest, including a backpack carrying the alleged murder weapon.\nHis lawyers are also asking the judge to eliminate the same items from his federal case.\nSIGN UP TO GET TRUE CRIME NEWSLETTER\nOn Friday, Mangione’s defense team asked the court to bar the government from making his federal trial a capital case.\nMangione’s federal case is expected to go to trial in December – or possibly January 2027 – if the death penalty remains on the table. If not, the judge said Friday that Mangione could stand trial as early as October.\nLIKE WHAT YOU'RE READING? FIND MORE ON THE TRUE CRIME HUB\nNo trial date has been set in Mangione’s state murder case, which is expected to be first.\nCLICK HERE TO DOWNLOAD THE FOX NEWS APP\nMangione is accused of gunning down UnitedHealthcare CEO Brian Thompson on a New York City sidewalk in 2024. He has pleaded not guilty in both courts.",
+    "content_length": 2004,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Police",
+      "Defense",
+      "death",
+      "arrest",
+      "arrested",
+      "weapon",
+      "seized"
+    ],
+    "keywords_national_matched": [
+      "Police",
+      "Defense"
+    ],
+    "keywords_threat_matched": [
+      "death",
+      "arrest",
+      "arrested",
+      "weapon",
+      "seized"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://moxie.foxnews.com/google-publisher/latest.xml",
+      "fetched_at": "2026-01-12T17:23:39.847516+00:00",
+      "rss": {
+        "published_at": "2026-01-12T16:56:03+00:00"
+      },
+      "kw_national_hits": [
+        "Police",
+        "Defense"
+      ],
+      "kw_threat_hits": [
+        "death",
+        "arrest",
+        "arrested",
+        "weapon",
+        "seized"
+      ],
+      "kw_shortlisted": true
+    }
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "b6b482f6b668f8f1759cc456",
+    "country": "INDIA",
+    "source_name": "NDTV",
+    "source_slug": "ndtv",
+    "url": "https://www.ndtv.com/india-news/telangana-employees-to-face-10-salary-cut-for-not-taking-care-of-parents-10736173",
+    "title": "Telangana Employees To Face 10% Salary Cut For Not Taking Care Of Parents",
+    "published_at": "2026-01-12T15:58:53+00:00",
+    "author": "Indo-Asian News Service",
+    "summary": "(Representational Image)",
+    "content_text": "The Telangana government will enact a law to deduct 10 per cent salary of the government employees who are not looking after their parents and transfer the same to the bank accounts of the parents.\nChief Minister A. Revanth Reddy stated on Monday that the complaints lodged by elder parents against their sons should be taken as a serious issue and ensure that 10 per cent of the salary is directly transferred to the bank accounts of the parents\nHe announced while launching the free distribution of retrofitted motorised vehicles, battery-operated tricycles, battery wheelchairs, laptops, hearing aids, mobile phones, and other advanced equipment to persons with disabilities.\nThe government has allocated Rs 50 crore for the new scheme. The government is also setting up daycare centres, 'Pranaam', for senior citizens.\nHe also announced that a new healthcare policy will be introduced in the Budget proposals for 2026-2027.\nThe Chief Minister stated that the government is committed to providing better healthcare for all in the state, and hence, the government decided to introduce a new health policy in the next budget.\nHe also declared that transgender individuals will be nominated as Co-Option members in all Municipal Corporations in the next elections. One co-option member post will be allotted to transgender individuals in every municipal corporation. This will help transgender to raise their issues.\nHe claimed that the government has already launched a slew of schemes for the welfare of persons with disabilities.\n\"Our government is working from a humanitarian perspective to ensure that persons with disabilities live with self-respect in society,\" he said.\nFor the empowerment of persons with disabilities, the Chief Minister also said that a special quota was provided to them in education and employment. The government has already announced that Rs 2 lakh will be given to the newly wedded persons with disabilities.\nThe government is providing opportunities to persons with disabilities in all fields so that they do not feel left behind in this competitive world, he said and appealed to them to utilise the opportunities\nThe Chief Minister remembered former Union Minister Jaipal Reddy, who rose to become the Best Parliamentarian and an inspiration to persons with disabilities. Jaipal Reddy reached great heights despite facing disability, he said.\nReaffirming the government's commitment to social justice and equal opportunities for all, CM Revanth Reddy said that the caste census conducted for the first time in the\nTelangana was a role model to all other States. Bowing to pressure from Telangana, the Union government has agreed to conduct a caste census as part of the national census.\nThe state government was also implementing SC classification and providing equal opportunities, he added.\n(Except for the headline, this story has not been edited by NDTV staff and is published from a syndicated feed.)\nTrack Latest News Live on NDTV.com and get news updates from India and around the world",
+    "content_length": 3028,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=curl_cffi, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Chief Minister"
+    ],
+    "keywords_national_matched": [
+      "Chief Minister"
+    ],
+    "keywords_threat_matched": [],
+    "national_relevant": true,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "http://feeds.feedburner.com/ndtvnews-top-stories",
+      "fetched_at": "2026-01-12T17:16:21.827402+00:00",
+      "rss": {
+        "published_at": "2026-01-12T15:58:53+00:00"
+      },
+      "kw_national_hits": [
+        "Chief Minister"
+      ],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  }
+]

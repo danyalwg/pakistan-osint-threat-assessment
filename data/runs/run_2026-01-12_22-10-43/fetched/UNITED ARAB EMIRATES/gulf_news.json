@@ -1,0 +1,45 @@
+[
+  {
+    "id": "4890cee5e267a3e54455f91a",
+    "country": "UNITED ARAB EMIRATES",
+    "source_name": "Gulf News",
+    "source_slug": "gulf_news",
+    "url": "https://gulfnews.com/technology/media/google-will-power-apples-next-siri-with-gemini-ai-in-multiyear-deal-1.500406234",
+    "title": "Google will power Apple’s next Siri with Gemini AI in multi‑year deal",
+    "published_at": "2026-01-12T17:14:12+00:00",
+    "author": "Nathaniel Lacsina",
+    "summary": null,
+    "content_text": "Apple taps Google’s Gemini models and cloud to supercharge Siri and Apple\nGoogle and Apple have confirmed a multi‑year partnership under which Apple will rely on Google’s Gemini artificial intelligence models and cloud infrastructure to power the next generation of its AI features — notably a revamped Siri voice assistant and Apple Intelligence system slated to roll out later in 2026.\nThe announcement marks a significant collaboration between two longtime rivals in consumer technology. According to the joint statement, Apple selected Google’s AI after extensive evaluation, citing Gemini’s performance as the most capable foundation for its future Apple Foundation Models.\nUnder the agreement, Apple will integrate Gemini models into its internal AI ecosystem — including the long‑anticipated Siri upgrade, which has faced delays in recent years amid challenges in expanding its capabilities. Apple says that despite using Google’s models for core intelligence, key AI features will continue to run on Apple devices and through the company’s Private Cloud Compute platform, maintaining the firm’s strong privacy safeguards.\nMultiple outlets confirm that the deal will see Google’s technology underpinning Apple’s AI innovation, but it does not involve sending raw user queries back to Google’s systems. The Verge notes that while Gemini will assist models and features, Apple retains control over on‑device processing and user privacy.\nMarket reaction was swift: news of the partnership contributed to Alphabet briefly crossing a $4 trillion market valuation, as investor confidence in AI technologies continues to buoy major tech stocks. The collaboration is seen as a validation of Google’s rapid progress with Gemini models — a family of AI systems that have been widely deployed across Google services and rated highly against competitor benchmarks.\nThe deal also reflects a strategic shift for Apple’s AI roadmap, which has historically focused on in‑house foundation models and selective integrations with third‑party systems like ChatGPT. By choosing Google’s infrastructure, Apple aims to accelerate innovation and close the gap in features such as personalised voice interaction, context‑aware responses and deeper integration with applications.\nExperts tell reporters this collaboration could influence the broader AI ecosystem — positioning Gemini as a core engine not just for Google’s own products but also across rival platforms. Meanwhile, consumers can expect to see the first fruits of the partnership as Apple begins rolling out AI‑enhanced Siri features throughout 2026, with updates likely highlighted at Apple’s annual developer conference.\nSign up for the Daily Briefing\nGet the latest news and updates straight to your inbox",
+    "content_length": 2753,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [],
+    "keywords_national_matched": [],
+    "keywords_threat_matched": [],
+    "national_relevant": false,
+    "threat_relevant": null,
+    "shortlisted": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://prod-qt-images.s3.amazonaws.com/production/gulfnews/feed.xml",
+      "fetched_at": "2026-01-12T17:18:59.555562+00:00",
+      "rss": {
+        "published_at": "2026-01-12T17:14:12+00:00"
+      },
+      "kw_national_hits": [],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  }
+]

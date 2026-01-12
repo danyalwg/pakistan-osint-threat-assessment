@@ -1,0 +1,45 @@
+[
+  {
+    "id": "0ddaa48bf39f3141f761adf7",
+    "country": "IRAN",
+    "source_name": "Press TV",
+    "source_slug": "press_tv",
+    "url": "https://presstv.ir/Detail/2026/01/12/762238/Iran-demonstrators-US-Israel-blood-riots-",
+    "title": "Tehran rally: Iranians hold US, Israel ‘directly’ responsible for blood of martyrs",
+    "published_at": null,
+    "author": null,
+    "summary": "Iranian demonstrators say the US and Israel are directly responsible for the blood of the martyrs of the recent foreign-back riots in the country.",
+    "content_text": null,
+    "content_length": 0,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "fetch failed: ConnectTimeout: SOCKSHTTPSConnectionPool(host='presstv.ir', port=443): Max retries exceeded with url: /Detail/2026/01/12/762238/Iran-demonstrators-US-Israel-blood-riots- (Caused by ConnectTimeoutError(<SOCKSHTTPSConnection(host='presstv.ir', port=443) at 0x27130664f70>, 'Connection to presstv.ir timed out. (connect timeout=30)'))"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [],
+    "keywords_national_matched": [],
+    "keywords_threat_matched": [],
+    "national_relevant": false,
+    "threat_relevant": null,
+    "shortlisted": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.presstv.ir/rss.xml",
+      "fetched_at": "2026-01-12T17:17:07.422629+00:00",
+      "rss": {
+        "published_at": null
+      },
+      "kw_national_hits": [],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  }
+]

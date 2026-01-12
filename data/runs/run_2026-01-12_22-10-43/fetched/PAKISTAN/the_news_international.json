@@ -1,0 +1,113 @@
+[
+  {
+    "id": "a126881127d51e58407fd36d",
+    "country": "PAKISTAN",
+    "source_name": "The News International",
+    "source_slug": "the_news_international",
+    "url": "https://www.thenews.com.pk/latest/1381918-notices-served-on-minister-sapm-for-violating-election-code-of-conduct",
+    "title": "Punjab by-polls: Notices served on minister, SAPM for 'violating' election code of conduct",
+    "published_at": "2025-11-21T01:33:00+00:00",
+    "author": "Shahid Farooq",
+    "summary": "<img src=\"https://www.thenews.com.pk/assets/uploads/updates/2025-11-21/l_1381918_062710_updates.jpg\" />\n                \t\t\t\tThis collage of pictures show Federal Minister of Power Sardar Awais Ahmad Khan Leghari  and Special Assistant to the Prime Minister Huzaifa Rehman. &mdash;APP/NA website/FileShow-cause notices have been issued to Minister for Power Sardar Awais Ahmad Khan Leghari and Special Assistant to the...",
+    "content_text": "Punjab by-polls: Notices served on minister, SAPM for ‘violating’ election code of conduct\nTalal Chaudhry violating election code despite two previous notices, official tells electoral watchdog\nShow-cause notices have been issued to Minister for Power Sardar Awais Ahmad Khan Leghari and Special Assistant to the Prime Minister (SAPM) Huzaifa Rehman for allegedly violating the code of conduct under the Election Act 2017, Punjab Election Commissioner Sharifullah said on Thursday.\nA spokesperson for the provincial election commissioner said that the federal minister and the SAPM were directed to submit their explanations by November 21 (today).\n“No minister or advisor is allowed to run an election campaign,” the spokesperson said, warning that swift action will be taken against any code violations to ensure free, fair, and impartial elections.\nBy-elections in six national and seven provincial assembly seats in Punjab are scheduled for November 23.\nAccording to the Dera Ghazi Khan district monitoring officer, Leghari reportedly participated in the election campaign of PML-N candidate Mahmood Leghari in the NA-185 constituency.\nThe monitoring officer said that, by taking part in the campaign as a federal minister, Leghari breached official instructions. The minister has been asked to appear before the authorities and clarify his position regarding the alleged ECP violations.\nThe monitoring officer further said that SAPM Rehman has been violating the election code of conduct. The officer said that the SAPM intends to participate in the election campaign of the PML-N candidate.\nMeanwhile, Faisalabad’s district monitoring officer wrote to the election commission, alleging that State Minister for Interior Talal Chaudhry had been repeatedly violating the election code of conduct.\nThe monitoring officer told the election watchdog that the state minister had been warned over the phone about his conduct, but failed to comply with the ECP code of conduct despite two previous notices.\nThe state minister was fined Rs50,000 for breaching the ECP’s code of conduct, the officer said, adding that the matter was being forwarded to the election body for \"further action\".\nIt is pertinent to mention here that the by-election campaigns for 13 constituencies of Punjab’s national and provincial assemblies will officially conclude at midnight on November 21.\nArrangements have almost been completed to hold the by-elections in six National and seven provincial assembly constituencies in Punjab, on November 23.\nThe ECP warned that candidates who continue engaging in political activities after this deadline will face legal consequences.\nThe ECP cautioned that those who breach these regulations could be subject to penalties such as imprisonment for a maximum of two years, a fine of up to Rs100,000, or both.\nNational Assembly constituencies included NA-18 Haripur, NA-96 Faisalabad-Il, NA-104 Faisalabad-X, NA-129 Lahore-XIll, NA-143 Sahiwal-IlI, NA-185 D.G. Khan-ll, PP-73 Sargodha-llI, PP-87 Mianwali-lII, PP-98 Faisalabad-I, PP-115 Faisalabad-XVIll, PP-116 Faisalabad-XIX, PP-203 Sahiwal-VI and PP-269 Muzaffargarh-ll.\n-\nMQM-P calls for new province in Sindh\n-\nUS report validates Pakistan military edge over India: PM\n-\nBanned TTP poses serious threat to Pakistan security: UNSC panel\n-\nCM Afridi clarifies remarks on by-poll after ECP requests army deployment\n-\nDubai sees 3.2m Pakistani passengers in 2025 as airport sets new milestone\n-\nSecurity forces kill 23 Indian proxy terrorists in KP's Kurram\n-\nPakistan to construct island to boost oil exploration: report\n-\nRussia ready to mediate Pakistan's issues with India, Afghanistan: envoy",
+    "content_length": 3662,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Pakistan",
+      "Pakistani",
+      "PK",
+      "Lahore",
+      "Faisalabad",
+      "Sargodha",
+      "Sahiwal",
+      "Mianwali",
+      "Dera Ghazi Khan",
+      "Muzaffargarh",
+      "Punjab",
+      "Sindh",
+      "KP",
+      "National Assembly",
+      "ECP",
+      "Military",
+      "PML-N",
+      "MQM",
+      "terrorists",
+      "threat",
+      "warning"
+    ],
+    "keywords_national_matched": [
+      "Pakistan",
+      "Pakistani",
+      "PK",
+      "Lahore",
+      "Faisalabad",
+      "Sargodha",
+      "Sahiwal",
+      "Mianwali",
+      "Dera Ghazi Khan",
+      "Muzaffargarh",
+      "Punjab",
+      "Sindh",
+      "KP",
+      "National Assembly",
+      "ECP",
+      "Military",
+      "PML-N",
+      "MQM"
+    ],
+    "keywords_threat_matched": [
+      "terrorists",
+      "threat",
+      "warning"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.thenews.com.pk/rss/1/1",
+      "fetched_at": "2026-01-12T17:11:11.779974+00:00",
+      "rss": {
+        "published_at": "2025-11-21T01:33:00+00:00"
+      },
+      "kw_national_hits": [
+        "Pakistan",
+        "Pakistani",
+        "PK",
+        "Lahore",
+        "Faisalabad",
+        "Sargodha",
+        "Sahiwal",
+        "Mianwali",
+        "Dera Ghazi Khan",
+        "Muzaffargarh",
+        "Punjab",
+        "Sindh",
+        "KP",
+        "National Assembly",
+        "ECP",
+        "Military",
+        "PML-N",
+        "MQM"
+      ],
+      "kw_threat_hits": [
+        "terrorists",
+        "threat",
+        "warning"
+      ],
+      "kw_shortlisted": true
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1fb60e950660b4b6422a75f3",
+    "country": "UNITED KINGDOM",
+    "source_name": "Sky News",
+    "source_slug": "sky_news",
+    "url": "https://news.sky.com/story/how-reform-could-offer-ever-ambitious-nadhim-zahawi-a-new-route-to-the-top-13493444",
+    "title": "Reform could offer ever-ambitious Zahawi new route to the top",
+    "published_at": "2026-01-12T15:03:00+00:00",
+    "author": "Rob Powell",
+    "summary": "\"He's a serious f****r\", was the unvarnished view of one Reform figure about the party's latest high-profile recruit.",
+    "content_text": "How Reform could offer ever-ambitious Nadhim Zahawi a new route to the top\nThe former vaccines minister may not be the most obvious fit for Nigel Farage's party, but both sides will be hoping the relationship can give them an advantage.\nMonday 12 January 2026 16:25, UK\n\"He's a serious f****r\", was the unvarnished view of one Reform figure about the party's latest high-profile recruit.\nMost definitely meant as a compliment, the theory here is that Nadhim Zahawi will bring competence and credibility and strengthen the appeal of the fledgling political outfit with donors.\nHe certainly offers experience, as well as a backstory more engaging than most in the Reform flock.\nThe Iraqi refugee who arrived in the UK unable to speak English and rose to become a multimillionaire businessman and eventually chancellor.\nBut perhaps Mr Zahawi's proudest political period was as vaccines minister, overseeing the wildly successful rollout of COVID jabs during the pandemic.\nSo his is now an odd choice of party, perhaps, given dalliances Reform has had with vaccine scepticism as well as outright vaccine conspiracy theories.\nRepeated questions about this apparent mismatch at his inaugural press conference were met with frosty replies - with Mr Zahawi berating journalists for asking \"really stupid\" questions.\nThat's not to say he has a spotless track-record, though.\nIn 2013, he was forced to apologise for claiming taxpayer expenses to supply electricity to his stables.\nFive years later, he was reprimanded for attending the controversial men-only 'President's Club' gala.\nHe was elevated to chancellor in 2022, but days after walking through the Treasury door, appeared to turn on then prime minister Boris Johnson by telling him to resign.\nThen the final nail in his frontline political career - his sacking as Tory chairman over unpaid tax.\nSo given all that, why would an anti-establishment party like Reform embrace someone who - all the evidence suggests - is a fully signed up member of said establishment?\nPart of the answer to that is the connections and experience.\nBut another is the potential for the party's image to be softened in the eyes of more centrist voters who worry about some of Reform's harder edges.\nYes, there is a risk of looking like a 'home for retired Tories' as faces of yesteryear continue to sign up en masse.\nBut as one Reform figure points out, \"the Tory party of ten, fifteen years ago is a damn sight better than the Tory party of now\".\nSo if that's the appeal for Reform, what's in it for their latest signing?\nThe co-founder of the polling giant YouGov, Nadhim Zahawi is a rich man in his own right with business interests and connections around the world.\nAged 58, why not just go quietly into the sunset?\nAccording to those who know him, that's just not Nadhim Zahawi.\nThey paint a picture of a man driven by a desire for attention, yes, but also by a hunger to be accepted into the upper echelons of the country he has made his home.\n\"He can't exist without the attention and without wanting to be taken seriously,\" one person said.\nBe the first to get Breaking News\nInstall the Sky News app for free\nIt's that desire that's got this former minister into hot water in the past.\nBut it's clear it wasn't something he could switch off - or wanted to switch off - when he departed the Commons.\nSo with Reform leading in the polls, and the Conservatives still flagging, this ever-ambitious politician believes he's spied one more route back to the top.",
+    "content_length": 3491,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [],
+    "keywords_national_matched": [],
+    "keywords_threat_matched": [],
+    "national_relevant": false,
+    "threat_relevant": null,
+    "shortlisted": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://feeds.skynews.com/feeds/rss/home.xml",
+      "fetched_at": "2026-01-12T17:21:55.967183+00:00",
+      "rss": {
+        "published_at": "2026-01-12T15:03:00+00:00"
+      },
+      "kw_national_hits": [],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  }
+]

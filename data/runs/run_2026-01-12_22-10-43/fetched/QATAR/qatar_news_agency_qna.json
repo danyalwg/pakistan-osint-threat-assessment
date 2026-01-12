@@ -1,0 +1,45 @@
+[
+  {
+    "id": "79072ee80a0f797adc4e8a8e",
+    "country": "QATAR",
+    "source_name": "Qatar News Agency (QNA)",
+    "source_slug": "qatar_news_agency_qna",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-1/12/government-communications-forum-highlights-frontiers-of-aipowered-cinematic-animation",
+    "title": "Government Communications Forum Highlights Frontiers of AI‑Powered Cinematic Animation",
+    "published_at": "2026-01-12T19:15:15+00:00",
+    "author": null,
+    "summary": "Doha, January 12 (QNA) - The third Government Communications Forum held a panel discussion to examine the new frontiers of AI‑powered cinematic animation.",
+    "content_text": "Government Communications Forum Highlights Frontiers of AI‑Powered Cinematic Animation\nDoha, January 12 (QNA) - The third Government Communications Forum held a panel discussion to examine the new frontiers of AI‑powered cinematic animation.\nThe session offered a glimpse of the Legacy of Light project -an AI‑animated docudrama that explores the life of the distinguished Muslim scholar Muhammad ibn Musa Al Khwarizmi, along with the tremendous intellectual renaissance that Baghdad experienced in the ninth century.\nThe project combines rigorous historical research with AI-powered technologies to deliver an innovative model of evidence‑based cinematic storytelling.\nSpencer Striker, Professor of Digital Media Design at Northwestern University, highlighted that AI-powered tools have brought radical changes to production techniques, emphasizing that this technological edge cannot supersede human creative guidance, as classic skills in design thinking have become more significant than ever.\nDuring a keynote panel on new frontiers in AI‑powered cinematic animation, Striker highlighted that the Legacy of Light project enables the integration of meticulous historical research with complete control over every visual and audio element of the film, showcasing the new possibilities of AI in filmmaking and animation.\nStriker further emphasized that AI acts as an accelerator of creativity, yet it does not replace the artistic and creative decisions made by humans, making the future of cinematic content production dependent on the seamless integration of technology and human creativity.\nIn essence, the forum's agenda showcases panel discussions and specialized workshops that drill down on pivotal subjects, including informed leadership engagement, unified communication, visual identity, the role of women at the pinnacle of the communications field, applied sessions on data unpacking, news verification, creating digital content, and leveraging AI in government communications.\nThe forum also features onsite training workshops covering filmmaking using smartphones, the art of public speaking, and digital media strategies across multiple platforms, alongside advanced sessions on managing media crisis rooms and fashioning modern communication plans.\nThese sessions are designed to hone practical skills, reinforce institutional coordination, and help participants internalize a culture of innovation in government communications, in pursuit of addressing evolving challenges in the media and digital landscape.\nThe forum is part of the Government Communications Office's commitment to advancing the corporate communications system, enhancing media practitioners' capabilities, and promoting the exchange of expertise, as well as best practices to deepen trust and enable effective engagement with the public. (QNA)",
+    "content_length": 2831,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [],
+    "keywords_national_matched": [],
+    "keywords_threat_matched": [],
+    "national_relevant": false,
+    "threat_relevant": null,
+    "shortlisted": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "feed_directory",
+      "endpoint_used": "https://qna.org.qa/en/RSS-Feeds",
+      "fetched_at": "2026-01-12T17:20:46.076456+00:00",
+      "rss": {
+        "published_at": "2026-01-12T19:15:15+00:00"
+      },
+      "kw_national_hits": [],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  }
+]

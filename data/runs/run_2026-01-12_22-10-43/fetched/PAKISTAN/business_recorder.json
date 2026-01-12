@@ -1,0 +1,74 @@
+[
+  {
+    "id": "03c6c28066ecbe0c2c1aa404",
+    "country": "PAKISTAN",
+    "source_name": "Business Recorder",
+    "source_slug": "business_recorder",
+    "url": "https://www.brecorder.com/news/40401817/pakistan-indonesia-explore-deeper-defence-cooperation",
+    "title": "Pakistan, Indonesia explore deeper defence cooperation",
+    "published_at": "2026-01-12T16:54:17+00:00",
+    "author": "none@none.com (BR Web Desk)",
+    "summary": "<p><strong>Indonesia’s Defence Minister Lt Gen (retd) Sjafrie Sjamsoeddin on Monday called on Chief of Army Staff and Chief of Defence Forces (COAS &amp; CDF) Field Marshal Syed Asim Munir at the General Headquarters (GHQ), where both sides discussed ways to strengthen bilateral defence cooperation, the military’s media affairs wing said.</strong></p>\n<p>According to Inter-Services Public Relations (ISPR), the meeting covered matters of mutual interest, evolving regional and global security dynamics, and avenues for enhancing defence collaboration between Pakistan and Indonesia.</p>\n<p>Emphasis was placed on strengthening institutional linkages, expanding training cooperation and promoting defence industrial collaboration.</p>\n<p>The Indonesian defence minister praised the professionalism of the Pakistan Armed Forces and acknowledged their sacrifices in the fight against terrorism. He also expressed Indonesia’s desire to further broaden defence ties with Pakistan across multiple domains.</p>\n<p>Field Marshal Asim Munir reaffirmed Pakistan’s commitment to building a strong and enduring defence relationship with Indonesia, grounded in shared values, mutual respect and convergence of strategic interests, the statement added.</p>",
+    "content_text": "Pakistan, Indonesia explore deeper defence cooperation\n- The meeting covered matters of mutual interest, evolving regional and global security dynamics\nIndonesia’s Defence Minister Lt Gen (retd) Sjafrie Sjamsoeddin on Monday called on Chief of Army Staff and Chief of Defence Forces (COAS & CDF) Field Marshal Syed Asim Munir at the General Headquarters (GHQ), where both sides discussed ways to strengthen bilateral defence cooperation, the military’s media affairs wing said.\nAccording to Inter-Services Public Relations (ISPR), the meeting covered matters of mutual interest, evolving regional and global security dynamics, and avenues for enhancing defence collaboration between Pakistan and Indonesia.\nEmphasis was placed on strengthening institutional linkages, expanding training cooperation and promoting defence industrial collaboration.\nThe Indonesian defence minister praised the professionalism of the Pakistan Armed Forces and acknowledged their sacrifices in the fight against terrorism. He also expressed Indonesia’s desire to further broaden defence ties with Pakistan across multiple domains.\nField Marshal Asim Munir reaffirmed Pakistan’s commitment to building a strong and enduring defence relationship with Indonesia, grounded in shared values, mutual respect and convergence of strategic interests, the statement added.",
+    "content_length": 1341,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=curl_cffi, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Pakistan",
+      "ISPR",
+      "Armed Forces",
+      "Defence",
+      "Military",
+      "COAS",
+      "armed",
+      "terrorism"
+    ],
+    "keywords_national_matched": [
+      "Pakistan",
+      "ISPR",
+      "Armed Forces",
+      "Defence",
+      "Military",
+      "COAS"
+    ],
+    "keywords_threat_matched": [
+      "armed",
+      "terrorism"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.brecorder.com/feeds/latest-news",
+      "fetched_at": "2026-01-12T17:16:04.139367+00:00",
+      "rss": {
+        "published_at": "2026-01-12T16:54:17+00:00"
+      },
+      "kw_national_hits": [
+        "Pakistan",
+        "ISPR",
+        "Armed Forces",
+        "Defence",
+        "Military",
+        "COAS"
+      ],
+      "kw_threat_hits": [
+        "armed",
+        "terrorism"
+      ],
+      "kw_shortlisted": true
+    }
+  }
+]

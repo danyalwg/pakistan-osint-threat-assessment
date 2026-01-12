@@ -1,0 +1,45 @@
+[
+  {
+    "id": "11048d74e7209f506c3c1149",
+    "country": "CHINA (English)",
+    "source_name": "China Daily",
+    "source_slug": "china_daily",
+    "url": "http://www.chinadaily.com.cn/a/201712/12/WS5a2f225ea3108bc8c67219dd.html",
+    "title": "Satellite lofted for first Arab country",
+    "published_at": "2017-12-12T00:27:08+00:00",
+    "author": "李齐",
+    "summary": "A Chinese-made communications satellite became the first \"export\" of such a spacecraft to an Arab country when it was launched by China on Monday for Algeria.",
+    "content_text": "Satellite lofted for first Arab country\nA Chinese-made communications satellite became the first \"export\" of such a spacecraft to an Arab country when it was launched by China on Monday for Algeria.\nA Long March 3B carrier rocket blasted off at the Xichang Satellite Launch Center in the southwestern province of Sichuan at 12:40 am. It soared for about 26 minutes before placing the Alcomsat-1, the Algeria's first communications satellite, into geostationary transfer orbit, according to a news release from China Great Wall Industry Corp, the project contractor.\nPresident Xi Jinping and his Algerian counterpart Abdelaziz Bouteflika exchanged congratulatory messages on Monday morning on the successful mission.\nIn his message, Xi said that the satellite project is an important manifestation of the China-Algeria comprehensive strategic partnership. It has become a good example of space cooperation between China and Arab countries and will play a significant role in promoting Algeria's economic and social development, he said.\nXi said that Beijing is willing to work with Algeria to strengthen exchanges and cooperation in various fields, deepening the bilateral partnership so as to benefit the two countries and peoples.\nBouteflika said that Alcomsat-1 is a remarkable achievement in space cooperation between the two countries and reflects the deep traditional friendship between the two sides. Algeria is willing to work with China to strengthen cooperation, he said.\nThe satellite contract was signed in December 2013 between the Algerian Space Agency and China Great Wall Industry Corp, the country's largest space contractor in the international market.\nAlcomsat-1 was designed and manufactured by the China Academy of Space Technology, part of China Aerospace Science and Technology Corp, based on the DFH-4 satellite platform.\nWith a liftoff weight of 5.2 metric tons and a designed life of 15 years, the satellite will be used for a wide variety of public services such as television broadcasting, emergency communications, remote education and satellite-based signal augmentation, according to Great Wall Industry.\nFu Zhiheng, vice-president of the company, said Alcomsat-1 is as good as Western communications satellites in terms of technology and capacity. He said there are other contracts between his firm and Arab countries, without elaborating.\nzhaolei@chinadaily.com.cn",
+    "content_length": 2396,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [],
+    "keywords_national_matched": [],
+    "keywords_threat_matched": [],
+    "national_relevant": false,
+    "threat_relevant": null,
+    "shortlisted": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.chinadaily.com.cn/rss/world_rss.xml",
+      "fetched_at": "2026-01-12T17:18:51.248417+00:00",
+      "rss": {
+        "published_at": "2017-12-12T00:27:08+00:00"
+      },
+      "kw_national_hits": [],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  }
+]

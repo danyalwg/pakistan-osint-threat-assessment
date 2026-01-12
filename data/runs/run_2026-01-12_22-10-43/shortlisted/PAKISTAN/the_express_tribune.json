@@ -1,0 +1,86 @@
+[
+  {
+    "id": "95bdeaaf01c26a197fea2171",
+    "country": "PAKISTAN",
+    "source_name": "The Express Tribune",
+    "source_slug": "the_express_tribune",
+    "url": "https://tribune.com.pk/story/2586751/info-ministry-calls-reports-of-pakistan-being-used-to-attack-iran-disinformation",
+    "title": "Info ministry calls reports of Pakistan being used to attack Iran ‘disinformation’",
+    "published_at": "2026-01-12T11:17:03+00:00",
+    "author": "Web Desk",
+    "summary": "Ministry urges social media users to avoid sharing sensational 'breaking news' about military actions",
+    "content_text": "Info ministry calls reports of Pakistan being used to attack Iran ‘disinformation’\nMinistry urges social media users to avoid sharing sensational 'breaking news' about military actions\nThe Ministry of Information and Broadcasting has issued an advisory to social media users, urging them to avoid sharing sensational 'breaking news' about military actions, which have been circulating from propaganda pages operated from Afghanistan and India. These reports falsely claimed that the United States was using Pakistan as a base for launching an imminent military strike on Iran.\nIn an announcement on its official fact-check account on X, the Ministry of Information provided a detailed analysis of the claims, offering a reality check based on verified sources. The ministry clarified that the circulating rumors were false and that no credible evidence supported the allegations.\nThe disinformation, propagated through accounts linked to Afghan and Indian sources, such as @KHoorasanM_U1, @RealBababanaras, and @AFGDefense, claimed that the US had moved aerial refueling (KC-135R) and surveillance aircraft to Pakistan.\nThe reports alleged that these aircraft were conducting unusual flights towards or into Iranian airspace and that Pakistan was being used as a launch corridor for US stealth fighters (F-35/F-22) preparing for a possible military strike on Iran.\n🔎 Fact Check | Ministry of Information & Broadcasting\n— Fact Checker MoIB (@FactCheckerMoIB) January 12, 2026\n🧾 CLAIM\nPropaganda machineries Afghanistan and Indian X accounts (@KHoorasanM_U1, @RealBababanaras, @AFGDefense) falsely claims that the United States has moved aerial refuelling (KC-135R) and surveillance aircraft to… pic.twitter.com/2wGeABZm2i\nThe ministry refuted these claims by citing a Reuters report, which confirmed that the US had indeed moved a number of refueling aircraft to Europe as tensions in the Middle East escalated. The ministry clarified that while US tanker activity had increased, it was not linked to Pakistan.\nThe ministry's fact-check account stated, \"US refueling aircraft movements have been reported, but mostly in relation to Europe. There is no credible evidence that US aircraft or intelligence, surveillance, and reconnaissance (ISR) assets are based in Pakistan. Additionally, there is no proof of operational flights from Pakistan to Iran for military strikes. Pakistan has publicly condemned any US military actions against Iran.\"\nThe ministry labelled the social media reports as disinformation and described them as part of a reckless, blame-shifting narrative designed to drag Pakistan into the US-Iran conflict without any verifiable evidence. \"The claim that US aircraft arrived in Pakistan for strikes on Iran is purely disinformation,\" the ministry's fact-check account emphasised.\nIn addition, the ministry issued a public advisory urging caution: \"Do not share sensational military breaking news from propaganda pages unless verified through credible reporting.\"\nFor matters related to national security and defence, the ministry recommended that the public rely solely on reputable sources, including the Inter-Services Public Relations, the Ministry of Information and Broadcasting, the Ministry of Foreign Affairs, and trusted defence outlets.\nNo room for terrorist narrative, vows information minister\nMeanwhile, Information Minister Attaullah Tarar reaffirmed that terrorist elements would not be allowed to advance their narrative or ideology, the Associated Press of Pakistan reported.\nAddressing the Qaumi Paigham-e-Amman Committee conference in Islamabad, he said the nation stood united in its resolve to eliminate terrorism in all its forms. He stressed that the scourge would be confronted through both kinetic and non-kinetic measures.\nHe stated that, under the leadership of Prime Minister Shehbaz Sharif and the Field Marshal Syed Asim Munir, the nation stands united and resolute against terrorism. He added that efforts are underway to reinforce the national narrative and thwart the designs of anti-state elements.\nTarar lauded the role of religious scholars in safeguarding the country’s ideological frontiers and promoting peace. He announced that the committee would visit different parts of the country to spread Islam’s message of harmony, underscoring that terrorists have no connection with Islam, Pakistan, or humanity.\nThe minister said the Paigham-e-Amman Committee was an overarching body with representation from minorities, emphasising that safeguarding minority rights was a collective responsibility. He noted that the fully empowered committee would play an effective role in countering terrorist propaganda.\nHighlighting the vital role of scholars, Tarar denounced foreign-backed extremist outfits and reaffirmed the government’s resolve to eradicate terrorism while promoting Islam’s message of peace. He added that the secretariat of the National Paigham-e-Amman Committee had been formally established to support initiatives fostering harmony and stability in society.\nHe stated that terrorists were bound by neither religion nor nationality, adding that the committee would advance the principle that terrorism has no association with any faith. Tarar further said there was consensus across the Ummah that no jihad could be waged against the state of Pakistan.\nThe minister emphasised that Islam is a religion of peace and harmony, noting that the committee had been tasked with conveying this message to every household. He pointed out that extremist outfits, including Fitna-al-Hindustan and Fitna-al-Khawarij, were receiving foreign funding, adding that their designs were being fully exposed as they continued to target innocent civilians. Amid the violence, he reiterated his resolve to spread the message of peace across the country.\nCOMMENTS\nComments are moderated and generally will be posted if they are on-topic and not abusive.\nFor more information, please see our Comments FAQ",
+    "content_length": 5948,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Pakistan",
+      "PK",
+      "State of Pakistan",
+      "Islamabad",
+      "Ministry of Foreign Affairs",
+      "Defence",
+      "Military",
+      "attack",
+      "terrorism",
+      "terrorist",
+      "terrorists",
+      "extremist"
+    ],
+    "keywords_national_matched": [
+      "Pakistan",
+      "PK",
+      "State of Pakistan",
+      "Islamabad",
+      "Ministry of Foreign Affairs",
+      "Defence",
+      "Military"
+    ],
+    "keywords_threat_matched": [
+      "attack",
+      "terrorism",
+      "terrorist",
+      "terrorists",
+      "extremist"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://tribune.com.pk/feed/home",
+      "fetched_at": "2026-01-12T17:11:00.691788+00:00",
+      "rss": {
+        "published_at": "2026-01-12T11:17:03+00:00"
+      },
+      "kw_national_hits": [
+        "Pakistan",
+        "PK",
+        "State of Pakistan",
+        "Islamabad",
+        "Ministry of Foreign Affairs",
+        "Defence",
+        "Military"
+      ],
+      "kw_threat_hits": [
+        "attack",
+        "terrorism",
+        "terrorist",
+        "terrorists",
+        "extremist"
+      ],
+      "kw_shortlisted": true
+    }
+  }
+]

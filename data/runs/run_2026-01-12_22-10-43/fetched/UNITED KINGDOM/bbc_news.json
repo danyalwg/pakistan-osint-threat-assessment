@@ -1,0 +1,59 @@
+[
+  {
+    "id": "670c82c9518dad5a13a2deed",
+    "country": "UNITED KINGDOM",
+    "source_name": "BBC News",
+    "source_slug": "bbc_news",
+    "url": "https://www.bbc.com/news/articles/c394xwdve9lo?at_medium=RSS&at_campaign=rss",
+    "title": "Former Fed chairs condemn criminal investigation into Jerome Powell",
+    "published_at": "2026-01-12T16:35:57+00:00",
+    "author": "Danielle Kaye",
+    "summary": "Three former heads of the central bank say the probe seeks to undermine the Fed's independence and \"has no place\" in the US.",
+    "content_text": "Former Fed chairs condemn criminal investigation into Jerome Powell\nThree former heads of the US central bank have decried federal prosecutors' criminal investigation into chair Jerome Powell as an \"unprecedented\" bid to undermine the Federal Reserve's independence.\nIn a statement on Monday, 10 economic policy leaders - including four former Treasury Department secretaries - joined former Fed chairs Janet Yellen, Ben Bernanke and Alan Greenspan to rally behind Powell.\n\"The Federal Reserve's independence and the public's perception of that independence are critical for economic performance,\" they wrote.\nThe probe, they added, \"has no place in the United States whose greatest strength is the rule of law, which is at the foundation of our economic success\".\n\"This is how monetary policy is made in emerging markets with weak institutions, with highly negative consequences for inflation and the functioning of their economies more broadly,\" the former economic policy leaders said.\nThe signatories included former federal government officials appointed by both Democratic and Republican presidents.\nThe statement of condemnation was published one day after Powell disclosed that the US Department of Justice (DoJ) served the agency with subpoenas and threatened a criminal indictment over testimony he gave to a Senate committee about renovations to Federal Reserve buildings.\nPowell, whose unscheduled video statement came as a highly unusual move, also called the investigation \"unprecedented\". He said he believed it stemmed from US President Donald Trump's anger over the Fed's setting of interest rates.\nThe DoJ probe \"should be seen in the broader context of the administration's threats and ongoing pressure\", Powell said.\nTrump has publicly urged Powell to cut interest rates in order to reduce the US government's hefty borrowing costs and to make it easier for Americans to get mortgages and other loans.\nLast year, Trump spent months attacking Powell on social media and in remarks to reporters. He repeatedly floated the possibility of firing Powell, only to quickly disavow the idea, which analysts say would rock financial markets and spark a legal battle.\nTrump said he did not \"know anything\" about the investigation. The Justice Department has been contacted for comment.",
+    "content_length": 2295,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Federal Government",
+      "firing",
+      "threats"
+    ],
+    "keywords_national_matched": [
+      "Federal Government"
+    ],
+    "keywords_threat_matched": [
+      "firing",
+      "threats"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "fetched_at": "2026-01-12T17:21:44.339672+00:00",
+      "rss": {
+        "published_at": "2026-01-12T16:35:57+00:00"
+      },
+      "kw_national_hits": [
+        "Federal Government"
+      ],
+      "kw_threat_hits": [
+        "firing",
+        "threats"
+      ],
+      "kw_shortlisted": true
+    }
+  }
+]

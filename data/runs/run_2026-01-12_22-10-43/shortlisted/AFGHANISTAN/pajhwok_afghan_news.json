@@ -1,0 +1,92 @@
+[
+  {
+    "id": "2829a22978bfdbf7186153c6",
+    "country": "AFGHANISTAN",
+    "source_name": "Pajhwok Afghan News",
+    "source_slug": "pajhwok_afghan_news",
+    "url": "https://pajhwok.com/2026/01/12/6-pakistani-policemen-killed-in-blasts-in-khyber-pakhtunkhwa/",
+    "title": "6 Pakistani policemen killed in blasts in Khyber Pakhtunkhwa",
+    "published_at": "2026-01-12T11:23:51+00:00",
+    "author": "Kashmir Khan",
+    "summary": "At least six Pakistani policemen were killed and as many others wounded in two separate explosions in Tank and Lakki Marwat districts of Khyber Pakhtunkhwa province on Monday, media reports said.",
+    "content_text": "KABUL (Pajhwok): At least six Pakistani policemen were killed and as many others wounded in two separate explosions in Tank and Lakki Marwat districts of Khyber Pakhtunkhwa province on Monday, media reports said.\nA remote-controlled bomb exploded near an armoured police vehicle on Gomal Bazaar road in Tank district, killing six policemen and injuring three others, Aaj News reported.\nPolice said the explosion occurred while the vehicle was on patrol in the area.\nSeparately, another blast targeted police personnel in Lakki Marwat district, leaving three policemen wounded, the report added.\nLast week, four Pakistani policemen were shot dead by unidentified gunmen in Lakki Marwat and Bannu districts of the same province.\nkk",
+    "content_length": 729,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Pakistani",
+      "Bannu",
+      "Khyber Pakhtunkhwa",
+      "Police",
+      "Kashmir",
+      "blast",
+      "blasts",
+      "explosion",
+      "explosions",
+      "bomb",
+      "killed",
+      "killing",
+      "dead",
+      "wounded"
+    ],
+    "keywords_national_matched": [
+      "Pakistani",
+      "Bannu",
+      "Khyber Pakhtunkhwa",
+      "Police",
+      "Kashmir"
+    ],
+    "keywords_threat_matched": [
+      "blast",
+      "blasts",
+      "explosion",
+      "explosions",
+      "bomb",
+      "killed",
+      "killing",
+      "dead",
+      "wounded"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://pajhwok.com/rss.xml",
+      "fetched_at": "2026-01-12T17:16:59.859955+00:00",
+      "rss": {
+        "published_at": "2026-01-12T11:23:51+00:00"
+      },
+      "kw_national_hits": [
+        "Pakistani",
+        "Bannu",
+        "Khyber Pakhtunkhwa",
+        "Police",
+        "Kashmir"
+      ],
+      "kw_threat_hits": [
+        "blast",
+        "blasts",
+        "explosion",
+        "explosions",
+        "bomb",
+        "killed",
+        "killing",
+        "dead",
+        "wounded"
+      ],
+      "kw_shortlisted": true
+    }
+  }
+]

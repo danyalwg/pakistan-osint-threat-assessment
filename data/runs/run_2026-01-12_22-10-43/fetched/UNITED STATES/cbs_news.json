@@ -1,0 +1,45 @@
+[
+  {
+    "id": "9d4699865409579d7935702e",
+    "country": "UNITED STATES",
+    "source_name": "CBS News",
+    "source_slug": "cbs_news",
+    "url": "https://www.cbsnews.com/news/nurses-strike-new-york-city-hospitals/",
+    "title": "Nurses strike begins in New York City as thousands walk off jobs",
+    "published_at": "2026-01-12T17:22:16+00:00",
+    "author": "Christina Fan; Lisa Rozner; Aziza Shuler",
+    "summary": "The largest nurses strike ever in New York City is underway as thousands of NYSNA members walk off their jobs at major hospitals.",
+    "content_text": "Nurses strike begins in New York City as thousands walk off jobs at major hospitals\nThe largest nurses strike in New York City history has begun after negotiators for five major hospitals and the state nurses union failed to agree to a new contract by Monday's deadline.\nThe New York State Nurses Association said nearly 15,000 nurses are now walking off their jobs at five privately-run hospitals, including Mount Sinai Hospital, Mount Sinai Morningside, Mount Sinai West and NewYork-Presbyterian in Manhattan, and Montefiore Einstein in the Bronx.\nNYSNA said nurses at Mount Sinai started the strike at 6 a.m., while nurses at the remaining hospitals started picketing an hour later.\nGov. Kathy Hochul declared a state of emergency in anticipation of the strike amid worries it could jeopardize critical care for thousands of patients in the city.\nMontefiore said it was preparing for the strike to last multiple weeks.\nA Mount Sinai spokesperson said, \"Unfortunately, NYSNA decided to move forward with its strike while refusing to move on from its extreme economic demands, which we cannot agree to, but we are ready with 1,400 qualified and specialized nurses – and prepared to continue to provide safe patient care for as long as this strike lasts.\"\nA statement from NewYork-Presbyterian said, \"While NYSNA has told nurses to walk away from the bedside, we remain focused on our patients and their care. This strike is designed to create disruption, but we have taken the necessary steps so our patients continue to receive the care they trust us to provide ... We're ready to keep negotiating a fair and reasonable contract that reflects our respect for our nurses and the critical role they play, and also recognizes the challenging realities of today's healthcare environment.\"\nMamdani joins picket line\nNew York City Mayor Zohran Mamdani joined picketers outside NewYork-Presbyterian in Washington Heights.\n\"In every one of our city's darkest periods, nurses showed up to work. Their value is not negotiable and there worth is not up for debate,\" Mamdani said. \"They show up and all they are asking for in return is dignity, respect and the fair pay and treatment that they deserve. They should settle for nothing less.\"\nMamdani released a similar statement the night before the strike on X.\n\"This city can and must ensure the continuity of care. FDNY, Emergency Management, the public health system and all of my senior leadership are working tirelessly to ensure nurses' demands for dignity can be heard and care is still received,\" the mayor said.\nMamdani urged both sides to meet at the bargaining table.\n\"They must bargain in good faith and they must arrive at a deal that is satisfactory to all, that allows the nurses who work in this city to live in this city,\" he said.\nHochul also said she wants a deal made as soon as possible.\nWhy are nurses on strike?\nBoth sides bargained throughout the weekend, but were unable to make a deal.\nNYSNA has accused Montefiore, Mount Sinai and NewYork-Presbyterian of putting profits over safe patient care. The union said the wealthiest hospital systems in the city are refusing to compromise on issues like pay raises, safe staffing levels, full health care coverage, pensions and workplace protections against violence.\n\"Health care workers are being stretched to their limits, and as workplace violence in hospitals is on the rise, nurses are asking simply for the basics,\" New York Attorney General Letitia James said at the news conference with Mamdani.\nCecilia Barreto, a registered nurse picketing outside Mount Sinai West, said striking was a last resort.\n\"I have been here to two years and I've made such great bonds with the nurses here, and I know that there are nurses who have battled cancer and depend on their health care. So we need to make sure that the health care we receive stays intact because their lives depend on it,\" Barreto said.\n\"Instead of guaranteeing health care for nurses, these wealthy hospitals are pushing to cut health benefits for nurses who put their own health on the line to care for New Yorkers,\" Nancy Hagans, president of NYSNA, said on Saturday.\nAn earlier statement from Montefiore called some of the demands \"reckless and irresponsible.\"\nThe hospitals all called the strike \"reckless\" in a joint statement accusing the nurses of abandoning patients.\n\"NYSNA leadership has chosen to abandon patients in their time of need, but Montefiore Medical Center, Mount Sinai, and NewYork-Presbyterian will not. Their decision to walk out on our patients can only be described as reckless,\" the hospitals said.\nSome hospitals in the area were able to reach a deal with NYSNA, including all of Northwell Health facilities in Nassau County, while others previously pulled back their strike notices.\nWhat the strike means for patients\nGov. Hochul last week signed executive orders to ensure the State Department of Health has staff at the impacted hospitals for the duration of the New York City nurses strike, ensuring patient safety and continuity of care.\nMontefiore said that emergency rooms will remain open.\nHospital officials said no one should delay treatment or put off appointments, but patients should be alert for any direct updates from their health care providers.\nNYSNA also said patients should continue to seek care, with leaders at a news conference Sunday saying going to get care is not crossing a strike line.\nThe bottom line for patients is that the hospitals will remain open and care will continue during the strike.",
+    "content_length": 5527,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [],
+    "keywords_national_matched": [],
+    "keywords_threat_matched": [],
+    "national_relevant": false,
+    "threat_relevant": null,
+    "shortlisted": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.cbsnews.com/latest/rss/main",
+      "fetched_at": "2026-01-12T17:23:24.265875+00:00",
+      "rss": {
+        "published_at": "2026-01-12T17:22:16+00:00"
+      },
+      "kw_national_hits": [],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  }
+]

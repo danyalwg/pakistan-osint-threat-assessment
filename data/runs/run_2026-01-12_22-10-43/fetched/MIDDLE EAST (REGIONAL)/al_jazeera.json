@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1008b99bd6a9a9ca423816c0",
+    "country": "MIDDLE EAST (REGIONAL)",
+    "source_name": "Al Jazeera",
+    "source_slug": "al_jazeera",
+    "url": "https://www.aljazeera.com/news/2026/1/12/denmarks-pm-says-greenland-showdown-at-decisive-moment",
+    "title": "Denmark’s PM says Greenland showdown at ‘decisive moment’",
+    "published_at": "2026-01-12T00:00:00+00:00",
+    "author": "News Agencies",
+    "summary": null,
+    "content_text": "Denmark’s PM says Greenland showdown at ‘decisive moment’\nDenmark is ready to defend its values, Mette Frederiksen says, as Trump renews threats to seize the Danish territory.\nDanish Prime Minister Mette Frederiksen has said her country faces a “decisive moment” over the future of Greenland after United States President Donald Trump renewed his threats to seize the Arctic territory by force.\nSpeaking ahead of meetings in Washington, DC, from Monday on the global scramble for key raw materials, Frederiksen said that “there is a conflict over Greenland”.\nRecommended Stories\nlist of 4 items- list 1 of 4How Israel is shifting Gaza’s yellow line\n- list 2 of 4How volatile is the situation in Iran?\n- list 3 of 4Israeli forces kill one person in series of attacks on southern Lebanon\n- list 4 of 4Barcelona beat Real Madrid in El Clasico to retain Spanish Super Cup\n“This is a decisive moment”, with stakes that go beyond the immediate issue of Greenland’s future, Frederiksen said in a debate with other Danish political leaders.\nShe added in a post on Facebook that Denmark was ” ready to defend our values – wherever it is necessary – also in the Arctic”. “We believe in international law and in peoples’ right to self-determination,” she said.\nGermany and Sweden backed Denmark against Trump’s latest claims to the self-governing Danish territory.\nSwedish Prime Minister Ulf Kristersson condemned the US’s “threatening rhetoric” after Trump repeated that Washington was “going to do something on Greenland, whether they like it or not”.\n“Sweden, the Nordic countries, the Baltic states, and several major European countries stand together with our Danish friends,” Kristersson told a defence conference in Salen, in which the US general in charge of NATO took part.\nKristersson said a US takeover of mineral-rich Greenland would be “a violation of international law, and risks encouraging other countries to act in exactly the same way”.\nGermany reiterated its support for Denmark and Greenland ahead of the Washington discussions.\nBefore meeting his US counterpart, Marco Rubio, on Monday, German Federal Minister for Foreign Affairs Johann Wadehpul held talks in Iceland to address the “strategic challenges of the Far North”, according to a Foreign Ministry statement.\n“Security in the Arctic is becoming more and more important”, and “is part of our common interest in NATO”, he said at a joint news conference with Icelandic Minister for Foreign Affairs Thorgerdur Katrin Gunnarsdottir.\nThe United Kingdom’s Telegraph newspaper reported on Saturday that military chiefs from the UK and other European countries were drawing up plans for a possible NATO mission in Greenland.\nThe newspaper said that UK officials had begun early-stage talks with Germany, France and others on plans that could involve deploying UK troops, warships and aircraft to protect Greenland from Russia and China.\nUK Secretary of State for Transport Heidi Alexander told Sky News that talks on how to deter Russian President Vladimir Putin in the Arctic were “business as usual”.\n“It’s becoming an increasingly contested geopolitical region, with Russia and China… you would expect us to be talking to all our allies in NATO about what we can do to deter Russian aggression in the Arctic Circle,” Alexander said.\nIn an interview with the Reuters news agency, Belgian Minister of Defence Theo Francken said that NATO should launch an operation in the Arctic to address US security concerns.\n“We have to collaborate, work together and show strength and unity,” Francken said, adding that there is a need for “a NATO operation in the high north”.\nFrancken suggested NATO’s Baltic Sentry and Eastern Sentry operations, which combine forces from different countries with drones, sensors and other technology to monitor land and sea, as possible models for an “Arctic Sentry”.\nTrump claims that controlling Greenland is crucial for US national security because of the rising Russian and Chinese military activity in the Arctic.\nA Danish colony until 1953, Greenland gained home rule 26 years later and is contemplating eventually loosening its ties with Denmark.\nPolls indicate that Greenland’s population strongly oppose a US takeover.",
+    "content_length": 4214,
+    "extraction_method": "sitemap",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Defence",
+      "Military",
+      "operation",
+      "violation",
+      "threats"
+    ],
+    "keywords_national_matched": [
+      "Defence",
+      "Military"
+    ],
+    "keywords_threat_matched": [
+      "operation",
+      "violation",
+      "threats"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "sitemap",
+      "endpoint_used": "https://www.aljazeera.com/sitemap.xml",
+      "fetched_at": "2026-01-12T17:24:10.455234+00:00",
+      "kw_national_hits": [
+        "Defence",
+        "Military"
+      ],
+      "kw_threat_hits": [
+        "operation",
+        "violation",
+        "threats"
+      ],
+      "kw_shortlisted": true
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "id": "27639dcf9fd22c88307e8b77",
+    "country": "PAKISTAN",
+    "source_name": "Dawn",
+    "source_slug": "dawn",
+    "url": "https://www.dawn.com/news/1966583/greenland-rejects-us-takeover-under-any-circumstance",
+    "title": "Greenland rejects US takeover ‘under any circumstance’",
+    "published_at": "2026-01-12T17:12:19+00:00",
+    "author": "none@none.com (AFP)",
+    "summary": "<p>Greenland’s government on Monday said it could not accept a US takeover of the Arctic island under “any circumstance”, after US President Donald Trump said that the United States would take the territory “one way or the other”.</p>\n<p>Trump has repeatedly threatened to bring the island under US control, arguing that the Danish autonomous territory is crucial for national security.</p>\n<p>He reiterated that the United States must own Greenland, an autonomous part of the Kingdom of Denmark, to prevent Russia or China from occupying the strategically located and minerals-rich territory in the future.</p>\n<p>“The United States has once again reiterated its desire to take over Greenland. This is something that the governing coalition in Greenland cannot accept under any circumstances,” the Greenlandic government said in a statement.</p>\n<p>On Sunday, Trump warned that if the United States didn’t take Greenland, “Russia or China will, and I’m not letting that happen”.</p>\n<p>The US leader said he would be open to making a deal with the Danish self-governing island, “but one way or the other, we’re going to have Greenland”.</p>\n<p>Last week, France, Germany, Italy, Poland, Spain and the United Kingdom issued a joint statement with Denmark to show their backing for Copenhagen and Greenland against Trump.</p>\n<p>“On the basis of the very positive declaration from the six Nato member states regarding Greenland, the government of Greenland will intensify efforts to ensure that the defence of Greenland is carried out within Nato,” Monday’s statement said.</p>\n<p>“Greenland will always be part of the Western defence alliance,” the government added.</p>\n<p>“All Nato member states, including the United States, have a common interest in the defence of Greenland,” the island’s coalition government said in a statement, adding that it can in no way accept a US takeover of Greenland.</p>\n<p>“As part of the Danish commonwealth, Greenland is a member of Nato and the defence of Greenland must therefore be through Nato,” the government said.</p>\n<p>The European Union Commissioner for Defence and Space Andrius Kubilius said earlier on Monday that any US military takeover of Greenland would be the end of NATO.</p>\n<p>While Denmark has ruled Greenland for centuries, the territory has gradually been moving towards independence since 1979, a goal shared by all political parties elected to the island’s parliament.</p>\n<p>“We are a democratic society that makes our own decisions. And our actions are based on international law,” Greenland’s Prime Minister Jens-Frederik Nielsen wrote on LinkedIn.</p>\n<p>Trump first floated the idea of a US takeover of Greenland in 2019 during his first term in office, although he faces opposition in Washington, including from within his own party.</p>\n<p>Denmark and other European allies have voiced shock at Trump’s threats over the strategic island, which has been home to a US military base since World War II.</p>\n<p>A Danish colony until 1953, Greenland gained home rule 26 years later and is contemplating eventually loosening its ties with Denmark. Polls show that Greenland’s people strongly oppose a US takeover.</p>",
+    "content_text": "Greenland’s government on Monday said it could not accept a US takeover of the Arctic island under “any circumstance”, after US President Donald Trump said that the United States would take the territory “one way or the other”.\nTrump has repeatedly threatened to bring the island under US control, arguing that the Danish autonomous territory is crucial for national security.\nHe reiterated that the United States must own Greenland, an autonomous part of the Kingdom of Denmark, to prevent Russia or China from occupying the strategically located and minerals-rich territory in the future.\n“The United States has once again reiterated its desire to take over Greenland. This is something that the governing coalition in Greenland cannot accept under any circumstances,” the Greenlandic government said in a statement.\nOn Sunday, Trump warned that if the United States didn’t take Greenland, “Russia or China will, and I’m not letting that happen”.\nThe US leader said he would be open to making a deal with the Danish self-governing island, “but one way or the other, we’re going to have Greenland”.\nLast week, France, Germany, Italy, Poland, Spain and the United Kingdom issued a joint statement with Denmark to show their backing for Copenhagen and Greenland against Trump.\n“On the basis of the very positive declaration from the six Nato member states regarding Greenland, the government of Greenland will intensify efforts to ensure that the defence of Greenland is carried out within Nato,” Monday’s statement said.\n“Greenland will always be part of the Western defence alliance,” the government added.\n“All Nato member states, including the United States, have a common interest in the defence of Greenland,” the island’s coalition government said in a statement, adding that it can in no way accept a US takeover of Greenland.\n“As part of the Danish commonwealth, Greenland is a member of Nato and the defence of Greenland must therefore be through Nato,” the government said.\nThe European Union Commissioner for Defence and Space Andrius Kubilius said earlier on Monday that any US military takeover of Greenland would be the end of NATO.\nWhile Denmark has ruled Greenland for centuries, the territory has gradually been moving towards independence since 1979, a goal shared by all political parties elected to the island’s parliament.\n“We are a democratic society that makes our own decisions. And our actions are based on international law,” Greenland’s Prime Minister Jens-Frederik Nielsen wrote on LinkedIn.\nTrump first floated the idea of a US takeover of Greenland in 2019 during his first term in office, although he faces opposition in Washington, including from within his own party.\nDenmark and other European allies have voiced shock at Trump’s threats over the strategic island, which has been home to a US military base since World War II.\nA Danish colony until 1953, Greenland gained home rule 26 years later and is contemplating eventually loosening its ties with Denmark. Polls show that Greenland’s people strongly oppose a US takeover.",
+    "content_length": 3061,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=curl_cffi, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Defence",
+      "Military",
+      "threats"
+    ],
+    "keywords_national_matched": [
+      "Defence",
+      "Military"
+    ],
+    "keywords_threat_matched": [
+      "threats"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.dawn.com/feeds/home/",
+      "fetched_at": "2026-01-12T17:16:17.579209+00:00",
+      "rss": {
+        "published_at": "2026-01-12T17:12:19+00:00"
+      },
+      "kw_national_hits": [
+        "Defence",
+        "Military"
+      ],
+      "kw_threat_hits": [
+        "threats"
+      ],
+      "kw_shortlisted": true
+    }
+  }
+]

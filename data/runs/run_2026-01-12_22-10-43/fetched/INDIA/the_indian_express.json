@@ -1,0 +1,56 @@
+[
+  {
+    "id": "054e6638079ca17f46bb9837",
+    "country": "INDIA",
+    "source_name": "The Indian Express",
+    "source_slug": "the_indian_express",
+    "url": "https://indianexpress.com/article/india/no-country-essential-as-india-to-us-says-new-envoy-sergio-gor-key-5-points-10469322/",
+    "title": "New US envoy Sergio Gor says ‘no country as essential as India’ | 5 key points",
+    "published_at": "2026-01-12T17:10:38+00:00",
+    "author": "chithiraraju",
+    "summary": null,
+    "content_text": "Amid a strain in ties, United States (US) ambassador to India Sergio Gor took charge on Wednesday. The apointee of US President Donald Trump said no country is as essential as India to the US and said both sides are actively engaged to firm up a trade deal. Gor also said New Delhi will be invited to join the Pax Silica, the US-led coalition on the critical minerals supply chain. Here’s all you need to know\nIndicating cooperation, Gor said, “In fact, the next call on trade will occur tomorrow. Remember, India is the world's largest nation, so it's not an easy task to get this across the finish line, but we are determined to get there, and while trade is very important for our relationship, we will continue to work closely together on other very important areas, such as security, counterterrorism, energy, technology, education and health.”\nGor's remarks come days after US Commerce Secretary Howard Lutnick blamed India for delaying the India-US trade deal. It should be noted that India faces the highest US tariffs of 50 per cent even after being engaged in negotiations with Washington since February last year. Lutnick said the deal would have been sealed had PM Narendra Modi called Trump, but this did not happen. The Centre rejected Lutnick's version of events saying, “the characterisation of these discussions in the reported remarks is not accurate.”\nLutnick had said, “India just was, you know, on the wrong side of the seesaw, and it wasn't. It was just that they couldn't get it done when they needed to, and then they couldn't get it done, and then they couldn't get it done, and then they couldn't get it done. And so what happened is all these other countries kept doing deals, and they're just further in the back of the line… And they remember, and I remember they say, but, but you agreed? And I said, then. Not now.”\nLutnick's remarks amounted to the first public acknowledgement by a US official that India and the US had reached an understanding on a trade deal, only for US negotiators to later backtrack. Apart from that, his remarks suggested that Washington was displeased at not receiving a \"call from Modi.\"\nBefore that, Trump had said Prime Minister Narendra Modi \"knew I was not happy\" with India's purchases of Russian oil and that Washington can raise tariffs on New Delhi \"very quickly\". US Senator Lindsey Graham also said the Indian Ambassador to the US Vinay Kwatra informed him about New Delhi cutting down its purchases of Russian oil and asked him to urge Trump to \"relieve the tariff\" imposed on India.\nThe ties strained after Trump imposed 25 per cent tariffs over India's import of Russian oil, over and above the 25 per cent retaliatory tariffs in August last year. Since September last year, Indian imports from Russia have been on a decline. Official trade data showed that India’s imports from Russia have declined by over 18 per cent between April and October last year compared to the previous year.\nWith PTI inputs",
+    "content_length": 2973,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=curl_cffi, status=200); ok (fetch=curl_cffi, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "PTI",
+      "counterterrorism"
+    ],
+    "keywords_national_matched": [
+      "PTI"
+    ],
+    "keywords_threat_matched": [
+      "counterterrorism"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://indianexpress.com/section/india/feed/",
+      "fetched_at": "2026-01-12T17:16:38.170430+00:00",
+      "rss": {
+        "published_at": "2026-01-12T17:10:38+00:00"
+      },
+      "kw_national_hits": [
+        "PTI"
+      ],
+      "kw_threat_hits": [
+        "counterterrorism"
+      ],
+      "kw_shortlisted": true
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "ba233e882ad3c97bfc963c92",
+    "country": "EUROPE (INTERNATIONAL)",
+    "source_name": "France 24",
+    "source_slug": "france_24",
+    "url": "https://www.france24.com/en/asia-pacific/20260112-hospitals-morgues-fill-deadly-anti-regime-protests-iran",
+    "title": "Iran's hospitals, morgues fill after deadly crackdown on anti-regime protests",
+    "published_at": "2026-01-12T17:20:51+00:00",
+    "author": "The FRANCE 24 Observers",
+    "summary": "Videos verified by the FRANCE 24 Observers team show dozens of bodies at a morgue in Kahrizak, south of Tehran, following deadly anti-regime protests. Accounts sent by our Observers underscore the severity of the crackdown and the difficult conditions faced by those trying to treat injured protesters.",
+    "content_text": "Iran's hospitals, morgues fill after deadly crackdown on anti-regime protests\nVideos verified by the FRANCE 24 Observers team show dozens of bodies at a morgue in Kahrizak, south of Tehran, following deadly anti-regime protests. Accounts sent by our Observers underscore the severity of the crackdown and the difficult conditions faced by those trying to treat injured protesters.\nIssued on:\nTo display this content from YouTube, you must enable advertisement tracking and audience measurement.\nOne of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.\nWARNING: THESE IMAGES MAY BE UPSETTING\nThe FRANCE 24 Observers team in Paris has verified videos showing dozens of bodies accumulating at a morgue in Kahrizak, a suburb south of Tehran, as families attempt to find and identify their loved ones.\nMedical sources say that hundreds of bodies are currently at the morgue.\nProtests that began on December 28, 2025, following the collapse of the Iranian rial have been violently repressed by the regime of the Islamic Republic. The regime has put in place a total ban on internet and cellphone communications.\nA nurse at a hospital in northern Iran told the Observers team on Sunday:\n“We have received around 50 bodies at our hospital. Most were killed by shots to the head.\nThere are many injured people, and the hospital has no capacity to treat them all. We cannot even call in surgeons; there is no connection to do so.\nA colleague of mine at another hospital counted 18 bodies in their morgue yesterday.”\n‘There was blood everywhere’\nAccording to the Human Rights Activists News Agency (HRANA), at least 538 people have died since the demonstrations began. But the real toll could be much higher.\nA resident of Tehran sent us this account:\n“They shot at people and even ran people over with anti-riot vehicles. There was blood everywhere. The streets were covered in people’s blood, and we had to run through it to escape. My shoes are soaked in blood.\nWe were running away when suddenly a member of the security forces put a gun to my friend’s temple and screamed, ‘What the f*** are you doing here? Get lost.’ For a second, I thought he was going to kill him. Fortunately, he didn’t, and we just ran.”\nTo display this content from YouTube, you must enable advertisement tracking and audience measurement.\nOne of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.",
+    "content_length": 2544,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=curl_cffi, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [],
+    "keywords_national_matched": [],
+    "keywords_threat_matched": [],
+    "national_relevant": false,
+    "threat_relevant": null,
+    "shortlisted": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.france24.com/en/rss",
+      "fetched_at": "2026-01-12T17:23:51.850600+00:00",
+      "rss": {
+        "published_at": "2026-01-12T17:20:51+00:00"
+      },
+      "kw_national_hits": [],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "ff6f35d7cd7597d900091743",
+    "country": "SAUDI ARABIA",
+    "source_name": "Saudi Gazette",
+    "source_slug": "saudi_gazette",
+    "url": "https://saudigazette.com.sa/article/658126/SAUDI-ARABIA/Commerce-Ministry-bans-writing-names-of-God-on-bags-and-packaging?ref=rss&format=simple&link=link",
+    "title": "Commerce Ministry bans writing names of God on bags and packaging",
+    "published_at": "2026-01-12T16:09:00+00:00",
+    "author": "Saudigazette",
+    "summary": "Saudi Gazette reportRIYADH — The Ministry of Commerce has banned writing names of God by commercial establishments on anything such as bags, packaging, and materials that are destined for inappropriate",
+    "content_text": "Saudi Gazette report\nIn a statement on X account, he said that this decision comes out of a desire to revere and protect the Beautiful Names of God (Al-Asma Ul Husna). It is worthy to note that the Law of Trade Names, which was approved by the Ministry of Commerce a few months ago, stipulates that a trade name must not contain any name on the list of prohibited names, or the name of a governmental or semi-governmental entity, while adhering to the regulations for reserving or registering the name Saudi Arabia and the names of cities.",
+    "content_length": 539,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=curl_cffi, status=200); ok (fetch=curl_cffi, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [],
+    "keywords_national_matched": [],
+    "keywords_threat_matched": [],
+    "national_relevant": false,
+    "threat_relevant": null,
+    "shortlisted": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://saudigazette.com.sa/rssFeed/0",
+      "fetched_at": "2026-01-12T17:18:54.424576+00:00",
+      "rss": {
+        "published_at": "2026-01-12T16:09:00+00:00"
+      },
+      "kw_national_hits": [],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  }
+]

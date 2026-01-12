@@ -1,0 +1,62 @@
+[
+  {
+    "id": "432e64839184ea8187667dd2",
+    "country": "EUROPE (INTERNATIONAL)",
+    "source_name": "Deutsche Welle (DW)",
+    "source_slug": "deutsche_welle_dw",
+    "url": "https://www.dw.com/en/nato-talks-arctic-security-for-greenland-amid-us-pressure/a-75479402?maca=en-rss-en-top-1022-rdf",
+    "title": "NATO talks Arctic security for Greenland amid US pressure",
+    "published_at": "2026-01-12T16:57:00+00:00",
+    "author": "Wesley Rahn",
+    "summary": "NATO is signaling it will take steps to bolster Arctic security as the Trump administration has claimed that threats from Russia and China are among the reasons that the US government seeks to take over Greenland.",
+    "content_text": "NATO talks Arctic security for Greenland amid US pressure\nJanuary 12, 2026NATO chief Mark Rutte on Monday said the defense alliance was working on \"next steps\" to protect Arctic security, as the Trump administration claims that the United States needs to seize Greenland from Denmark to ward off threats from Russia and China.\n\"All allies agree on the importance of the Arctic and Arctic security, because we know that with sea lanes opening up there is a risk that the Russians and the Chinese will be more active,\" Rutte said.\n\"Currently we are discussing the next step to that, how to make sure that we give practical follow up on those discussions,\" he said.\nNATO diplomats said there were no concrete proposals on the table, but some members have floated ideas, including launching a new mission in the region, the AFP news agency reported.\nUS President Donald Trump has rocked the 32-member defense alliance by renewing threats to take over Greenland.\nTrump says US 'will have' Greenland\nTrump claims, without providing evidence, that China and Russia are vying to take over the minerals-rich Arctic territory.\nTrump has claimed a US military presence alone is not enough to deter this, and has insisted the US must own Greenland.\nOn Sunday, Trump warned that if the US didn't take Greenland, \"Russia or China will, and I'm not letting that happen.\"\n\"One way or the other, we're going to have Greenland,\" Trump said. The White House has not ruled out using military force, although the Trump administration has said purchasing the island would be preferable.\nThe Arctic island is an autonomous part of the Kingdom of Denmark and a NATO member. At one point during the Cold War, Greenland hosted dozens of US military bases, before these were drawn down. Currently, the US only operates one base on Greenland, the Pituffik Space Base, formerly called Thule Air Base.\nEurope rallies around Denmark\nEuropean countries are rallying political support behind Denmark and Greenland, with a joint statement last week signed by several European countries emphasizing that \"Greenland belongs to its people,\" while emphasizing that the US is an \"essential partner\" in securing Arctic security.\nOn Monday, German Chancellor Friedrich Merzsaid \"we share the US concerns that this part of Denmark needs better protection.\"\n\"We simply want to improve Greenland's security situation together. And I assume the Americans will also take part in this,\" he said while on a visit to India.\nGerman Foreign Minister Johann Wadephul is currently in Washington for talks with his US counterpart, Marco Rubio. The foreign ministers of Denmark and Greenland are also set to hold talks this week with US Secretary of State Marco Rubio.\nThe government of Greenland issued a statement Monday, underlining that all NATO states, including the US have a common interest in improving strategic defense in Greenland, and that the future of this defense as part of the NATO defense alliance. The statement said the government aims to develop the island's defense under a NATO framework.\nHowever, the governing coalition said it would not accept the US desire to take over Greenland \"under any circumstances.\"\nUS Greenland takeover 'end of NATO'\nEuropean Commissioner for Defence and Space Andrius Kubilius said Monday that the EU and NATO are ready to do more for Greenland's defense, and questioned the logic of the US occupying Greenland by force.\nKubilius said that under Denmark's request, the EU could provide more security for Greenland, including troops and military infrastructure such as warships and anti-drone capabilities.\n\"That's for military people to say what Greenland or the Arctic defense needs. Everything is possible,\" he told Reuters news agency.\nKubilius backed up a statement from Danish Prime Minister Mette Frederiksen last week that the US taking over Greenland by force would upend the transatlantic defense alliance.\n\"I agree with the Danish prime minister it will be the end of NATO,\" he said.\nEdited by: Louis Oelofse",
+    "content_length": 4017,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Defence",
+      "Defense",
+      "Military",
+      "threats"
+    ],
+    "keywords_national_matched": [
+      "Defence",
+      "Defense",
+      "Military"
+    ],
+    "keywords_threat_matched": [
+      "threats"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://rss.dw.com/rdf/rss-en-top",
+      "fetched_at": "2026-01-12T17:23:47.381539+00:00",
+      "rss": {
+        "published_at": "2026-01-12T16:57:00+00:00"
+      },
+      "kw_national_hits": [
+        "Defence",
+        "Defense",
+        "Military"
+      ],
+      "kw_threat_hits": [
+        "threats"
+      ],
+      "kw_shortlisted": true
+    }
+  }
+]

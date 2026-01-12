@@ -1,0 +1,60 @@
+[
+  {
+    "id": "4958d62e5b3540d8751491db",
+    "country": "PAKISTAN",
+    "source_name": "UrduPoint",
+    "source_slug": "urdupoint",
+    "url": "https://www.urdupoint.com/en/business/ptea-demands-structural-reforms-for-economic-2118114.html",
+    "title": "PTEA demands structural reforms for economic growth",
+    "published_at": "2026-01-12T17:10:17+00:00",
+    "author": "Mohammad Ali",
+    "summary": null,
+    "content_text": "PTEA Demands Structural Reforms For Economic Growth\nMohammad Ali (@ChaudhryMAli88) Published January 12, 2026 | 10:10 PM\nFAISALABAD, (UrduPoint / Pakistan Point News - 12th Jan, 2026) Pakistan Textile Exporters Association (PTEA) has demanded the government to undertake structural reforms to restore competitiveness and stimulate economic growth.\nIn a statement here on Monday, PTEA Chairman Sohail Pasha underscored the critical role of the textile sector and said that it contributes significantly to country’s GDP and employment.\nHe said that the textile export industry is confronted with acute competitive challenges stemming from elevated energy tariffs, an excessive and discriminatory tax regime, and severe liquidity constraints. These factors are undermining the sector’s ability to sustain export growth and retain international market share, he added.\nHe expressed concern over the slowed growth of the industry, citing high energy costs, excessive taxation, and financial constraints as major impediments.\nHe stressed the need for rationalization of energy tariffs to align with regional benchmarks, thereby enhancing export competitiveness and improving capacity utilization.\nHighlighting taxation challenges, he pointed out that export proceeds are subjected to simultaneous deductions under Section 154 and Section 147.\nBanks collect advance tax at 1% as minimum tax, while an additional 1% advance tax is levied under sub-section (6C) of Section 147. In contrast, local supplies are taxed at 1% for textile goods and 0.5% for yarn traders.\nHe termed this treatment discriminatory and demanded parity in advance tax realization with domestic businesses.\nPatron-in-Chief PTEA Khurram Mukhtar raised concerns over unwarranted delays in payment of outstanding refunds, which have trapped a significant portion of exporters’ working capital.\nThis has forced exporters to bear interest costs on delayed refunds.\nHe called for a structured, automated refund mechanism to process claims within 60 days (deferred tax), and 30 days (income tax) to ensure efficiency and transparency.\nHe further highlighted the exclusion of cotton, cotton yarn, and fabric from the Export Facilitation Scheme (EFS), coupled with duties on their import, which has escalated production costs and eroded price competitiveness.\nHe demanded full refund of customs duties paid under EFS, emphasizing that exports must operate under a zero-rated regime.\nVice Chairman PTEA Ameer Ahmad emphasized the need to incentivize value-added textile growth. He proposed a minimum 5% Duty Drawback of Taxes and Levies (DLTL) to offset embedded, non-refunded taxes.\nHe stressed that the industry’s capital-to-sales ratio must improve to at least 3.5x to support sustainable growth. This, he noted, is unattainable without fundamental reforms in the refund regime, which currently locks up billions of rupees and severely constrains cash flows.\nWith these reforms, Pakistan’s textile exports could realistically reach US$27 billion by FY2028, driven by improved liquidity, higher productivity, and value-added expansion, he added.\nPTEA reaffirmed its commitment to working closely with the government to implement a credible, export-led growth framework that strengthens Pakistan’s economy, generates employment, and enhances foreign exchange earnings.\nRecent Stories\n18th World Future Energy Summit opens tomorrow in Abu Dhabi\nAbu Dhabi hosts fourth UAE–France High-Level Business Council plenary meeting\nDP World, Pakistan Railways, NLC break ground on Pipri Freight Corridor & Multim ..\nMansoor bin Mohammed opens Intersec 2026\nHamdan bin Mohammed launches ‘Season of Wulfa’\nSupreme Council for Financial and Economic Affairs issues resolution forming boa ..\nUAE’s MENAFATF presidency prioritises enhanced preparedness, translating inter ..\nRAK Ruler directs preparation of 'Saqr Humanitarian Ship' to support Gaza under ..\nUAE strategic partner in supporting food security regionally, globally: FAO\nGold price increases by Rs7, 700 per tola in Pakistan\nSnowfall disrupts Moscow as city services work to clear streets\nTehran ready for war or negotiations, says Iranian FM Araghchi\nMore Stories From Business\n-\nPTEA demands structural reforms for economic growth\n1 minute ago -\nUoK hosts Pitch Tech Fest as first-semester students secure start-up funding\n2 minutes ago -\nEconomic indicators show improvement amid government economic reforms: Ahsan Iqbal\n11 minutes ago -\n53rd CTP probationary officers of IRS visit FBR headquarter\n5 hours ago -\nPSX sheds 2,025 points to close at 182,384 points\n5 hours ago -\nGold price increases by Rs7, 700 per tola in Pakistan\n7 hours ago\n-\nFTO directs priority handling of Overseas Pakistanis’ complaints\n7 hours ago -\nGold prices surge by Rs7,700 per tola\n9 hours ago -\nEXCHANGE RATES FOR CURRENCY NOTES\n11 hours ago -\nForeign exchange rates\n12 hours ago -\nCurrency Rate In Pakistan - Dollar, Euro, Pound, Riyal Rates On 12 January 2026\n13 hours ago -\nToday Gold Rate in Pakistan 12 January 2026\n13 hours ago",
+    "content_length": 5019,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=curl_cffi, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Pakistan",
+      "Faisalabad",
+      "FBR",
+      "Levies"
+    ],
+    "keywords_national_matched": [
+      "Pakistan",
+      "Faisalabad",
+      "FBR",
+      "Levies"
+    ],
+    "keywords_threat_matched": [],
+    "national_relevant": true,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.urdupoint.com/en/sitemap/news.rss",
+      "fetched_at": "2026-01-12T17:16:10.405272+00:00",
+      "rss": {
+        "published_at": "2026-01-12T17:10:17+00:00"
+      },
+      "kw_national_hits": [
+        "Pakistan",
+        "Faisalabad",
+        "FBR",
+        "Levies"
+      ],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  }
+]

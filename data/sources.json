@@ -1,0 +1,268 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "country": "PAKISTAN",
+      "name": "Geo News",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "https://www.geo.tv/rss/1/1", "note": "Top stories RSS", "enabled": true },
+        { "type": "FEED_DIRECTORY", "url": "https://www.geo.tv/rss", "note": "RSS directory", "enabled": true }
+      ]
+    },
+    {
+      "country": "PAKISTAN",
+      "name": "The Express Tribune",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "https://tribune.com.pk/feed/home", "note": "Home feed", "enabled": true },
+        { "type": "FEED_DIRECTORY", "url": "https://tribune.com.pk/rss", "note": "RSS directory", "enabled": true }
+      ]
+    },
+    {
+      "country": "PAKISTAN",
+      "name": "The News International",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "https://www.thenews.com.pk/rss/1/1", "note": "Top stories RSS", "enabled": true },
+        { "type": "FEED_DIRECTORY", "url": "https://www.thenews.com.pk/rss", "note": "RSS directory", "enabled": true }
+      ]
+    },
+    {
+      "country": "PAKISTAN",
+      "name": "The Nation",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "https://www.nation.com.pk/rss/international", "note": "International feed", "enabled": true },
+        { "type": "FEED_DIRECTORY", "url": "https://www.nation.com.pk/rss", "note": "RSS directory", "enabled": true }
+      ]
+    },
+    {
+      "country": "PAKISTAN",
+      "name": "Business Recorder",
+      "enabled": true,
+      "endpoints": [
+        { "type": "FEED_DIRECTORY", "url": "https://www.brecorder.com/feeds/", "note": "Feeds index", "enabled": true },
+        { "type": "RSS", "url": "https://www.brecorder.com/feeds/latest-news", "note": "Candidate", "enabled": true }
+      ]
+    },
+    {
+      "country": "PAKISTAN",
+      "name": "UrduPoint",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "https://www.urdupoint.com/en/sitemap/news.rss", "note": "News RSS sitemap-like feed", "enabled": true },
+        { "type": "HTML_LISTING", "url": "https://www.urdupoint.com/en/", "note": "Fallback listing", "enabled": true }
+      ]
+    },
+    {
+      "country": "PAKISTAN",
+      "name": "Dawn",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "https://www.dawn.com/feeds/home/", "note": "Home RSS", "enabled": true },
+        { "type": "HTML_LISTING", "url": "https://www.dawn.com/latest-news", "note": "Latest news listing", "enabled": true }
+      ]
+    },
+
+    {
+      "country": "INDIA",
+      "name": "NDTV",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "http://feeds.feedburner.com/ndtvnews-top-stories", "note": "FeedBurner top stories", "enabled": true },
+        { "type": "FEED_DIRECTORY", "url": "https://www.ndtv.com/rss", "note": "RSS directory", "enabled": true }
+      ]
+    },
+    {
+      "country": "INDIA",
+      "name": "The Indian Express",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "https://indianexpress.com/section/india/feed/", "note": "India section feed", "enabled": true },
+        { "type": "FEED_DIRECTORY", "url": "https://indianexpress.com/rss/", "note": "Directory page", "enabled": true }
+      ]
+    },
+
+    {
+      "country": "AFGHANISTAN",
+      "name": "Pajhwok Afghan News",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "https://pajhwok.com/rss.xml", "note": "Known working", "enabled": true },
+        { "type": "RSS", "url": "https://pajhwok.com/feed/", "note": "Alternate", "enabled": true }
+      ]
+    },
+
+    {
+      "country": "IRAN",
+      "name": "Press TV",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "https://www.presstv.ir/rss.xml", "note": "Official RSS", "enabled": true },
+        { "type": "RSS", "url": "https://www.presstv.ir/rss", "note": "Alternate", "enabled": true }
+      ]
+    },
+
+    {
+      "country": "CHINA (English)",
+      "name": "China Daily",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "https://www.chinadaily.com.cn/rss/world_rss.xml", "note": "World RSS", "enabled": true },
+        { "type": "RSS", "url": "https://www.chinadaily.com.cn/rss/china_rss.xml", "note": "China RSS", "enabled": true },
+        { "type": "RSS", "url": "https://www.chinadaily.com.cn/rss/business_rss.xml", "note": "Business RSS", "enabled": true },
+        { "type": "HTML_LISTING", "url": "https://www.chinadaily.com.cn/", "note": "Fallback listing", "enabled": true }
+      ]
+    },
+
+    {
+      "country": "SAUDI ARABIA",
+      "name": "Saudi Gazette",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "https://saudigazette.com.sa/rssFeed/0", "note": "Known feed endpoint", "enabled": true }
+      ]
+    },
+
+    {
+      "country": "UNITED ARAB EMIRATES",
+      "name": "Gulf News",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "https://prod-qt-images.s3.amazonaws.com/production/gulfnews/feed.xml", "note": "Known working", "enabled": true },
+        { "type": "HTML_LISTING", "url": "https://gulfnews.com/", "note": "Fallback listing", "enabled": true }
+      ]
+    },
+
+    {
+      "country": "QATAR",
+      "name": "Qatar News Agency (QNA)",
+      "enabled": true,
+      "endpoints": [
+        { "type": "FEED_DIRECTORY", "url": "https://qna.org.qa/en/RSS-Feeds", "note": "Feeds page (discover)", "enabled": true },
+        { "type": "RSS", "url": "https://qna.org.qa/en/Pages/RSS-Feeds/Qatar-2022", "note": "Known working example", "enabled": true },
+        { "type": "RSS", "url": "https://qna.org.qa/en/Pages/RSS-Feeds/Analysis-and-Reports", "note": "Known working example", "enabled": true }
+      ]
+    },
+    {
+      "country": "QATAR",
+      "name": "Gulf Times",
+      "enabled": true,
+      "endpoints": [
+        { "type": "FEED_DIRECTORY", "url": "https://www.gulf-times.com/Rss/Index", "note": "Index page (discover)", "enabled": true },
+        { "type": "RSS", "url": "https://www.gulf-times.com/rssFeed/9", "note": "Known working example", "enabled": true }
+      ]
+    },
+
+    {
+      "country": "TURKEY",
+      "name": "Daily Sabah",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "https://www.dailysabah.com/rss/home-page", "note": "Home page RSS", "enabled": true },
+        { "type": "FEED_DIRECTORY", "url": "https://www.dailysabah.com/rss", "note": "RSS index", "enabled": true }
+      ]
+    },
+
+    {
+      "country": "UNITED KINGDOM",
+      "name": "BBC News",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "note": "World RSS", "enabled": true },
+        { "type": "FEED_DIRECTORY", "url": "https://www.bbc.co.uk/news/10628494", "note": "BBC RSS directory (page)", "enabled": true }
+      ]
+    },
+    {
+      "country": "UNITED KINGDOM",
+      "name": "Sky News",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "https://feeds.skynews.com/feeds/rss/home.xml", "note": "Home RSS", "enabled": true }
+      ]
+    },
+    {
+      "country": "UNITED KINGDOM",
+      "name": "The Guardian",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "https://www.theguardian.com/world/rss", "note": "World RSS", "enabled": true },
+        { "type": "FEED_DIRECTORY", "url": "https://www.theguardian.com/help/feeds", "note": "Feeds help", "enabled": true }
+      ]
+    },
+
+    {
+      "country": "UNITED STATES",
+      "name": "CNN",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "http://rss.cnn.com/rss/cnn_topstories.rss", "note": "Top stories", "enabled": true }
+      ]
+    },
+    {
+      "country": "UNITED STATES",
+      "name": "ABC News",
+      "enabled": true,
+      "endpoints": [
+        { "type": "FEED_DIRECTORY", "url": "https://abcnews.go.com/", "note": "Homepage (discover)", "enabled": true },
+        { "type": "RSS", "url": "https://abcnews.go.com/abcnews/topstories", "note": "Candidate", "enabled": true }
+      ]
+    },
+    {
+      "country": "UNITED STATES",
+      "name": "CBS News",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "https://www.cbsnews.com/latest/rss/main", "note": "Latest RSS", "enabled": true },
+        { "type": "FEED_DIRECTORY", "url": "https://www.cbsnews.com/rss/", "note": "RSS directory", "enabled": true }
+      ]
+    },
+    {
+      "country": "UNITED STATES",
+      "name": "Fox News",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "https://moxie.foxnews.com/google-publisher/latest.xml", "note": "Publisher latest", "enabled": true },
+        { "type": "FEED_DIRECTORY", "url": "https://www.foxnews.com/rss", "note": "RSS page", "enabled": true }
+      ]
+    },
+
+    {
+      "country": "EUROPE (INTERNATIONAL)",
+      "name": "Deutsche Welle (DW)",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "https://rss.dw.com/rdf/rss-en-top", "note": "English top stories RDF", "enabled": true },
+        { "type": "FEED_DIRECTORY", "url": "https://www.dw.com/en/rss/s-13562", "note": "RSS directory", "enabled": true }
+      ]
+    },
+    {
+      "country": "EUROPE (INTERNATIONAL)",
+      "name": "France 24",
+      "enabled": true,
+      "endpoints": [
+        { "type": "FEED_DIRECTORY", "url": "https://www.france24.com/en/rss", "note": "RSS directory", "enabled": true },
+        { "type": "RSS", "url": "https://www.france24.com/en/rss", "note": "Candidate", "enabled": true }
+      ]
+    },
+    {
+      "country": "EUROPE (INTERNATIONAL)",
+      "name": "Euronews",
+      "enabled": true,
+      "endpoints": [
+        { "type": "RSS", "url": "https://www.euronews.com/rss", "note": "RSS index", "enabled": true },
+        { "type": "FEED_DIRECTORY", "url": "https://www.euronews.com/rss", "note": "Index (discover)", "enabled": true }
+      ]
+    },
+
+    {
+      "country": "MIDDLE EAST (REGIONAL)",
+      "name": "Al Jazeera",
+      "enabled": true,
+      "endpoints": [
+        { "type": "SITEMAP_INDEX", "url": "https://www.aljazeera.com/sitemap.xml", "note": "Official sitemap index", "enabled": true }
+      ]
+    }
+  ]
+}

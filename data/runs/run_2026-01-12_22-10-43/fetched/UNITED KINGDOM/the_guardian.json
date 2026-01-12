@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1a215425c0d27e2c9f079cf6",
+    "country": "UNITED KINGDOM",
+    "source_name": "The Guardian",
+    "source_slug": "the_guardian",
+    "url": "https://www.theguardian.com/environment/2026/jan/12/us-plan-to-exploit-venezuelas-oil-could-eat-up-13-of-carbon-budget-to-keep-15c-limit",
+    "title": "US plan to exploit Venezuela’s oil could eat up 13% of carbon budget to keep 1.5C limit",
+    "published_at": "2026-01-12T16:54:21+00:00",
+    "author": "Damien Gayle and Jillian Ambrose",
+    "summary": "<p><strong>Exclusive:</strong> ClimatePartner analysis shows how move would risk plunging Earth further into climate catastrophe</p><p>US plans to exploit Venezuela’s oil reserves could by 2050 consume more than a tenth of the world’s remaining carbon budget to limit global heating to 1.5C, according to an exclusive analysis.</p><p>The calculation highlights how any moves to further exploit the South American nation’s oil reserves – the largest in the world, at least on paper – would put increasing pressure on climate goals, and risk plunging the globe further into climate catastrophe.</p> <a href=\"https://www.theguardian.com/environment/2026/jan/12/us-plan-to-exploit-venezuelas-oil-could-eat-up-13-of-carbon-budget-to-keep-15c-limit\">Continue reading...</a>",
+    "content_text": "US plans to exploit Venezuela’s oil reserves could by 2050 consume more than a tenth of the world’s remaining carbon budget to limit global heating to 1.5C, according to an exclusive analysis.\nThe calculation highlights how any moves to further exploit the South American nation’s oil reserves – the largest in the world, at least on paper – would put increasing pressure on climate goals, and risk plunging the Earth further into climate catastrophe.\nVenezuela’s proven oil reserves are so vast that if they were fully tapped, they would, by themselves, exhaust the entire carbon budget for keeping the world within the 1.5C temperature rise that climate scientists say is the limit for avoiding the worst effects of climate breakdown.\nSuch an eventuality is unlikely. After years of sanctions, Venezuela’s oil infrastructure is decrepit and crumbling. But in the week since US special forces kidnapped Venezuela’s president, Nicolás Maduro, and rendered him to New York, Donald Trump has urged oil companies to invest $100bn (£74bn) to get Venezuela’s wells flowing.\n“We’re going to be extracting numbers in terms of oil like few people have seen,” the US president told oil executives on Friday.\nAn analysis for the Guardian by ClimatePartner, a carbon accounting firm, modelled the carbon impact of the growth of Venezuela’s oil production by +0.5m barrels per day by 2028, ramping up to +1.58m barrels per day from 2035 to 2050.\nSuch a scenario – which would still fall far short of the 3.5m barrels a day produced during Venezuela’s last oil boom in the 1990s – would by itself consume 13% of the total remaining carbon budget to keep global heating within 1.5C.\nThe oil extracted from Venezuela’s vast reserves is, according to industry estimates, the filthiest in the world.\nClassed as a heavy, sour grade, Venezuela’s crude has a dense, tar-like consistency and a high sulphur content. These fluids do not flow like conventional oil; compared with the light, sweet crude of a country like Saudi Arabia, they require energy intensive processes to extract from the ground.\nIt is for these reasons that a study by S&P Global Platts Analytics found Venezuela’s Orinoco Belt deposits to have by far the highest carbon intensity of any major oil region.\nFor example, it was almost 1,000 times higher than crude produced from Norway’sJohan Sverdrup field, which has a carbon intensity of 1.6kg of carbon dioxide per barrel of oil equivalent – compared with 1,460kgCO2e/boe for Venezuela’s Orinoco Belt. The report found that Venezuela’s “extreme” carbon intensity shows that this crude stream would “face challenges in a world with tight carbon budgets”.\nHollie Parry, senior analyst at ClimatePartner, said: “The decision to ramp up production of one of the world’s most carbon intensive crude oils to historic levels would consume an estimated 13% of the remaining global carbon budget – the equivalent to nearly a decade of emissions from the entire EU, from a single oil expansion. In a rapidly warming world, such a move would lock in decades of high emissions at precisely the moment when science demands a swift transition away from fossil fuels toward renewable energy and low-carbon solutions.”\nEnvironmental campaigners have slammed the US’s claim on Venezuelan oil, a move “both reckless and dangerous”, according to Mads Christensen, executive director of Greenpeace International.\nHe said: “The only safe path forward is a just transition away from fossil fuels, one that protects health, safeguards ecosystems, and supports communities rather than sacrificing them for short-term profit.”",
+    "content_length": 3604,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [],
+    "keywords_national_matched": [],
+    "keywords_threat_matched": [],
+    "national_relevant": false,
+    "threat_relevant": null,
+    "shortlisted": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.theguardian.com/world/rss",
+      "fetched_at": "2026-01-12T17:22:05.126306+00:00",
+      "rss": {
+        "published_at": "2026-01-12T16:54:21+00:00"
+      },
+      "kw_national_hits": [],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  }
+]

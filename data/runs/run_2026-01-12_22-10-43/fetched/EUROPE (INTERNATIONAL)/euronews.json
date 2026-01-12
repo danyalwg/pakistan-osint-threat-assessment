@@ -1,0 +1,51 @@
+[
+  {
+    "id": "b47a54058b0fba90e190c642",
+    "country": "EUROPE (INTERNATIONAL)",
+    "source_name": "Euronews",
+    "source_slug": "euronews",
+    "url": "http://www.euronews.com/2026/01/12/londons-murder-rate-at-record-low-as-mayor-says-it-disproves-trumps-dystopian-claims",
+    "title": "London’s murder rate at record low as mayor says it disproves Trump's 'dystopian' claims",
+    "published_at": "2026-01-12T17:07:13+00:00",
+    "author": "Gavin Blackburn",
+    "summary": "The Metropolitan Police force says the rate by population is the lowest since comparable records began in 1997, at 1.1 murders for every 100,000 people.",
+    "content_text": "The Metropolitan Police force says the rate by population is the lowest since comparable records began in 1997, at 1.1 murders for every 100,000 people.\nLondon's murder rate fell to its lowest level in decades in 2025, officials said on Monday, with Mayor Sadiq Khan saying the figures disprove claims by US President Donald Trump and other critics that crime is out of control in Britain's capital.\nPolice recorded 97 homicides in London in 2025, down from 109 in 2024 and the fewest since 2014.\nThe Metropolitan Police force says the rate by population is the lowest since comparable records began in 1997, at 1.1 murders for every 100,000 people.\nThat compares to 1.6 per 100,000 in Paris, 2.8 in New York and 3.2 in Berlin, the force said.\n\"There are some politicians and commentators who've been spamming social media with an endless stream of distortions and untruths, painting an image of a dystopian London,\" Khan said.\n\"And nothing could be further from the truth.\"\nTrump, who has been sniping at Khan for a decade, said in September that crime in the city is \"through the roof\".\nHe has called Khan a \"stone-cold loser,\" a \"nasty person\" and, in front of the UN General Assembly in September, a \"terrible, terrible mayor.\"\nCity officials say a combination of targeted policing aimed at organised crime and a violence reduction unit that aims to stop young people getting involved with gangs has helped reduce violent crime.\nWhile the murder rate has gone down, other crimes such as phone-snatching and shoplifting have been on the rise, according to the Office for National Statistics.\nThe Crime Survey for England and Wales, which asks people about their experience of crime rather than relying on police figures, found that overall crime rose by 7% in the year to March 2025 compared with the previous 12 months, although it remains significantly lower than in 2017.\nArguments that London is a crime-plagued dystopia under Khan have mushroomed on social media platforms, including the Elon Musk-owned X and are echoed by opposition politicians, often tied to anti-immigrant views.\n\"There are certain politicians, certain commentators who have been using London as a punchbag\" to fit their own political agenda, Khan said.\n\"London is, in my view, the best city in the world. We are liberal, we are progressive, we are diverse. And we are incredibly successful,\" he said.\nLondon 'number one city in the world,' Khan claims\nKhan said London is the \"number one city in the world for tourism, the sporting capital of the world, the cultural capital of the world, more international students than in any city in the world, a record amount of foreign direct investment.\"\n\"Last year, more Americans came to London to study or to work or to invest since records began. So we're the antithesis to everything these nativists believe in. And if you're President Trump, Vice President JD Vance, or if you're an imitator in Europe or indeed in the UK, I can see why this is a problem to you,\" he added.\nLondon ranked third globally for international tourist arrivals in 2025 with 22.7 million visitors, according to Euromonitor. Bangkok topped the rankings with 30.3 million visitors, followed by Hong Kong. London held second place in the 2024 rankings after Istanbul, but has never ranked first in international arrivals.\nIn Europe, Rome estimated it had a record year, with between 30 million and 38 million visitors in 2025, mostly due to the Catholic Church's Holy Jubilee celebrations.\nGreater London attracted 265 foreign direct investment projects in 2024, making it Europe's leading region, but this represented a 31% decline from 359 projects in 2023.\nThe US remains the largest source of tourists to London, but was overtaken by India as the top source of technology-related foreign direct investment to the UK for the first time in 2024. US tech-related foreign direct investment in the UK fell 80% between 2019 and 2024.",
+    "content_length": 3930,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Police"
+    ],
+    "keywords_national_matched": [
+      "Police"
+    ],
+    "keywords_threat_matched": [],
+    "national_relevant": true,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_score": null,
+    "threat_level": null,
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.euronews.com/rss",
+      "fetched_at": "2026-01-12T17:23:59.787997+00:00",
+      "rss": {
+        "published_at": "2026-01-12T17:07:13+00:00"
+      },
+      "kw_national_hits": [
+        "Police"
+      ],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  }
+]
