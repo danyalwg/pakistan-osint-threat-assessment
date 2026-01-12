@@ -340,60 +340,70 @@ Benefits:
 - Windows (primary tested platform)
 - Internet access
 
+
 ## Setup & Running the Application
 
-This section describes how to clone the repository, install dependencies, and run the application from scratch.
+This section explains how to clone the repository, install dependencies, and run the application.
 
 ---
 
 ### 1. Clone the Repository
 
-Clone the project from GitHub:
+Command:
+```
+git clone https://github.com/danyalwg/pakistan-osint-threat-assessment.git
+```
 
-- git clone https://github.com/danyalwg/pakistan-osint-threat-assessment.git
-
-Navigate into the project directory:
-
-- cd pakistan-osint-threat-assessment
+Move into the project directory:
+```
+cd pakistan-osint-threat-assessment
+```
 
 ---
 
-### 2. Verify Python Version
+### 2. Verify Python Installation
 
-Ensure Python 3.10 or newer is installed:
-
-- python --version
+Check Python version (Python 3.10 or newer required):
+```
+python --version
+```
 
 If Python is not installed, download it from:
-- https://www.python.org/downloads/
+https://www.python.org/downloads/
 
-Make sure Python is added to PATH during installation.
+Ensure Python is added to PATH during installation.
 
 ---
 
 ### 3. Install Dependencies
 
-Install all required Python packages using pip:
-
-- pip install -r requirements.txt
+Install all required packages:
+```
+pip install -r requirements.txt
+```
 
 This installs:
 - PyQt6 (GUI)
-- requests / feedparser (network & RSS)
-- trafilatura / BeautifulSoup4 (content extraction)
+- requests, feedparser (network & RSS)
+- trafilatura, BeautifulSoup4 (article extraction)
 - Tor networking dependencies
 
 ---
 
-### 4. Verify Required Files
+### 4. Verify Required Configuration Files
 
-Ensure the following files exist before running:
+Ensure the following files exist:
+```
+data/sources.json
+```
+```
+data/keywords_national.json
+```
+```
+data/keywords_threat.json
+```
 
-- data/sources.json
-- data/keywords_national.json
-- data/keywords_threat.json
-
-These files are included in the repository and define:
+These files define:
 - News sources
 - National relevance keywords
 - Threat indicator keywords
@@ -402,56 +412,65 @@ These files are included in the repository and define:
 
 ### 5. Tor Configuration (Optional but Recommended)
 
-The application supports Tor for anonymous and resilient scraping.
+Tor behavior:
+- Uses existing Tor service if running
+- Otherwise launches bundled executable:
+```
+data/tor.exe
+```
 
-Behavior:
-- If a Tor service is already running locally, it will be used automatically.
-- Otherwise, the application attempts to launch the bundled Tor executable:
-  - data/tor.exe (Windows)
+Tor runtime data is stored in:
+```
+tor_data/
+```
 
-Tor runtime data will be stored in:
-- tor_data/
-
-If Tor is unavailable, the application will still run, but some sources may fail due to blocking.
+If Tor is unavailable, the application will still run, but some sources may be blocked.
 
 ---
 
 ### 6. Run the Application
 
-From the project root directory, start the application:
-
-- python main.py
+Start the application from the project root:
+```
+python main.py
+```
 
 This launches the desktop GUI titled:
-- "AI-based Threat Assessment of Pakistan"
+- AI-based Threat Assessment of Pakistan
 
 ---
 
-### 7. Running a Collection Cycle
+### 7. Running a Collection Cycle (GUI)
 
 Inside the GUI:
 1. Review or edit sources (optional)
-2. Click the Run / Start button
+2. Click Run / Start
 3. The system will:
-   - Fetch articles from configured sources
-   - Extract article content
-   - Apply national and threat keyword filters
-   - Save results into a new run folder
+   - Fetch articles
+   - Extract content
+   - Apply keyword filtering
+   - Save results into a new run directory
 
 ---
 
 ### 8. Output Location
 
-Each run generates a timestamped directory:
-
-- data/runs/run_YYYY-MM-DD_HH-MM-SS/
+Each run creates a timestamped folder:
+```
+data/runs/run_YYYY-MM-DD_HH-MM-SS/
+```
 
 With subfolders:
-- fetched/      → all collected articles
-- shortlisted/ → filtered high-relevance articles
+```
+fetched/
+```
+```
+shortlisted/
+```
 
-Results can be reviewed in the GUI or exported to CSV.
----
+Results can be reviewed in the GUI or exported as CSV.
+
+
 
 ## 19. Current Limitations
 
