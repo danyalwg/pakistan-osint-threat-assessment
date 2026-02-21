@@ -1,0 +1,208 @@
+[
+  {
+    "id": "34b471c415cb99829f6bad25",
+    "country": "UNITED KINGDOM",
+    "source_name": "BBC News",
+    "source_slug": "bbc_news",
+    "url": "https://www.bbc.com/news/articles/cly8q62qe71o?at_medium=RSS&at_campaign=rss",
+    "title": "Iran security official appears to fire on crowd at cemetery",
+    "published_at": "2026-02-18T18:14:39+00:00",
+    "author": "Jake Horton",
+    "summary": "It happened as people gathered to commemorate those killed during the government’s brutal crackdown on protesters",
+    "content_text": "Iran security official appears to fire on crowd at cemetery\nCrowds of mourners appear to have been fired on by a security official at a cemetery in Iran.\nThe incident happened in Abdanan, in west Iran, on Tuesday as people gathered to commemorate those killed during the government's brutal crackdown on protesters last month.\nIranians usually hold commemoration ceremonies on the 40th day after someone dies. The events have been held in several cities across the country to mourn the thousands killed during the deadliest nights of protests on 8 and 9 January.\nVerified video also shows people shouting anti-government chants at events in Tehran, Mashhad and Abdanan on Tuesday as crowds gathered at cemeteries and in the streets for commemorations.\nState-organised ceremonies were broadcast on TV and attended by senior government and military officials where people were led by organisers to chant \"death to America\".\nBBC Verify and BBC Persian have verified footage of people chanting \"death to Khamenei\", referencing Iran's supreme leader, Ayatollah Ali Khamenei.\nAn armoured vehicle is then seen driving past the crowd of mourners as an apparent security official opens fire. People are heard screaming and seen fleeing the area as two gunshots ring out.\nThe person who appears to be in uniform is seen pointing the gun away from the camera when the first shot is fired, before pointing the gun towards the crowd when a second shot can be heard. A puff of smoke near the gun is visible after each shot.\nAnother verified video from the cemetery shows smoke in the distance as people run away from the scene and several gunshots can be heard.\nState-run IRIB News claimed that the event was peaceful and reports of people injured or killed were not true.\nA billboard in the background of one the videos shows a picture of Alireza Seydi, a teenager from Abdanan who was understood to have been killed during the protests in Tehran last month and appears to be one of those commemorated during the ceremony.\nWeeks of anti-government protests started in late December which began over the economy but rapidly escalated. It peaked on 8 and 9 January after Reza Pahlavi, the exiled son of the late shah, called for nationwide protests to take place.\nThousands of people were killed in one of the deadliest government crackdowns in recent years. BBC Verify previously reported that it had spread to more than 68 towns and cities across the country.\nThe number of people killed during the protests is not fully known, but US-based Human Rights Activists News Agency (HRANA) has confirmed the deaths of 7,015 people, and the arrests of more than 53,000.\nKhamenei last month acknowledged that thousands had been killed during the protests and blamed the US for the deaths.\nAdditional reporting by Daniele Palumbo and Shayan Sardarizadeh",
+    "content_length": 2831,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Military",
+      "killed",
+      "death",
+      "injured"
+    ],
+    "keywords_national_matched": [
+      "Military"
+    ],
+    "keywords_threat_matched": [
+      "killed",
+      "death",
+      "injured"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Military"
+    ],
+    "kw_threat_hits": [
+      "killed",
+      "death",
+      "injured"
+    ],
+    "relevance_score": 10.0,
+    "evidence_strength": "LOW",
+    "evidence_numeric": 25.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 33.0,
+    "prepriority_score": 37.05,
+    "prepriority_bucket": "LOW",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "fetched_at": "2026-02-18T19:07:03.329101+00:00",
+      "rss": {
+        "published_at": "2026-02-18T18:14:39+00:00"
+      },
+      "kw_national_hits": [
+        "Military"
+      ],
+      "kw_threat_hits": [
+        "killed",
+        "death",
+        "injured"
+      ],
+      "kw_shortlisted": true
+    }
+  },
+  {
+    "id": "a0cdadb0c4e6df9008818f6e",
+    "country": "UNITED KINGDOM",
+    "source_name": "BBC News",
+    "source_slug": "bbc_news",
+    "url": "https://www.bbc.com/news/articles/c62dzgy0q37o?at_medium=RSS&at_campaign=rss",
+    "title": "Wave of arrests over killing of French nationalist piles pressure on far left",
+    "published_at": "2026-02-18T17:26:04+00:00",
+    "author": "Paul Kirby",
+    "summary": "Eleven people are in detention in connection with the killing of far-right student activist Quentin Deranque.",
+    "content_text": "Wave of arrests over killing of French nationalist piles pressure on far left\nTwo more people have been detained by French authorities investigating the killing of a far-right student activist by suspected radical left militants in Lyon, bringing the total in custody to 11.\nQuentin Deranque, 23, suffered a fatal brain injury when he was beaten and kicked during a demonstration last week on the sidelines of a conference held by Rima Hassan, a member of the European Parliament for hard-left party France Unbowed (LFI).\nThe wave of arrests began on Wednesday, and included a parliamentary aide to LFI politician Raphaël Arnault.\nArnault said his assistant, Jacques-Elie Favrot, had halted all his work in parliament and his contract was being terminated.\nEven before his arrest, Favrot's lawyer said he formally denied responsibility for the activist's death and was unable to continue his duties because of death threats.\nAlthough the radical left party leader Jean-Luc Mélenchon has sought to distance the party from Deranque's violent death, LFI has come under attack from rivals across the political spectrum, less than a month before France votes in key municipal elections.\nGovernment spokesperson Maud Bregeon has urged the party to suspend Raphaël Arnault from its parliamentary group because of the MP's links to Anti-Fascist Young Guard, which has been blamed for the violence a short distance from Sciences Po University in Lyon.\nThe political climate is febrile ahead of the March votes - seen as the last test of public opinion before next year's presidential elections. Within the past month Sébastien Lecornu's minority government had to survive two no-confidence motions to push through this year's budget.\nLFI party co-ordinator Manuel Bompard announced on Wednesday that the party's Paris HQ was briefly evacuated because of a bomb threat, and went on to accuse a large cross-section of the political and media classes of making days of false and defamatory statements.\n\"I call for an end to this absolutely despicable exploitation of the tragedy that took place last Thursday evening in Lyon, for which France Unbowed bears absolutely no responsibility,\" he told reporters. \"This climate should worry everybody.\"\nVideos captured from the scene show three people lying on the ground coming under attack from a larger group, all of them wearing hoods.\nA feminist anti-immigration group called Némésis said Deranque had been outside the venue to protect its members. Némésis has blamed Young Guard for the attack - an allegation it denies.\nA minute's silence was held in the National Assembly on Tuesday for the young activist, and politicians lined up to criticise the radical-left leader and his colleagues.\nJordan Bardella of the far-right National Rally said Mélenchon had \"moral and political responsibility\" for what had happened and even former LFI MP Alexis Corbière called on the party to take stock politically of what had happened.\nSébastien Lecornu said that \"without undermining the presumption of innocence\" LFI had to \"clean up\" its statements, ideas and its ranks fast.\nMélenchon hit back, saying he refused to take lessons from Lecornu.\nHowever, more moderate figures on the left such as Socialist ex-President François Hollande have accused LFI of being responsible for lowering the tone of politics in France.\n\"It's clear there can be no alliance in the municipal elections between the Socialists or reformist left-wing parties and LFI in the second round,\" Hollande said on Wednesday. \"The relationship is over.\"\nFor months the party had indulged in a kind of \"brutalisation\" of debate so there was no political space between the far left and far right, said Hollande.\nThe actions of police have also come in for criticism, as local forces were warned that Rima Hassan's event was due to take place but riot police were not on the scene at the time of the fatal attack.\nThe death of Deranque has prompted reaction across the border in Italy, where Prime Minister Giorgia Meloni has described the attack as deeply shocking and \"a wound for the whole of Europe\".",
+    "content_length": 4098,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "National Assembly",
+      "Police",
+      "attack",
+      "militants",
+      "radical",
+      "bomb",
+      "killing",
+      "death",
+      "fatal",
+      "riot",
+      "arrest",
+      "detained",
+      "detention",
+      "custody",
+      "threat",
+      "threats"
+    ],
+    "keywords_national_matched": [
+      "National Assembly",
+      "Police"
+    ],
+    "keywords_threat_matched": [
+      "attack",
+      "militants",
+      "radical",
+      "bomb",
+      "killing",
+      "death",
+      "fatal",
+      "riot",
+      "arrest",
+      "detained",
+      "detention",
+      "custody",
+      "threat",
+      "threats"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "National Assembly",
+      "Police"
+    ],
+    "kw_threat_hits": [
+      "attack",
+      "militants",
+      "radical",
+      "bomb",
+      "killing",
+      "death",
+      "fatal",
+      "riot",
+      "arrest",
+      "detained",
+      "detention",
+      "custody",
+      "threat",
+      "threats"
+    ],
+    "relevance_score": 45.0,
+    "evidence_strength": "MED",
+    "evidence_numeric": 60.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 100.0,
+    "prepriority_score": 66.5,
+    "prepriority_bucket": "HIGH",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "fetched_at": "2026-02-18T19:07:03.329090+00:00",
+      "rss": {
+        "published_at": "2026-02-18T17:26:04+00:00"
+      },
+      "kw_national_hits": [
+        "National Assembly",
+        "Police"
+      ],
+      "kw_threat_hits": [
+        "attack",
+        "militants",
+        "radical",
+        "bomb",
+        "killing",
+        "death",
+        "fatal",
+        "riot",
+        "arrest",
+        "detained",
+        "detention",
+        "custody",
+        "threat",
+        "threats"
+      ],
+      "kw_shortlisted": true
+    }
+  }
+]

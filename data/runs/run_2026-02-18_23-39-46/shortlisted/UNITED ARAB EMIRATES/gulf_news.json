@@ -1,0 +1,93 @@
+[
+  {
+    "id": "2b1a3d6a01fbbd1e7622a667",
+    "country": "UNITED ARAB EMIRATES",
+    "source_name": "Gulf News",
+    "source_slug": "gulf_news",
+    "url": "https://gulfnews.com/world/bangladesh-pm-names-cabinet-after-election-win-1.500447089",
+    "title": "Bangladesh PM names cabinet after election win",
+    "published_at": "2026-02-18T18:00:27+00:00",
+    "author": "AFP",
+    "summary": "Bangladesh PM names cabinet after election win",
+    "content_text": "His 50-member cabinet includes Amir Khasru Mahmud Chowdhury\nPrime Minister Tarique Rahman vowed on Wednesday to uphold the rule of law in Bangladesh and overhaul the battered economy in his first speech to the nation since taking office.\nRahman, leader of the Bangladesh Nationalist Party (BNP) was sworn into office on Tuesday after a landslide election victory, taking over from the interim administration that had led the country of 170 million people since a 2024 uprising that toppled the government of Sheikh Hasina.\n\"There will be no partisan or political dominance, no coercion or force; the rule of law will be the final word in running the country,\" Rahman said.\nThe BNP coalition won 212 seats, compared with 77 for the Jamaat-e-Islami-led alliance.\n\"Those who voted for the BNP so that it could form a new government, those who did not vote for it, and even those who did not vote at all — all have equal rights over this government,\" Rahman said in a television broadcast.\n\"The BNP government believes that irrespective of party orientation, ideology, religion, or philosophy, these belong to individuals, but the country belongs to everyone. In this country, as a Bangladeshi citizen, you have the same rights as I do.\"\nRahman has named a former commerce minister to steer the country's troubled economy and kept the defence portfolio for himself as he formed his first cabinet.\n\"The new government has taken office amid the ruins of a fragile economy battered by corruption and misrule, a weak governance structure, and deteriorating law and order,\" Rahman added.\nHis 50-member cabinet includes Amir Khasru Mahmud Chowdhury, 76, a businessman and veteran lawmaker who has now returned to the finance ministry.\nChowdhury is tasked with reviving growth after months of turmoil that rattled investor confidence in the world's second-largest garment exporter.\nHe had previously served in the cabinet of Rahman's late mother, three-time prime minister Khaleda Zia, but was forced to resign in 2004.\nAccording to media reports, his resignation came after he had granted permission for Taiwan to open a commercial office in Dhaka. Chowdhury has not spoken publicly about the issue.\nHe was also arrested several times during Sheikh Hasina's 15-year rule, as her government regularly targeted opposition leaders in cases often decried as politically motivated.\nRahman, 60, has appointed himself defence minister, as his government faces a daunting list of challenges including improving security and healing rifts in a country polarised by years of bitter rivalry.\nBangladesh is squeezed between India -- where border tensions are high -- and Myanmar, where clashes have spilled over into frontier areas.\nBangladesh is home to more than a million Rohingya refugees who have fled Myanmar.\nKhalilur Rahman is the foreign minister, an experienced diplomat and former UN official who holds degrees from universities in Dhaka and the United States.\nKhalilur Rahman held the security portfolio in the caretaker government and helped mediate trade talks with the United States.\nHe faces the tricky task of balancing regional relations after ties with India soured during the interim government, and Dhaka deepened engagement with New Delhi's arch-enemy Pakistan.\nIndia's Foreign Minister Subrahmanyam Jaishankar congratulated his counterpart on Wednesday, saying in a statement that they would work together to \"advance our cooperation\".\nOther members of the cabinet include veteran politicians, former ministers and lawmakers, as well as academics and several party workers.",
+    "content_length": 3574,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Pakistan",
+      "Finance Ministry",
+      "Cabinet",
+      "Defence",
+      "BNP",
+      "clashes",
+      "arrested"
+    ],
+    "keywords_national_matched": [
+      "Pakistan",
+      "Finance Ministry",
+      "Cabinet",
+      "Defence",
+      "BNP"
+    ],
+    "keywords_threat_matched": [
+      "clashes",
+      "arrested"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Pakistan",
+      "Finance Ministry",
+      "Cabinet",
+      "Defence",
+      "BNP"
+    ],
+    "kw_threat_hits": [
+      "clashes",
+      "arrested"
+    ],
+    "relevance_score": 58.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 48.0,
+    "prepriority_score": 72.3,
+    "prepriority_bucket": "HIGH",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://prod-qt-images.s3.amazonaws.com/production/gulfnews/feed.xml",
+      "fetched_at": "2026-02-18T19:03:19.716197+00:00",
+      "rss": {
+        "published_at": "2026-02-18T18:00:27+00:00"
+      },
+      "kw_national_hits": [
+        "Pakistan",
+        "Finance Ministry",
+        "Cabinet",
+        "Defence",
+        "BNP"
+      ],
+      "kw_threat_hits": [
+        "clashes",
+        "arrested"
+      ],
+      "kw_shortlisted": true
+    }
+  }
+]

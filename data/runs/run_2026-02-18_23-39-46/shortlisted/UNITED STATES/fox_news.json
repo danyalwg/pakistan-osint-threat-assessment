@@ -1,0 +1,144 @@
+[
+  {
+    "id": "62b3974b2ac692e61d7120ec",
+    "country": "UNITED STATES",
+    "source_name": "Fox News",
+    "source_slug": "fox_news",
+    "url": "https://www.foxnews.com/media/jasmine-crockett-pushes-back-texas-opponents-claim-trump-fcc-killed-interview-puts-blame-cbs",
+    "title": "Jasmine Crockett pushes back on Texas opponent's claim Trump FCC killed interview, puts blame on CBS",
+    "published_at": "2026-02-18T19:00:57+00:00",
+    "author": "Hanna Panreck",
+    "summary": "Rep. Jasmine Crockett responded Tuesday to CBS allegedly pulling Stephen Colbert&apos;s interview with Texas Senate rival James Talarico over FCC equal time concerns.",
+    "content_text": "Rep. Jasmine Crockett, D-Texas, commented Tuesday on the situation with CBS and Stephen Colbert's show not airing the late-night host's interview with James Talarico, her opponent in the Texas Democratic Senate primary.\nMS NOW host Jen Paski asked Crockett to respond to CBS' statement on the controversy, which named the Texas lawmaker. The network denied that it prohibited Colbert from airing the interview, adding that the show was provided with \"legal guidance\" that it could trigger the equal time rule for Crockett and the other candidate in the race, Ahmad Hassan.\n\"We actually received a phone call, and that was a little bit earlier today, and in that call, they explained that they actually told CBS that they could go ahead and move forward with the interview of James Talarico, they just needed to offer me equal time,\" Crockett said. \"I did not get a request from the Colbert show to go on.\"\n\"As you know, I've been on Colbert multiple times, and frankly, if we would have gotten an offer, that would have been great,\" she continued. \"But, we're in the middle of early voting, so I'm kind of focused on being in Texas at this moment. And, you know, I don't know what to believe, that's for sure. But I got that phone call as I was out talking to voters.\"\nFCC TO CRACK DOWN ON LIBERAL LATE NIGHT SHOWS, 'THE VIEW' NOT GIVING EQUAL AIRTIME TO GOP GUESTS\n\"I will tell you that I have no love for Bari Weiss, I have no love for Brendan Carr whatsoever. But I do think that, as you also mentioned — Kimmel — it is important that we resist in this moment,\" Crockett said.\nThe Talarico interview was ultimately posted on YouTube and not aired on CBS, which Crockett agreed with.\n\"And so there were a number of options that could be put on the table and frankly, you know, ‘The Late Show’ decided that this was the option and I think that it was a good strategy,\" she said.\nThe lawmaker even suggested that the controversy probably helped Talarico's campaign.\n\"I think it probably gave my opponent the boost he was looking for. So I think it's probably better that he didn't get on, and that they went straight to streaming because we know that when we resist, and when we know that it seems like they're trying to change the rules and bend the knee to this president, that it backfires in historic fashion,\" she said.\nFCC LAUNCHING PROBE INTO ABC'S 'THE VIEW' AMID CRACKDOWN ON EQUAL TIME FOR CANDIDATES\nCrockett told The Hill earlier in the day that the federal government did not shut down the interview.\n\"We did receive information suggesting that the federal government did not shut down this segment, number one, that is my understanding, that the federal government didn't shut this down. And we will do an official statement once we get another official statement that we anticipate is going to be coming from Paramount, alright, so we will read what they say, we will go from there,\" she said.\nCrockett said Colbert or CBS decided not to air the interview because of a \"fear\" that the Federal Communications Commission (FCC) was going to object, \"and that there may have been advice to just have me on, and they can clear the issue.\"\n\"It is my understanding that someone, somewhere decided we just don't want to do that,\" she said before clarifying that she had no \"love\" for the current FCC, but said there were layers to the story.\nCLICK HERE FOR MORE COVERAGE OF MEDIA AND CULTURE\nTalarico blamed the situation on President Donald Trump and the FCC in a post to X.\n\"This is the interview Donald Trump didn’t want you to see. His FCC refused to air my interview with Stephen Colbert. Trump is worried we’re about to flip Texas,\" he wrote.\nFox News Digital reached out to the FCC for comment but did not immediately hear back.\nTalarico's team also revealed on X on Wednesday that his team raised $2.5 million after \"the FCC banned our Colbert interview.\"\nColbert slammed CBS' denial that it prohibited him from airing the interview during his Tuesday show, and said he \"obeyed\" his bosses.\nCLICK HERE TO DOWNLOAD THE FOX NEWS APP\n\"So, we obeyed our network and put the interview on YouTube, where it’s gotten millions of views. And I can see why. Talarico’s an interesting guy. I don’t know if he should be the senator, but it was a good discussion. I wish we could have put it on the show, where no one would have watched it,\" he said.",
+    "content_length": 4352,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Federal Government",
+      "killed"
+    ],
+    "keywords_national_matched": [
+      "Federal Government"
+    ],
+    "keywords_threat_matched": [
+      "killed"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Federal Government"
+    ],
+    "kw_threat_hits": [
+      "killed"
+    ],
+    "relevance_score": 10.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 15.0,
+    "prepriority_score": 45.0,
+    "prepriority_bucket": "MEDIUM",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://moxie.foxnews.com/google-publisher/latest.xml",
+      "fetched_at": "2026-02-18T19:09:39.252720+00:00",
+      "rss": {
+        "published_at": "2026-02-18T19:00:57+00:00"
+      },
+      "kw_national_hits": [
+        "Federal Government"
+      ],
+      "kw_threat_hits": [
+        "killed"
+      ],
+      "kw_shortlisted": true
+    }
+  },
+  {
+    "id": "a7d10aa2ea1690cc65417947",
+    "country": "UNITED STATES",
+    "source_name": "Fox News",
+    "source_slug": "fox_news",
+    "url": "https://www.foxnews.com/politics/mamdani-proposes-cutting-nypd-budget-canceling-5k-new-officer-hires",
+    "title": "Mamdani proposes cutting NYPD budget, canceling 5K new officer hires",
+    "published_at": "2026-02-18T18:35:23+00:00",
+    "author": "Rachel Wolf",
+    "summary": "New York City Mayor Zohran Mamdani is eyeing the NYPD&apos;s funding and a proposed personnel increase as he looks to tackle the city&apos;s &quot;budget crisis.&quot;",
+    "content_text": "New York City Mayor Zohran Mamdani is looking to get the Big Apple on a tighter budget, and seems to see cuts to the New York Police Department (NYPD) as a way of getting the city back on track.\nMamdani's predecessor, Mayor Eric Adams, proposed at the end of his term that the city hire 5,000 more NYPD officers. However, upon entering office, Mamdani moved to cancel all orders signed by Adams following his Sept. 26, 2024, indictment. This included the proposed NYPD personnel increase.\nUnder Adams' plan, the NYPD was set to add 300 officers in July 2026, growing to 2,500 in July 2027 and eventually increasing to 5,000 additional officers annually in July 2028. The Adams plan allowed the NYPD to deploy approximately 40,000 officers to the streets, while Mamdani's plan caps the number closer to its current level of around 35,000.\nAdditionally, in the preliminary FY 2027 budget, it notes the importance of \"significantly reducing current vacancies,\" which could include reductions in funding for the NYPD based on unfilled positions. The Gothamist, a New York-based publication, noted that Mamdani's budget proposes a $22 million decrease in the NYPD's $6.4 billion budget next year.\nOn Tuesday, Mamdani told reporters that New York City was in a budget crisis but said that it was something the city \"can and will overcome.\"\nMamdani said during the Tuesday news conference that his administration had \"inherited a historic budget gap\" and while it had managed to lower the deficit from $12 billion to $5.4 billion, there was still a \"significant chasm.\"\n\"I know that for those who have watched budget after budget, it is tempting to assume that we are engaging in the same dance as our predecessors. Let me assure you, nothing about this is typical. That's why our solutions won't be either,\" Mamdani said.\nMAMDANI PROPOSES RAISING NYC PROPERTY TAXES IF STATE DOESN'T APPROVE TAX HIKE ON WEALTHY\nThe mayor suggested that there were two paths to balancing the budget: one that he painted as putting the burden on the wealthy and the other that he classified as drawing from vital resources. He pushed for the state to raise taxes on the wealthy and corporations in order to balance the budget, a stance that was in-line with his campaign statements.\n\"There are two paths to bridge this gap. The first is the most sustainable and the fairest path. This is the path of ending the drain on our city and raising taxes on the richest New Yorkers and the most profitable corporations,\" Mamdani said.\nCLICK HERE TO DOWNLOAD THE FOX NEWS APP\n\"And if we do not go down the first path, the city will be forced down a second, more harmful path. Faced with no other choice, the city would have to exercise the only revenue lever fully within our own control. We would have to raise property taxes. We would also be forced to raid our reserves to balance the budget as required by law,\" he added.\nFox News Digital reached out to Mamdani's office for comment.",
+    "content_length": 2953,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Police",
+      "raid"
+    ],
+    "keywords_national_matched": [
+      "Police"
+    ],
+    "keywords_threat_matched": [
+      "raid"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Police"
+    ],
+    "kw_threat_hits": [
+      "raid"
+    ],
+    "relevance_score": 35.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 15.0,
+    "prepriority_score": 57.5,
+    "prepriority_bucket": "MEDIUM",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://moxie.foxnews.com/google-publisher/latest.xml",
+      "fetched_at": "2026-02-18T19:09:39.252771+00:00",
+      "rss": {
+        "published_at": "2026-02-18T18:35:23+00:00"
+      },
+      "kw_national_hits": [
+        "Police"
+      ],
+      "kw_threat_hits": [
+        "raid"
+      ],
+      "kw_shortlisted": true
+    }
+  }
+]

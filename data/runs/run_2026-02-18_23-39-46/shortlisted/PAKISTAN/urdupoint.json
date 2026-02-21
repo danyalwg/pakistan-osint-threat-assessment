@@ -1,0 +1,73 @@
+[
+  {
+    "id": "e77417c43f2ccbae7f2cf71b",
+    "country": "PAKISTAN",
+    "source_name": "UrduPoint",
+    "source_slug": "urdupoint",
+    "url": "https://www.urdupoint.com/en/pakistan/3-shot-dead-cpo-takes-notice-2141140.html",
+    "title": "3 shot dead; CPO takes notice",
+    "published_at": "2026-02-18T18:10:23+00:00",
+    "author": null,
+    "summary": null,
+    "content_text": null,
+    "content_length": 0,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "fetch failed: RuntimeError: HTTP 403"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Pakistan",
+      "dead"
+    ],
+    "keywords_national_matched": [
+      "Pakistan"
+    ],
+    "keywords_threat_matched": [
+      "dead"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Pakistan"
+    ],
+    "kw_threat_hits": [
+      "dead"
+    ],
+    "relevance_score": 28.0,
+    "evidence_strength": "LOW",
+    "evidence_numeric": 25.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 15.0,
+    "prepriority_score": 44.25,
+    "prepriority_bucket": "MEDIUM",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.urdupoint.com/en/sitemap/news.rss",
+      "fetched_at": "2026-02-18T18:46:09.206036+00:00",
+      "rss": {
+        "published_at": "2026-02-18T18:10:23+00:00"
+      },
+      "kw_national_hits": [
+        "Pakistan"
+      ],
+      "kw_threat_hits": [
+        "dead"
+      ],
+      "kw_shortlisted": true
+    }
+  }
+]

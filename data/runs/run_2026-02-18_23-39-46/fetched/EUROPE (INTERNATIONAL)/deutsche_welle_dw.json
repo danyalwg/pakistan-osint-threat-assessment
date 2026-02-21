@@ -1,0 +1,387 @@
+[
+  {
+    "id": "882c1748a0409e238f706bcd",
+    "country": "EUROPE (INTERNATIONAL)",
+    "source_name": "Deutsche Welle (DW)",
+    "source_slug": "deutsche_welle_dw",
+    "url": "https://www.dw.com/en/us-trump-s-epa-sued-by-environmentalist-health-groups/a-76027413?maca=en-rss-en-top-1022-rdf",
+    "title": "US: Trump's EPA sued by environmentalist, health groups",
+    "published_at": "2026-02-18T18:43:00+00:00",
+    "author": "Jenipher Camino Gonzalez",
+    "summary": "US President Donald Trump has revoked a 2009 EPA declaration that determined carbon dioxide and other greenhouse gases as a threat to public health and welfare. Several groups are now challenging this decision in court.",
+    "content_text": "US: Trump's EPA sued by environmentalist, health groups\nFebruary 18, 2026Several US environmental and health groups filed suit against the administration of President Donald Trump over the repeal of a key scientific rule behind federal climate change-related regulations.\nThe suit was filed in the US Court of Appeals for the District of Columbia in Washington, arguing that the administration's revoking of the 2009 \"endangerment finding\" is illegal.\nThe 2009 \"endangerment finding\" came about as a result of a prolonged legal battle that ended in a 2007 Supreme Court ruling, Massachusetts v. EPA, where it was determined that greenhouse gases qualify as pollutants under the Clean Air Act.\nThe ruling directed the Environmental Protection Agency (EPA) to determine whether they pose a danger to public health and welfare and it did so, based on overwhelming scientific consensus that six greenhouse gases threaten public health and welfare by fueling climate change.\nBut Trump has dismissed concerns about the consequences of repealing 2009 \"endangerment finding.\"\nThe US president has claimed that human-caused climate change is a hoax and said that repealing the \"endangerment finding\" would generate more than $1 trillion (€840 billion) in regulatory savings and make cars cheaper, as standards for vehicle emissions would change.\nA 'handout to oil companies'\nBacking the legal challenge against Trump are the American Lung Association, the Clean Air Council, the Union of Concerned Scientists, the Sierra Club and the Center for Biological Diversity.\n\"We're suing to stop Trump from torching our kids' future in favor of a monster handout to oil companies,\" said David Pettit, an attorney at the Center for Biological Diversity, in a statement.\n\"Nobody but Big Oil profits from Trump trashing climate science and making cars and trucks guzzle and pollute more. Consumers will pay more to fill up, and our skies and oceans will fill up with more pollution. The EPA's rollbacks are based on political poppycock, not science or law, and the courts should see it that way,\" the statement said.\nThe rollback of the 2009 rule has been broadly condemned by environmental groups and many members of the Democratic party, so legal action against the White House was expected.\nJoanne Spalding of the Sierra Club said in a statement Wednesday the rule's repeal would have \"disastrous consequences for the American people, our health, and our shared future.\"\n\"This shortsighted rollback is blatantly unlawful and their efforts to force this upon the American people will fail,\" she added.\nThe legal challenge could make its way back to the Supreme Court, forcing justices to revisit the court's own ruling in favor of the measure.\nEdited by: Dmytro Hubenko",
+    "content_length": 2751,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [],
+    "keywords_national_matched": [],
+    "keywords_threat_matched": [],
+    "national_relevant": false,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [],
+    "kw_threat_hits": [],
+    "relevance_score": 0.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 0.0,
+    "prepriority_score": 38.5,
+    "prepriority_bucket": "LOW",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://rss.dw.com/rdf/rss-en-top",
+      "fetched_at": "2026-02-18T19:09:53.062130+00:00",
+      "rss": {
+        "published_at": "2026-02-18T18:43:00+00:00"
+      },
+      "kw_national_hits": [],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  },
+  {
+    "id": "ac6e8fd63cb96c41c7249b7d",
+    "country": "EUROPE (INTERNATIONAL)",
+    "source_name": "Deutsche Welle (DW)",
+    "source_slug": "deutsche_welle_dw",
+    "url": "https://www.dw.com/en/eu-governments-look-to-australia-s-social-media-ban-for-kids/a-76021753?maca=en-rss-en-top-1022-rdf",
+    "title": "EU governments look to Australia's social media ban for kids",
+    "published_at": "2026-02-18T16:44:00+00:00",
+    "author": "Matt Pearson",
+    "summary": "Germany has joined the growing list of EU nations that are considering banning children from social media. Australia has banned youths from social media since December — and its example has lessons for EU governments.",
+    "content_text": "EU governments look to Australia's social media ban for kids\nFebruary 18, 2026German Chancellor Friedrich Merz thinks that sociel media regulations could help prevent \"personality deficits and problems in the social behavior of young people.\" Spanish Prime Minister Pedro Sanchez wants to protect children from the \"digital wild west.\" And French President Emmanuel Macron has insisted that \"the emotions of our children and teenagers are not for sale or to be manipulated.\"\nThough no European country has fully implemented a child social media ban, the intent is clear and the wheels are in motion in many places. Norway, Greece, the UK, Denmark, Italy and the Netherlands are among a host of European countries discussing some form of ban, while the EU has increasingly moved toward supporting the principle.\nMany governments are likely to look to the experience of Australia, which introduced a world-first social media ban for under-16s in December. This policy relied on policing by the social media firms. Sites including Facebook, Instagram, Snapchat, TikTok, X, YouTube and Reddit — which has filed a lawsuit in opposition to the ban — are now age-restricted but online gaming and messaging sites such as WhatsApp are not.\nThe country's eSafety Commissioner, Julie Inman Grant, reported last month that social media companies \"removed access to about 4.7 million accounts identified as belonging to children under 16 in the first half of December\" but provided no more recent figures after a DW request.\nHeadline figures not the whole story\nTama Leaver, a professor of internet studies at Curtin University in Perth, Australia, told DW that the headline figures, which have caught the eye of many in Europe, don't necessarily tell the whole story.\n\"We don't have a breakdown of that number, nor do we know how many new accounts — possibly from teens pretending to be older — were created over the same period of time,\" he said.\nHe added that, anecdotally, \"many young people aged 13-15 seem to have circumvented the ban, while others seem to have been banned from some platforms and not others.\" This is an observation backed by media reports and other experts. \"On a technical level, the limitations and imprecise nature of trying to verify age using selfies and other tools was also pretty much as inaccurate as most people expected in advance,\" Leaver said.\nGovernments 'jumping too quickly' to follow Australia?\nThe flurry of European countries, and others around the world such as India and Malaysia, keen to follow Australia's lead is a surprise to Susan Sawyer, from Australia's largest child health research center, the Murdoch Children's Research Institute.\n\"I had expected there would be much more of a watchful expectancy of the results of the Australian ban before governments would be jumping in quite as quickly,\" she told DW. \"We don't know what the effects of the ban are going to be and we need to evaluate this carefully. Governments need to be careful to avoid thinking that social media bans are a silver bullet to this problem.\"\nLeaver agrees that Europe would be better watching and waiting for now. \"No one really knows what difference this ban will make, but we know for sure it will take years, not months, before a measurable cultural change will exist, if it exists at all. It would make so much more sense for other countries to wait and see what happens in Australia, and really see what lessons can be learnt, before rushing through their own imprecise legislation,\" he said.\nHas the social media ban confused teens?\nSome of Sawyer's research, which was heard by the Australian Senate Committee ahead of the ban, found that 10–13-year-olds showed the most adverse effects of social media usage, particularly girls. While the age limits of bans vary in European proposals, she said that any changes will likely be a \"slow burn\".\n\"Over the next couple of years the current generation of six to 10-year-olds who don't yet have access to a smartphone or social media will be older at the time that their parents first allow them access. It's going to be a change in social norms that's not going to take place overnight.\"\nLeaver advocates a staggered introduction of any bans imposed elsewhere and a longer, deeper period of consultation with children.\n\"The most confused group are those 13-15 year olds who already had social media accounts, were booted off the platforms, and then will come back on at 16,\" he said. \"It would have made a lot more sense to grandfather the rules, so under 13s can't get accounts until 16, but those with existing accounts keep access. I think a lot of 13-15 year olds feel like the ban was done to them, rather than with them.\"\nCan the Australian model even work in Europe?\nGiven the speed of progress towards bans in Europe and the lack of children's voices in the conversation thus far, that would likely also be a concern on the continent.\nBut, Dr. Stephan Dreyer from the Leibniz Institute for Media Research in Hamburg, told DW, that, to his mind, Germany and Europe don't require such bans anyway.\nHe said the European Digital Services Act, passed a year ago, addresses many safety concerns and that the way EU law works means obliging the social media companies to police a ban in individual countries would be tricky. While there are different means to achieve similar ends within Europe, he sees the data as unclear.\n\"The lesson for Europe is cautionary. Australia illustrates the gap between the political appeal of decisive prohibition and the technical and rights-related complexities of implementation. Age verification at scale requires either comprehensive control infrastructure or probabilistic profiling, with both approaches showing deep intrusions into the rights of all users. Europe, with its stronger fundamental rights frameworks and the GDPR, would face these tensions even more acutely. We should learn from Australia's difficulties, not rush to replicate them.\"\nEdited by: Jess Smee",
+    "content_length": 5977,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Police"
+    ],
+    "keywords_national_matched": [
+      "Police"
+    ],
+    "keywords_threat_matched": [],
+    "national_relevant": true,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [
+      "Police"
+    ],
+    "kw_threat_hits": [],
+    "relevance_score": 35.0,
+    "evidence_strength": "MED",
+    "evidence_numeric": 60.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 6.0,
+    "prepriority_score": 52.1,
+    "prepriority_bucket": "MEDIUM",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://rss.dw.com/rdf/rss-en-top",
+      "fetched_at": "2026-02-18T19:09:53.062150+00:00",
+      "rss": {
+        "published_at": "2026-02-18T16:44:00+00:00"
+      },
+      "kw_national_hits": [
+        "Police"
+      ],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  },
+  {
+    "id": "e82a449114494193a5f25fb4",
+    "country": "EUROPE (INTERNATIONAL)",
+    "source_name": "Deutsche Welle (DW)",
+    "source_slug": "deutsche_welle_dw",
+    "url": "https://www.dw.com/en/united-states-and-iran-at-impasse-after-geneva-nuclear-talks/a-76023932?maca=en-rss-en-top-1022-rdf",
+    "title": "United States and Iran at impasse after Geneva nuclear talks",
+    "published_at": "2026-02-18T16:30:00+00:00",
+    "author": "Shabnam von Hein",
+    "summary": "The latest round of negotiations on Iran's nuclear program has ended without a breakthrough — and the threat of US military action looms large. The ball seems to be back in Iran's court.",
+    "content_text": "United States and Iran at impasse after Geneva nuclear talks\nFebruary 18, 2026A second round of indirect negotiations between Iran and the United States in Geneva on Monday ended without concrete results.\nIranian Foreign Minister Abbas Araghchi and a team of technical experts met with US Special Envoy Steve Witkoff and US President Donald Trump's son-in-law Jared Kushner — but both sides had little to show for it after over three hours of talks at the Omani embassy.\nAfterwards, Araghchi said the meeting was \"more constructive\" than the previous round held earlier this month.\n\"Good progress was made compared to the previous meeting, and we now have a clearer path ahead,\" Araghchi told Iranian state-run television.\nAraghchi added that \"a set of guiding principles\" had been reached, but did not share further details.\n\"This does not mean that we can reach an agreement quickly, but at least the path has begun,\" he said.\nUS-Iran talks mediated by Oman were launched on February 6, but it is currently unclear if another round is on the horizon. Before Monday's talks, Iran's Foreign Ministry said Araghchi is prepared to stay in Geneva as long as it takes to reach a result.\nUranium enrichment still 'red line' for US\n\"Optimism in negotiations is usually part of political rhetoric and also accompanied earlier rounds of talks,\" political scientist Mohammad Ghaedi at George Washington University told DW.\n\"The core conflict between the two sides remains,\" he said, adding that Iran's uranium enrichment is a \"red line\" for Washington.\n\"Tehran, on the other hand, does not want to give up enrichment. As long as the centrifuges are running, Iran retains the option of nuclear deterrence. If the centrifuges stop running, the country loses this deterrence,\" Ghaedi added.\nAt the same time, Tehran has signaled its willingness to limit its nuclear program and transfer its 60% enriched uranium to a third country. Any agreement where the US accepts continued uranium enrichment would be seen as a major concession in Tehran.\nThe Iranian regime insists its nuclear development is for civilian use, and denies it is trying to produce nuclear weapons. However, the International Atomic Energy Agency (IAEA) in late 2024 warned that Iran's uranium enrichment was approaching weapons-grade level, and was already far higher than that needed for peacetime purposes.\nThe Islamic Republic is demanding the lifting of sanctions in return for limiting its uranium enrichment, a step that the US has so far rejected.\n\"Tehran is more willing to accept a military conflict than to completely abandon uranium enrichment,\" said Ghaedi.\nThe Iranian leadership has repeatedly ruled out negotiating other sticking points such as missile programs or their support for regional militant proxies.\nIranians say IAEA is welcome once again\nOne day before the latest round of negotiations, Iran's Araghchi met with IAEA Director General Rafael Grossi.\nRelations between Tehran and the IAEA deteriorated following the US attacks on Iranian nuclear facilities last year. Iran has subsequently restricted access for international inspectors.\nOn February 15, however, Iran's National Security chief Ali Larijani told Al Jazeera that the IAEA \"can monitor all Iranian facilities. We accept the controls under the Nuclear Non-Proliferation Treaty.\"\nLarijani added it would be unrealistic to expect a country that had mastered the technical knowhow to completely give up uranium enrichment. He pointed to the need for uranium for civilian purposes, including cancer treatment. In Tehran, a research reactor still produces cancer medication using uranium enriched to 20%.\nRisk of regional conflict\nIran's supreme leader Ayatollah Ali Khamenei renewed his threats against the US on Tuesday, claiming President Trump will fail in his \"attempt to overthrow\" the Islamic leadership in Tehran.\nTrump has previously said that \"regime change\" in Tehran might be the best thing that could happen to Iran.\nHis comments follow the brutal suppression of nationwide protests in Iran.\nOver the weekend, around 1 million Iranians in the diaspora gathered in cities around the world to demonstrate for regime change, with some calling for the return of exiled opposition figure Reza Pahlavi, the son of the last Shah who was overthrown in 1979.\nUnder pressure from various sides, the regime in Tehran is attempting to demonstrate its military strength.\nOn Tuesday, the Revolutionary Guard Navy began maneuvers and, according to its own statements, fired missiles at targets in the Strait of Hormuz. Speedboats equipped with rocket launchers were also involved in the exercise.\nThe strait, which is approximately 55 kilometers (34 miles) wide, is considered one of the world's most important shipping routes for global oil exports. Iranian officers have repeatedly threatened a blockade during previous tensions with the US.\nUS increases military posture in the Middle East\nThe US has \"a lot of options\" when it comes to dealing with Iran, US Vice President JD Vance told Fox News on Tuesday evening.\nHe accused the government in Tehran of failing to recognize the \"red lines\" set by Trump, adding that the US president had numerous tools at his disposal to ensure that Iran does not acquire a nuclear bomb.\nVance also repeated the accusations that Tehran is trying to build a nuclear weapon.\nIn recent weeks, the US has increased its military presence in the region, sending two aircraft carrier strike groups to the Arabian Sea.\nOil wells in the region are vulnerable to attacks from Iran. If Washington decides to intervene, observers warn that the escalation could drive up oil prices inside the US as the country prepares for the midterm elections, and potentially harm Trump's Republican party.\n\"Furthermore, the death of even a single US soldier in such a conflict would have considerable political costs,\" political scientist Ghaedi said.\n\"The decision to go to war lies in the hands of the US. How long a conflict would last is beyond its control and carries high risks. This circumstance is likely to have a significant influence on President Trump's decision-making,\" he added.\nUS government circles have reported that many details remain unresolved despite the progress being made in Geneva. The ball seems to be back in Tehran's court.\nThe Iranian side wants to \"come back with detailed proposals in the next two weeks to clarify some of the outstanding differences,\" Germany's DPA news agency quoted a senior US official as saying.\nThis article was originally written in German.",
+    "content_length": 6549,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Military",
+      "militant",
+      "bomb",
+      "rocket",
+      "missile",
+      "death",
+      "weapon",
+      "weapons",
+      "threat",
+      "threats"
+    ],
+    "keywords_national_matched": [
+      "Military"
+    ],
+    "keywords_threat_matched": [
+      "militant",
+      "bomb",
+      "rocket",
+      "missile",
+      "death",
+      "weapon",
+      "weapons",
+      "threat",
+      "threats"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Military"
+    ],
+    "kw_threat_hits": [
+      "militant",
+      "bomb",
+      "rocket",
+      "missile",
+      "death",
+      "weapon",
+      "weapons",
+      "threat",
+      "threats"
+    ],
+    "relevance_score": 10.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 87.0,
+    "prepriority_score": 52.2,
+    "prepriority_bucket": "MEDIUM",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://rss.dw.com/rdf/rss-en-top",
+      "fetched_at": "2026-02-18T19:09:53.062162+00:00",
+      "rss": {
+        "published_at": "2026-02-18T16:30:00+00:00"
+      },
+      "kw_national_hits": [
+        "Military"
+      ],
+      "kw_threat_hits": [
+        "militant",
+        "bomb",
+        "rocket",
+        "missile",
+        "death",
+        "weapon",
+        "weapons",
+        "threat",
+        "threats"
+      ],
+      "kw_shortlisted": true
+    }
+  },
+  {
+    "id": "daf8ffb28f700a16ba4cdb70",
+    "country": "EUROPE (INTERNATIONAL)",
+    "source_name": "Deutsche Welle (DW)",
+    "source_slug": "deutsche_welle_dw",
+    "url": "https://www.dw.com/en/state-elections-could-spell-doom-of-germany-s-oldest-party/a-76024710?maca=en-rss-en-top-1022-rdf",
+    "title": "State elections could spell doom of Germany's oldest party",
+    "published_at": "2026-02-18T16:27:00+00:00",
+    "author": "Sabine Kinkartz",
+    "summary": "The Social Democrats were once a \"big tent\" party, with the support of almost half of Germany's electorate. Now, the SPD is fighting for relevance. This year, five state elections could spell trouble for the party.",
+    "content_text": "State elections could spell doom of Germany's oldest party\nFebruary 18, 2026The center-left Social Democrats (SPD), Germany's first political party, are struggling to muster their optimism in a year when five of Germany's 16 federal states are set to elect new parliaments. According to the latest opinion polls, the SPD could be voted out of power in two states that is has governed for decades. In two others, the SPD is polling in the single digits.\nTo understand what went wrong, we need to look back: The SPD was founded as a traditional workers party in 1863, which makes it the country's oldest political party. In that period, it aimed to be the political representative of factory workers, whose precarious lives were characterized by long working hours, low wages, job insecurity, a lack of occupational safety and a housing shortage.\nBlue collar workers became the SPD's voter base, buying into the promise of education, equal opportunities and equal rights for all, regardless of class or origin.\nNowadays, the traditional working class no longer exists: Well-paid industrial workers have long become the middle class in society.\nThe Left: A split from the SPD\nAccording to a survey by pollster Forsa in November 2025, only 9% of Germany's blue-collar workers and the unemployed said they would vote for the SPD. Those who feel socially disadvantaged now tend to sympathize with the far-right populist Alternative for Germany (AfD). After the general election in February 2025, an infratest-dimap poll found that 38% of working class voters had cast their ballot for the AfD.\nMany former SPD voters have also switched to the socialist Left Party, which was formed in part because of dissatisfaction with the social welfare policies of the SPD under Chancellor Gerhard Schröder, who headed a coalition government with the Greens from 1998 to 2005.\nThe Left was formed in 2007 through the merger of the Party of Democratic Socialism (PDS) — the successor to East Germany's ruling party — and Labour and Social Justice — The Electoral Alternative, which split from the SPD in Western Germany.\nSchröder and his SPD came to power in 1998 after 16 years of Chancellor Helmut Kohl, of the center-right Christian Democrats (CDU). The SPD won almost 41% of the vote through a campaign that wooed voters not just on the left, but in the political center. In the face of high unemployment and a sluggish economy, Schröder pushed through a radical reform of the welfare state, called \"Agenda 2010.\" State social benefits were cut, employment protection was relaxed, and the low-wage sector was expanded.\nThe SPD lost half of its voters\nThe conservative opposition bloc of the CDU and Christian Social Union (CSU) enthusiastically applauded this agenda, which gave a boost to the German economy. Within the SPD, however, it led to massive disputes. The left wing of the party rebelled and no longer wanted to support Schröder's policies.\nWithin 10 years, the SPD had lost almost half of its voters — to the Left, the Greens and even the CDU, as Angela Merkel, by then the chancellor, steadily edged her conservatives leftward. Her conservative critics called this \"the social democratization of the CDU.\"\nIt became increasingly difficult for voters to distinguish between the policies of the CDU/CSU and the SPD — especially as the CDU/CSU and SPD governed together in a coalition for most of the period from 2005 to 2021. During this time, the SPD made many political compromises and was unable to push many of its more left-wing social and tax policies through.\nAnother chapter of failure\nBefore the 2021 general election, the SPD was polling at 16%, but, following major gaffes by the conservatives during the election campaign, it emerged as the strongest party, winning 25.7% of the vote. Olaf Scholz, the finance minister and vice chancellor under Merkel, became chancellor.\nThe party hoped that it was finally back on the road to success. The opposite was the case.\nThe three-way coalition led by Scholz was hampered by massive infighting between the Greens and the neoliberal Free Democrats (FDP). The government collapsed prematurely after only three years in power and the SPD's reputation was further damaged. In the 2025 election, it only managed to secure around 16%, prompting the head of the Forsa institute, Manfred Güllner, to speak of an \"existential threat\" to the SPD.\nNew SPD policy platform shifts to the left\nIn 2025, the SPDs once again entered government, this time in a coalition as the junior partner to Chancellor Friedrich Merz's CDU/CSU — and now the party faces familiar problems. Once again, they run the risk of being unable to define their own profile.\nThe SPD has begun working on a new policy platform for 2027 that is to feature left-wing social policies. But how credible is that? Such demands cannot be enforced against the coalition partner.\nUnder Merz, the CDU has once again become significantly more conservative. In view of empty state coffers and a very weak economy, cuts in social spending are on the cards, the CDU/CSU is planning a major reform of the welfare state, the pension system, healthcare, and care for the elderly.\nThe SPD also believes that many of the proposals are necessary, but has demanded a more humane approach. The party has benefited slightly in polls from this campaign for more social equality.\nThe federal government is currently trying to avoid an open dispute because of the upcoming state elections — but it seems increasingly paralyzed in terms of domestic policy.\nPolitical observers expect both the CDU and the SPD to draw consequences from the first two state elections in March, in the southwestern states of Baden-Württemberg and the western state of Rhineland-Palatinate, where the SPD has headed the government since 1991. If it were to lose power there, pressure is likely to grow within the party to distance itself from CDU/CSU on the national level.\nThis article was originally written in German.\nWhile you're here: Every Tuesday, DW editors round up what is happening in German politics and society. You can sign up here for the weekly email newsletter, Berlin Briefing.",
+    "content_length": 6157,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Federal Government",
+      "radical",
+      "wanted",
+      "threat"
+    ],
+    "keywords_national_matched": [
+      "Federal Government"
+    ],
+    "keywords_threat_matched": [
+      "radical",
+      "wanted",
+      "threat"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Federal Government"
+    ],
+    "kw_threat_hits": [
+      "radical",
+      "wanted",
+      "threat"
+    ],
+    "relevance_score": 10.0,
+    "evidence_strength": "MED",
+    "evidence_numeric": 60.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 33.0,
+    "prepriority_score": 42.3,
+    "prepriority_bucket": "MEDIUM",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://rss.dw.com/rdf/rss-en-top",
+      "fetched_at": "2026-02-18T19:09:53.062171+00:00",
+      "rss": {
+        "published_at": "2026-02-18T16:27:00+00:00"
+      },
+      "kw_national_hits": [
+        "Federal Government"
+      ],
+      "kw_threat_hits": [
+        "radical",
+        "wanted",
+        "threat"
+      ],
+      "kw_shortlisted": true
+    }
+  },
+  {
+    "id": "f4098a12c5b96d9cd2665798",
+    "country": "EUROPE (INTERNATIONAL)",
+    "source_name": "Deutsche Welle (DW)",
+    "source_slug": "deutsche_welle_dw",
+    "url": "https://www.dw.com/en/deutsche-bahn-says-cyberattack-hit-ticket-and-info-systems/a-76024130?maca=en-rss-en-top-1022-rdf",
+    "title": "Deutsche Bahn says cyberattack hit ticket and info systems",
+    "published_at": "2026-02-18T16:08:00+00:00",
+    "author": "Richard Connor",
+    "summary": "Germany's national rail operator says it was hit with a cyberattack on its systems that disrupted ticketing and timetable information.",
+    "content_text": "Deutsche Bahn says cyberattack hit ticket and info systems\nFebruary 18, 2026German rail operator Deutsche Bahn on Wednesday said it had been targeted by a cyberattack that disrupted its digital services.\nThe company said a so-called DDoS attack hit its IT systems around midday Tuesday, causing outages in travel information and booking tools on its website and in the Navigator app.\nWhat did Deutsche Bahn say about the cyberattack?\n\"DB has been and continues to be subjected to attacks on its IT systems,\" the company stated on Wednesday. \"The current attack is specifically targeted at DB and has occurred in waves. The scale of the attack is considerable.\"\nIn a DDoS (distributed denial of service) attack, an IT system is effectively bombarded with requests from a large number of sources, causing it to become overloaded and, in the worst case, crash. Many such attacks are considered a form of digital vandalism.\nDeutsche Bahn had informed customers about the disruptions on Tuesday afternoon, and by the evening said the systems were largely running stably again.\nOn Wednesday morning, further problems occurred, and the company later cited the cyberattack as the cause.\n\"Our defensive measures took effect in order to keep the impact on our customers as low as possible,” Deutsche Bahn said.\n\"We will not comment on speculation about the background of the attack,\" the firm added. \"Our top priority remains the protection of customer data and the availability of our information and booking systems.\"\nDeutsche Bahn is Germany's national rail operator, running both passenger and cargo trains as well as suburban commuter railways in many cities.\nAn Interior Ministry spokeswoman said the company had been in contact with the country's cybersecurity authorities.\nWho is carrying out the attacks?\nGermany's security agencies have warned about transport infrastructure being a prime target for cyber- and physical attacks, especially with heightened tensions around Russia-linked hacking groups and hybrid threats.\nLast year saw a string of what Deutsche Bahn has also called \"nearly-daily attacks\" beginning over the summer.\nCrucial rail lines were sabotaged last year between Hamburg and Berlin, and between Cologne and Düsseldorf.\nIn one case, an explosive was detonated in a tunnel used by the train, and in another, the overhead electrical cables were cut.\nLawmakers and investigators alike have asked if Russia could be behind the sabotage, as part of a multi-faceted attack on the lives of ordinary Germans.\nInterior Minister Alexander Dobrindt spoke of alleged agents for hire, who are not part of a foreign government, but will carry out cybercrime or physical attacks on infrastructure for money.\nGermany has also suffered a series of attacks targeting infrastructure claimed by left-wing activists.\nEdited by: Dmytro Hubenko",
+    "content_length": 2841,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Interior Ministry",
+      "attack",
+      "explosive",
+      "vandalism",
+      "threats"
+    ],
+    "keywords_national_matched": [
+      "Interior Ministry"
+    ],
+    "keywords_threat_matched": [
+      "attack",
+      "explosive",
+      "vandalism",
+      "threats"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Interior Ministry"
+    ],
+    "kw_threat_hits": [
+      "attack",
+      "explosive",
+      "vandalism",
+      "threats"
+    ],
+    "relevance_score": 10.0,
+    "evidence_strength": "MED",
+    "evidence_numeric": 60.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 42.0,
+    "prepriority_score": 43.2,
+    "prepriority_bucket": "MEDIUM",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://rss.dw.com/rdf/rss-en-top",
+      "fetched_at": "2026-02-18T19:09:53.062181+00:00",
+      "rss": {
+        "published_at": "2026-02-18T16:08:00+00:00"
+      },
+      "kw_national_hits": [
+        "Interior Ministry"
+      ],
+      "kw_threat_hits": [
+        "attack",
+        "explosive",
+        "vandalism",
+        "threats"
+      ],
+      "kw_shortlisted": true
+    }
+  }
+]

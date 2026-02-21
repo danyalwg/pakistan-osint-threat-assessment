@@ -1,0 +1,77 @@
+[
+  {
+    "id": "8a2d8bfde42a0b067ea4c57b",
+    "country": "IRAN",
+    "source_name": "Press TV",
+    "source_slug": "press_tv",
+    "url": "https://presstv.ir/Detail/2026/02/17/764232/Warships-can-be-sent-to-seabed-warns-Leader-US",
+    "title": "Warships can be sent to the seabed, Leader warns in response to Trump’s threats",
+    "published_at": null,
+    "author": null,
+    "summary": "The Leader of the Islamic Revolution has responded to repeated US military threats against Iran, saying that the weapon which can sink the hyped aircraft carriers are more dangerous than the warships.",
+    "content_text": null,
+    "content_length": 0,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "fetch failed: ConnectTimeout: SOCKSHTTPSConnectionPool(host='presstv.ir', port=443): Max retries exceeded with url: /Detail/2026/02/17/764232/Warships-can-be-sent-to-seabed-warns-Leader-US (Caused by ConnectTimeoutError(<SOCKSHTTPSConnection(host='presstv.ir', port=443) at 0x187f6d33390>, 'Connection to presstv.ir timed out. (connect timeout=30)'))"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Military",
+      "weapon",
+      "threats"
+    ],
+    "keywords_national_matched": [
+      "Military"
+    ],
+    "keywords_threat_matched": [
+      "weapon",
+      "threats"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Military"
+    ],
+    "kw_threat_hits": [
+      "weapon",
+      "threats"
+    ],
+    "relevance_score": 10.0,
+    "evidence_strength": "LOW",
+    "evidence_numeric": 25.0,
+    "urgency_score": 20.0,
+    "keyword_intensity": 24.0,
+    "prepriority_score": 16.15,
+    "prepriority_bucket": "LOW",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.presstv.ir/rss.xml",
+      "fetched_at": "2026-02-18T18:54:15.475192+00:00",
+      "rss": {
+        "published_at": null
+      },
+      "kw_national_hits": [
+        "Military"
+      ],
+      "kw_threat_hits": [
+        "weapon",
+        "threats"
+      ],
+      "kw_shortlisted": true
+    }
+  }
+]

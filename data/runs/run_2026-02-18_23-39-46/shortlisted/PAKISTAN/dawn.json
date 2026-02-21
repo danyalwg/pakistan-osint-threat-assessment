@@ -1,0 +1,180 @@
+[
+  {
+    "id": "379cb190dd8e880594472ef5",
+    "country": "PAKISTAN",
+    "source_name": "Dawn",
+    "source_slug": "dawn",
+    "url": "https://www.dawn.com/news/1974194/ahead-of-inaugural-board-of-peace-meeting-asif-says-recognition-of-israel-not-on-the-cards-at-all",
+    "title": "Ahead of inaugural Board of Peace meeting, Asif says recognition of Israel ‘not on the cards at all’",
+    "published_at": "2026-02-18T18:43:28+00:00",
+    "author": "none@none.com (News Desk)",
+    "summary": "<p>Defence Minister Khawaja Asif said on Wednesday that recognition of Israel by Pakistan was “not on the cards at all” as he highlighted the country’s support for the Palestinian cause.</p>\n<p>The minister made the remarks in an interview with <em>France 24</em>. The comments come as the inaugural meeting of the Board of Peace, led by US President Donald Trump, will be held in Washington on February 19. Prime Minister Shehbaz Sharif and Deputy Prime Minister Ishaq Dar will be <a href=\"https://www.dawn.com/news/1972727/pm-shehbaz-to-attend-inaugural-board-of-peace-meeting-in-us-confirms-fo\">attending </a>the meeting.</p>\n    <figure class=\"media  w-full  w-full  media--left  media--embed  \">\n        <div class=\"media__item  media__item--youtube  \"></div>\n        \n    </figure>\n<p>In the interview, Asif was asked about Pakistan’s decision to join the Board of Peace and if the country would contribute troops for a military force in Gaza.</p>\n<p>“I don’t see any problem in that. It all depends on what sort of terms of reference are drafted for that peace force,” he said, highlighting that Pakistan was a part of UN peacekeeping missions.</p>\n<p>“So we have that experience. Palestine is a cause that is very close to our hearts. We have been demonstrating solidarity with them for many, many, many decades,” he said.</p>\n<p>He said that Pakistan had supported the cause of Palestine on countless international forums.</p>\n<p>“So this is something worth attempting. This is a good opportunity. Let’s hope it brings us closer to the two-state solution in the Middle East,” he said.</p>\n<p>The interviewer then pointed out that many Muslim countries had normalised ties with Israel and asked whether this was on the table for Pakistan.</p>\n<p>“No, not yet. You know, I do not see this option even being considered by Pakistan. Maybe, in the future, when there is a total paradigm shift and two states are established and Palestinians have the right of self-determination, their own homeland,” he said.</p>\n<p>“At the moment, it is not on the cards at all,” he said.</p>\n<h2><a class=\"heading-permalink\" href=\"#india-waging-proxy-war\" id=\"india-waging-proxy-war\" title=\"Permalink\"></a>‘India waging proxy war’</h2>\n<p>The minister was then asked about the security situation in the country, including the <a href=\"https://www.dawn.com/news/1971418\">attack at an imambargah in Islamabad</a>.</p>\n<p>In response, Asif said that there were almost “all franchises of terrorism” in neighbouring Afghanistan, which he attributed to the “non-seriousness” of the Afghan Taliban government. He said that the Afghan Taliban was providing terrorists safe haven on their soil.</p>\n<p>“Nothing can happen from across the border from Afghanistan … any attack in Pakistan, it has the blessings of the Afghan government,” he said.</p>\n<p>Asked about Pakistan’s <a href=\"https://www.dawn.com/news/1949107\">strikes</a> in Afghanistan, the minister said, “We always have that option and we can exercise that option. We won’t hesitate.”</p>\n<p>He further said that if terrorist outfits were operating from Afghan soil, the responsibility lay with Kabul’s rulers.</p>\n<p>Asked about India, the minister highlighted the <a href=\"https://www.dawn.com/news/1910509\">military conflict</a> between Pakistan and India in May 2025.</p>\n<p>“Our air force practically decimated whatever attempt they were making to invade Pakistan. So now they are waging a proxy war against Pakistan,” he said.</p>\n<p>“Delhi and Kabul and all these terrorist outfits are on the same page,” he said.</p>\n<p>He said that friendly countries had attempted to mediate between Islamabad and Kabul but “these attempts did not produce any results”.</p>\n<p>He said that the Afghan Taliban had accepted that the banned Tehreek-i-Taliban Pakistan (TTP) was operating from their territory.</p>\n<p>“They indirectly said that they had no control over them. We told them that allow us to deal with them … they accepted their responsibility verbally, but whatever we agreed upon … they are not ready to give it in writing,” he said.</p>",
+    "content_text": null,
+    "content_length": 0,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "fetch failed: RuntimeError: HTTP 403"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Pakistan",
+      "Islamabad",
+      "Defence",
+      "Military",
+      "attack",
+      "terrorism",
+      "terrorist",
+      "terrorists"
+    ],
+    "keywords_national_matched": [
+      "Pakistan",
+      "Islamabad",
+      "Defence",
+      "Military"
+    ],
+    "keywords_threat_matched": [
+      "attack",
+      "terrorism",
+      "terrorist",
+      "terrorists"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Pakistan",
+      "Islamabad",
+      "Defence",
+      "Military"
+    ],
+    "kw_threat_hits": [
+      "attack",
+      "terrorism",
+      "terrorist",
+      "terrorists"
+    ],
+    "relevance_score": 100.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 60.0,
+    "prepriority_score": 94.5,
+    "prepriority_bucket": "CRITICAL",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.dawn.com/feeds/home/",
+      "fetched_at": "2026-02-18T18:48:19.097905+00:00",
+      "rss": {
+        "published_at": "2026-02-18T18:43:28+00:00"
+      },
+      "kw_national_hits": [
+        "Pakistan",
+        "Islamabad",
+        "Defence",
+        "Military"
+      ],
+      "kw_threat_hits": [
+        "attack",
+        "terrorism",
+        "terrorist",
+        "terrorists"
+      ],
+      "kw_shortlisted": true
+    }
+  },
+  {
+    "id": "87a723c0f441b2112ee74d44",
+    "country": "PAKISTAN",
+    "source_name": "Dawn",
+    "source_slug": "dawn",
+    "url": "https://www.dawn.com/news/1974189/no-basant-celebrations-before-february-2027-says-punjab-information-minister",
+    "title": "No Basant celebrations before February 2027, says Punjab information minister",
+    "published_at": "2026-02-18T17:11:13+00:00",
+    "author": "none@none.com (News Desk)",
+    "summary": "<p>Punjab Information Minister Azma Bokhari on Wednesday said that the Basant festival, which was revived by the provincial government earlier this month in Lahore after an 18-year hiatus, would now be celebrated in February 2027.</p>\n<p>“I want to state categorically … that Basant will be celebrated in February 2027. No suggestion for celebrating it before that is under consideration,” she said in a video message posted by the Punjab government’s official account on X.</p>\n    <figure class=\"media  w-full  w-full  media--left  media--embed  media--uneven media--tweet\">\n        <div class=\"media__item  media__item--twitter  \"><span>\n    <blockquote class=\"twitter-tweet\" lang=\"en\">\n        <a href=\"https://twitter.com/GovtofPunjabPK/status/2024135339510583399\"></a>\n    </blockquote>\n</span></div>\n        \n    </figure>\n<p>She also noted that people in a couple of cities had <a href=\"https://www.dawn.com/news/1973042\">celebrated the festival </a>over the last few days.</p>\n<p>“We did not give a harsh reaction at that as there were no losses reported,” Bokhari added.</p>\n<p>The Punjab minister highlighted people’s “excitement” for the festival and said she shared the same sentiment.</p>\n<p>Bokhari reiterated that the Basant would be celebrated in February 2027 and would be “bigger and better than the one held this year”.</p>\n<p>The three-day Basant festival was celebrated in Lahore from February 6-8, following the Punjab government’s <a href=\"https://www.dawn.com/news/1964063\"><u>decision</u></a> to lift a ban on the historic event after 18 years, with strict regulations.</p>\n<p>Subsequently, Punjab Chief Minister Maryam Nawaz Sharif had praised authorities for organising a “safe Basant” <a href=\"https://www.dawn.com/news/1971867/basant-festivities-in-lahore-can-continue-till-5am-on-monday-announces-punjab-cm-maryam\"><u>festival </u></a>in Lahore. She also stated that there was not a single death caused by injuries from kite strings during the festival.</p>",
+    "content_text": null,
+    "content_length": 0,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "fetch failed: RuntimeError: HTTP 403"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Lahore",
+      "Punjab",
+      "Chief Minister",
+      "Provincial Government",
+      "death"
+    ],
+    "keywords_national_matched": [
+      "Lahore",
+      "Punjab",
+      "Chief Minister",
+      "Provincial Government"
+    ],
+    "keywords_threat_matched": [
+      "death"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Lahore",
+      "Punjab",
+      "Chief Minister",
+      "Provincial Government"
+    ],
+    "kw_threat_hits": [
+      "death"
+    ],
+    "relevance_score": 75.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 33.0,
+    "prepriority_score": 79.3,
+    "prepriority_bucket": "HIGH",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.dawn.com/feeds/home/",
+      "fetched_at": "2026-02-18T18:48:19.097966+00:00",
+      "rss": {
+        "published_at": "2026-02-18T17:11:13+00:00"
+      },
+      "kw_national_hits": [
+        "Lahore",
+        "Punjab",
+        "Chief Minister",
+        "Provincial Government"
+      ],
+      "kw_threat_hits": [
+        "death"
+      ],
+      "kw_shortlisted": true
+    }
+  }
+]

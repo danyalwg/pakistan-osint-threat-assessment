@@ -1,0 +1,312 @@
+[
+  {
+    "id": "62b3974b2ac692e61d7120ec",
+    "country": "UNITED STATES",
+    "source_name": "Fox News",
+    "source_slug": "fox_news",
+    "url": "https://www.foxnews.com/media/jasmine-crockett-pushes-back-texas-opponents-claim-trump-fcc-killed-interview-puts-blame-cbs",
+    "title": "Jasmine Crockett pushes back on Texas opponent's claim Trump FCC killed interview, puts blame on CBS",
+    "published_at": "2026-02-18T19:00:57+00:00",
+    "author": "Hanna Panreck",
+    "summary": "Rep. Jasmine Crockett responded Tuesday to CBS allegedly pulling Stephen Colbert&apos;s interview with Texas Senate rival James Talarico over FCC equal time concerns.",
+    "content_text": "Rep. Jasmine Crockett, D-Texas, commented Tuesday on the situation with CBS and Stephen Colbert's show not airing the late-night host's interview with James Talarico, her opponent in the Texas Democratic Senate primary.\nMS NOW host Jen Paski asked Crockett to respond to CBS' statement on the controversy, which named the Texas lawmaker. The network denied that it prohibited Colbert from airing the interview, adding that the show was provided with \"legal guidance\" that it could trigger the equal time rule for Crockett and the other candidate in the race, Ahmad Hassan.\n\"We actually received a phone call, and that was a little bit earlier today, and in that call, they explained that they actually told CBS that they could go ahead and move forward with the interview of James Talarico, they just needed to offer me equal time,\" Crockett said. \"I did not get a request from the Colbert show to go on.\"\n\"As you know, I've been on Colbert multiple times, and frankly, if we would have gotten an offer, that would have been great,\" she continued. \"But, we're in the middle of early voting, so I'm kind of focused on being in Texas at this moment. And, you know, I don't know what to believe, that's for sure. But I got that phone call as I was out talking to voters.\"\nFCC TO CRACK DOWN ON LIBERAL LATE NIGHT SHOWS, 'THE VIEW' NOT GIVING EQUAL AIRTIME TO GOP GUESTS\n\"I will tell you that I have no love for Bari Weiss, I have no love for Brendan Carr whatsoever. But I do think that, as you also mentioned — Kimmel — it is important that we resist in this moment,\" Crockett said.\nThe Talarico interview was ultimately posted on YouTube and not aired on CBS, which Crockett agreed with.\n\"And so there were a number of options that could be put on the table and frankly, you know, ‘The Late Show’ decided that this was the option and I think that it was a good strategy,\" she said.\nThe lawmaker even suggested that the controversy probably helped Talarico's campaign.\n\"I think it probably gave my opponent the boost he was looking for. So I think it's probably better that he didn't get on, and that they went straight to streaming because we know that when we resist, and when we know that it seems like they're trying to change the rules and bend the knee to this president, that it backfires in historic fashion,\" she said.\nFCC LAUNCHING PROBE INTO ABC'S 'THE VIEW' AMID CRACKDOWN ON EQUAL TIME FOR CANDIDATES\nCrockett told The Hill earlier in the day that the federal government did not shut down the interview.\n\"We did receive information suggesting that the federal government did not shut down this segment, number one, that is my understanding, that the federal government didn't shut this down. And we will do an official statement once we get another official statement that we anticipate is going to be coming from Paramount, alright, so we will read what they say, we will go from there,\" she said.\nCrockett said Colbert or CBS decided not to air the interview because of a \"fear\" that the Federal Communications Commission (FCC) was going to object, \"and that there may have been advice to just have me on, and they can clear the issue.\"\n\"It is my understanding that someone, somewhere decided we just don't want to do that,\" she said before clarifying that she had no \"love\" for the current FCC, but said there were layers to the story.\nCLICK HERE FOR MORE COVERAGE OF MEDIA AND CULTURE\nTalarico blamed the situation on President Donald Trump and the FCC in a post to X.\n\"This is the interview Donald Trump didn’t want you to see. His FCC refused to air my interview with Stephen Colbert. Trump is worried we’re about to flip Texas,\" he wrote.\nFox News Digital reached out to the FCC for comment but did not immediately hear back.\nTalarico's team also revealed on X on Wednesday that his team raised $2.5 million after \"the FCC banned our Colbert interview.\"\nColbert slammed CBS' denial that it prohibited him from airing the interview during his Tuesday show, and said he \"obeyed\" his bosses.\nCLICK HERE TO DOWNLOAD THE FOX NEWS APP\n\"So, we obeyed our network and put the interview on YouTube, where it’s gotten millions of views. And I can see why. Talarico’s an interesting guy. I don’t know if he should be the senator, but it was a good discussion. I wish we could have put it on the show, where no one would have watched it,\" he said.",
+    "content_length": 4352,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Federal Government",
+      "killed"
+    ],
+    "keywords_national_matched": [
+      "Federal Government"
+    ],
+    "keywords_threat_matched": [
+      "killed"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Federal Government"
+    ],
+    "kw_threat_hits": [
+      "killed"
+    ],
+    "relevance_score": 10.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 15.0,
+    "prepriority_score": 45.0,
+    "prepriority_bucket": "MEDIUM",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://moxie.foxnews.com/google-publisher/latest.xml",
+      "fetched_at": "2026-02-18T19:09:39.252720+00:00",
+      "rss": {
+        "published_at": "2026-02-18T19:00:57+00:00"
+      },
+      "kw_national_hits": [
+        "Federal Government"
+      ],
+      "kw_threat_hits": [
+        "killed"
+      ],
+      "kw_shortlisted": true
+    }
+  },
+  {
+    "id": "2563a978a54060dcc9645662",
+    "country": "UNITED STATES",
+    "source_name": "Fox News",
+    "source_slug": "fox_news",
+    "url": "https://www.foxnews.com/us/new-jersey-catholic-diocese-agrees-180m-settlement-survivors-alleged-clergy-sex-abuse",
+    "title": "New Jersey Catholic diocese agrees to $180M settlement with survivors of alleged clergy sex abuse",
+    "published_at": "2026-02-18T18:58:16+00:00",
+    "author": "Stephen Sorace",
+    "summary": "New Jersey Catholic diocese agrees to pay $180 million to settle alleged clergy sexual abuse claims from about 300 survivors.",
+    "content_text": "A New Jersey Catholic diocese has agreed to pay $180 million to settle clergy sexual abuse claims involving hundreds of survivors, closing a long and contentious chapter in New Jersey’s reckoning with church abuse.\nBishop Joseph Williams, who serves the Diocese of Camden, announced the agreement in a letter on Tuesday, calling it a long-overdue step for survivors.\n\"For the survivors of South Jersey, this day is long overdue,\" Williams wrote. \"It represents a milestone in their journey toward restored justice and the healing and recognition they have long sought and deserve.\"\nThe diocese, which serves six counties in southern New Jersey outside Philadelphia, said about 300 survivors brought claims.\nAttorney Greg Gianforcaro, who represents victims in the case, credited survivors’ persistence in reaching the agreement after years of litigation.\n\"It’s been an extremely long and arduous battle,\" he said, according to The Associated Press.\nThe $180 million figure surpasses earlier settlements in Boston and Philadelphia, which were around $80 million, but remains smaller than the $880 million agreement reached in 2024 by the Archdiocese of Los Angeles.\nRETIRED ELEMENTARY TEACHER WHO WORKED AS SANTA ARRESTED ON CHILD ABUSE MATERIAL CHARGES\nThe Camden diocese filed for bankruptcy after New Jersey relaxed its statute of limitations, triggering a wave of lawsuits. In 2022, the diocese agreed to pay $87.5 million in a previous settlement involving roughly 300 accusers. Victims’ attorneys said the newly announced $180 million total includes those earlier funds.\nThe agreement must still receive approval from a bankruptcy court.\nCLICK HERE TO DOWNLOAD THE FOX NEWS APP\nThe settlement comes as New Jersey’s Supreme Court has cleared the way for a long-delayed state grand jury investigation into decades of alleged abuse by clergy to move forward.\nThe Associated Press contributed to this report.",
+    "content_length": 1909,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [],
+    "keywords_national_matched": [],
+    "keywords_threat_matched": [],
+    "national_relevant": false,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [],
+    "kw_threat_hits": [],
+    "relevance_score": 0.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 0.0,
+    "prepriority_score": 38.5,
+    "prepriority_bucket": "LOW",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://moxie.foxnews.com/google-publisher/latest.xml",
+      "fetched_at": "2026-02-18T19:09:39.252745+00:00",
+      "rss": {
+        "published_at": "2026-02-18T18:58:16+00:00"
+      },
+      "kw_national_hits": [],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  },
+  {
+    "id": "46cda9f445ac8abcf7b387fb",
+    "country": "UNITED STATES",
+    "source_name": "Fox News",
+    "source_slug": "fox_news",
+    "url": "https://www.foxnews.com/politics/duffy-gives-illinois-30-day-ultimatum-after-audit-finds-1-5-noncitizen-truck-licenses-issued-illegally",
+    "title": "Duffy gives Illinois 30-day ultimatum after audit finds 1 in 5 noncitizen truck licenses issued illegally",
+    "published_at": "2026-02-18T18:36:37+00:00",
+    "author": "Charles Creitz",
+    "summary": "Illinois faces losing $128M in federal highway funding after USDOT finds one-in-five CDL licenses issued to noncitizens were allegedly illegal under federal law.",
+    "content_text": "FIRST ON FOX: Illinois could lose millions in federal funding if it does not clean up its driver’s licensing system after the U.S. Department of Transportation warned Democratic Gov. JB Pritzker and the state’s top licensing official that one in five commercial licenses issued to noncitizens were issued illegally.\nTransportation Secretary Sean Duffy issued a written ultimatum to both the Hyatt Hotels heir and Kevin Duesterhaus, the state director of driver services under Illinois Secretary of State Alexi Giannoulias, and listed several cases of drivers from El Salvador to Ukraine who were in violation of the law.\n\"I need our state partners to understand that they work for the American people, not illegal immigrants who broke the law illegally entering our country and continue to break it by operating massive big rigs without the proper qualifications,\" Duffy said in a statement obtained by Fox News Digital.\nDUFFY SAYS ‘TIME’S UP’ FOR NEWSOM AS FEDS WITHHOLD $160M OVER ILLEGAL TRUCKING LICENSES\n\"[Joe] Biden and [Pete] Buttigieg forced Americans to share their roads with unqualified and unvetted foreign drivers, but the Trump administration is putting the needs of American families first where they belong.\"\nDuffy warned Duesterhaus and Pritzker that $128 million in federal highway funding, including Illinois’ share of the National Highway Performance Program and Surface Transportation Block Grants for FY-2027, would be held up if fixes are not made within 30 days and noncompliance continues.\n\"In addition, if the Federal Motor Carrier Safety Administration (FMCSA) issues a final determination of substantial noncompliance, the agency may decertify Illinois’ CDL program,\" Duffy wrote.\nSOME STATES HAVE LET UNQUALIFIED FOREIGN DRIVERS ON THE ROAD AND AMERICANS PAY THE PRICE\nNon-domiciled CDLs are commercial licenses issued to noncitizens who are not green card holders. The only exceptions to the non-domicile rule are truckers from Mexico and Canada, whose licensing systems the U.S. Department of Transportation has determined are in compliance with American standards, in deference to the reciprocal relationship between the two countries.\nDuffy took issue with two main categories of illegally held licenses: drivers whose license validity dates exceeded their lawful presence in the U.S., and drivers who were given licenses without Illinois verifying their lawful presence.\nThe audit was also conducted as part of President Donald Trump’s executive order declaring English the official language of the U.S.\nPritzker and Duesterhaus must immediately pause issuances of all non-domiciled CDLs, identify noncompliant ones in circulation, revoke and reissue all compliant ones, and conduct their own internal audit.\nAudited examples of CDL scofflaws include two Kyrgyz nationals who presented expired employment authorizations (EAD) and USCIS applications for new EADs, which Illinois should not have accepted.\nA Nigerian national and a Moldovan national were found in similar situations.\nTRUMP THREATENS TO CUT $75M FROM PENNSYLVANIA OVER ILLEGAL IMMIGRANT CDL SCANDAL\nA Singaporean national was provided a license after presenting only partial documentation, and several drivers \"whose citizenship is unknown\" were among those scrutinized.\nFox News Digital reached out to Pritzker for comment, as well as Duesterhaus via Giannoulias’ office.\nGiannoulias condemned what he called a \"threat\" to Springfield’s funding in a statement provided to Fox News Digital.\n\"A strong economy depends on strong logistics,\" Giannoulias said. \"If trucks don’t move, supply chains fail, prices rise, and families feel it in their pocketbooks. We can see the actions by the Trump administration taking their toll on our truckers and our farmers, both of whom are essential to Illinois’ economy.\"\nCLICK HERE TO DOWNLOAD THE FOX NEWS APP\nGiannoulias’ office said it believes its CDL issuance policies are \"substantially compliant\" with U.S. Department of Transportation and Federal Motor Carrier Safety Administration requirements and that it will conduct its own review of Duffy’s findings.\nGiannoulias said the Illinois Agricultural Association raised concerns over the pause in issuing non-domiciled CDLs and that \"Illinois agriculture depends on timely, practical, and legally sound regulatory decisions. Continued uncertainty places employers, workers, and food production systems at unnecessary risk.\"",
+    "content_length": 4415,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [],
+    "keywords_national_matched": [],
+    "keywords_threat_matched": [],
+    "national_relevant": false,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [],
+    "kw_threat_hits": [],
+    "relevance_score": 0.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 0.0,
+    "prepriority_score": 38.5,
+    "prepriority_bucket": "LOW",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://moxie.foxnews.com/google-publisher/latest.xml",
+      "fetched_at": "2026-02-18T19:09:39.252759+00:00",
+      "rss": {
+        "published_at": "2026-02-18T18:36:37+00:00"
+      },
+      "kw_national_hits": [],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  },
+  {
+    "id": "a7d10aa2ea1690cc65417947",
+    "country": "UNITED STATES",
+    "source_name": "Fox News",
+    "source_slug": "fox_news",
+    "url": "https://www.foxnews.com/politics/mamdani-proposes-cutting-nypd-budget-canceling-5k-new-officer-hires",
+    "title": "Mamdani proposes cutting NYPD budget, canceling 5K new officer hires",
+    "published_at": "2026-02-18T18:35:23+00:00",
+    "author": "Rachel Wolf",
+    "summary": "New York City Mayor Zohran Mamdani is eyeing the NYPD&apos;s funding and a proposed personnel increase as he looks to tackle the city&apos;s &quot;budget crisis.&quot;",
+    "content_text": "New York City Mayor Zohran Mamdani is looking to get the Big Apple on a tighter budget, and seems to see cuts to the New York Police Department (NYPD) as a way of getting the city back on track.\nMamdani's predecessor, Mayor Eric Adams, proposed at the end of his term that the city hire 5,000 more NYPD officers. However, upon entering office, Mamdani moved to cancel all orders signed by Adams following his Sept. 26, 2024, indictment. This included the proposed NYPD personnel increase.\nUnder Adams' plan, the NYPD was set to add 300 officers in July 2026, growing to 2,500 in July 2027 and eventually increasing to 5,000 additional officers annually in July 2028. The Adams plan allowed the NYPD to deploy approximately 40,000 officers to the streets, while Mamdani's plan caps the number closer to its current level of around 35,000.\nAdditionally, in the preliminary FY 2027 budget, it notes the importance of \"significantly reducing current vacancies,\" which could include reductions in funding for the NYPD based on unfilled positions. The Gothamist, a New York-based publication, noted that Mamdani's budget proposes a $22 million decrease in the NYPD's $6.4 billion budget next year.\nOn Tuesday, Mamdani told reporters that New York City was in a budget crisis but said that it was something the city \"can and will overcome.\"\nMamdani said during the Tuesday news conference that his administration had \"inherited a historic budget gap\" and while it had managed to lower the deficit from $12 billion to $5.4 billion, there was still a \"significant chasm.\"\n\"I know that for those who have watched budget after budget, it is tempting to assume that we are engaging in the same dance as our predecessors. Let me assure you, nothing about this is typical. That's why our solutions won't be either,\" Mamdani said.\nMAMDANI PROPOSES RAISING NYC PROPERTY TAXES IF STATE DOESN'T APPROVE TAX HIKE ON WEALTHY\nThe mayor suggested that there were two paths to balancing the budget: one that he painted as putting the burden on the wealthy and the other that he classified as drawing from vital resources. He pushed for the state to raise taxes on the wealthy and corporations in order to balance the budget, a stance that was in-line with his campaign statements.\n\"There are two paths to bridge this gap. The first is the most sustainable and the fairest path. This is the path of ending the drain on our city and raising taxes on the richest New Yorkers and the most profitable corporations,\" Mamdani said.\nCLICK HERE TO DOWNLOAD THE FOX NEWS APP\n\"And if we do not go down the first path, the city will be forced down a second, more harmful path. Faced with no other choice, the city would have to exercise the only revenue lever fully within our own control. We would have to raise property taxes. We would also be forced to raid our reserves to balance the budget as required by law,\" he added.\nFox News Digital reached out to Mamdani's office for comment.",
+    "content_length": 2953,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Police",
+      "raid"
+    ],
+    "keywords_national_matched": [
+      "Police"
+    ],
+    "keywords_threat_matched": [
+      "raid"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Police"
+    ],
+    "kw_threat_hits": [
+      "raid"
+    ],
+    "relevance_score": 35.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 15.0,
+    "prepriority_score": 57.5,
+    "prepriority_bucket": "MEDIUM",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://moxie.foxnews.com/google-publisher/latest.xml",
+      "fetched_at": "2026-02-18T19:09:39.252771+00:00",
+      "rss": {
+        "published_at": "2026-02-18T18:35:23+00:00"
+      },
+      "kw_national_hits": [
+        "Police"
+      ],
+      "kw_threat_hits": [
+        "raid"
+      ],
+      "kw_shortlisted": true
+    }
+  },
+  {
+    "id": "e28b5ee16d310dcd93bea8e6",
+    "country": "UNITED STATES",
+    "source_name": "Fox News",
+    "source_slug": "fox_news",
+    "url": "https://www.foxnews.com/politics/democrats-finally-land-candidate-take-incumbent-republican-governor-key-swing-state",
+    "title": "After decade of GOP control, Democrats recruit challenger in key swing state",
+    "published_at": "2026-02-18T18:26:36+00:00",
+    "author": "Paul Steinhauser",
+    "summary": "Democrat Cinde Warmington launches gubernatorial campaign against Gov. Kelly Ayotte in New Hampshire, targeting affordability and Trump policies.",
+    "content_text": "With November's elections less than nine months away, Democrats finally have a major candidate to take on Republican Gov. Kelly Ayotte as she seeks a second term steering swing-state New Hampshire.\nCinde Warmington, a former member of New Hampshire's elected Executive Council, on Wednesday officially launched her second straight campaign for governor.\nRepublicans have controlled the governor's office in the crucial northern New England battleground for nearly a decade — first under former Gov. Chris Sununu and now under Ayotte, who succeeded Sununu 13 months ago — and Democrats are aiming to finally win back what's known in New Hampshire as \"the corner office\" in the Statehouse.\nIn her campaign release and launch video, Warmington took aim at Ayotte over affordability, which has been a winning issue for Democrats amid persistent inflation in the year since President Donald Trump returned to the White House.\nSTRATEGY SESSION: TRUMP'S POLITICAL TEAM HUDDLES ON MIDTERM MESSAGING\n\"The prices of groceries, housing, electricity, and property taxes are crushing working families. And Kelly Ayotte is making life in New Hampshire even more expensive,\" Warmington charged.\nAnd Warmington knocked Ayotte for not more forcefully pushing back against Trump's unprecedented second-term agenda, which includes an ongoing attempt by the administration to open an Immigration and Customs Enforcement detention center in the state.\nNEW HAMPSHIRE BECOMES FIRST NEW ENGLAND STATE TO BAN SANCTUARY CITIES\n\"I’ll stand up to Trump when he jacks up healthcare costs and tariffs. I’ll say no to ICE’s warehouse, and I’ll work for our small businesses and make sure we don’t have a sales or income tax,\" she emphasized.\nAyotte, a former U.S. senator who previously served as state attorney general, has had some friction with the Trump administration over the past year, and criticized Washington over a lack of transparency surrounding the ICE facility. The governor also forced the resignation of a state official who had been in communication with Trump's team without telling Ayotte.\nAyotte's approval ratings are in positive territory — 50%-45% in the most recent University of New Hampshire poll conducted last month — and her fundraising has been formidable.\nWhile Democrats have controlled the state's federal delegation in Congress for a decade, they haven't won a gubernatorial election since 2014. But Democrats are energized, as Republicans in New Hampshire and across the country face a rough political climate, and the GOP, as the party in power both in Washington and in Concord, the Granite State's capital city, will deal with the traditional political headwinds that incumbents typically face.\nAyotte's campaign quickly blasted Warmington over her past lobbying for the healthcare and pharmaceutical industries.\n\"Cinde Warmington spent her career as a lobbyist for the opioid industry, promoting OxyContin and defending New England's most notorious pill mill. Cinde chose to make money off big pharmaceutical companies who hurt Granite Staters, and she is absolutely disqualified from serving as our Governor,\" Ayotte spokesman John Corbett charged in a statement.\nWarmington first ran for governor two years ago, losing the Democratic primary to former Manchester Mayor Joyce Craig, who lost to Ayotte in the general election by nearly 10 points.\nThe Republican Governors Association communications director Courtney Alexander argued that \"the fact that an already failed candidate is all New Hampshire Democrats could come up with speaks to their desperation.\"\nWarmington may not have the Democratic primary field to herself.\nDemocratic Mayor Deaglan McEachern of Portsmouth, who is mulling a gubernatorial run, said in a statement, \"With everything happening in Concord and Washington, DC, the stakes are too high to risk losing this race, and I believe it's time that New Hampshire Democrats look to the future as we work to beat Kelly Ayotte.\"\n\"I look forward to saying more soon,\" he added.",
+    "content_length": 4005,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [],
+    "keywords_national_matched": [],
+    "keywords_threat_matched": [],
+    "national_relevant": false,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [],
+    "kw_threat_hits": [],
+    "relevance_score": 0.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 0.0,
+    "prepriority_score": 38.5,
+    "prepriority_bucket": "LOW",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://moxie.foxnews.com/google-publisher/latest.xml",
+      "fetched_at": "2026-02-18T19:09:39.252782+00:00",
+      "rss": {
+        "published_at": "2026-02-18T18:26:36+00:00"
+      },
+      "kw_national_hits": [],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  }
+]

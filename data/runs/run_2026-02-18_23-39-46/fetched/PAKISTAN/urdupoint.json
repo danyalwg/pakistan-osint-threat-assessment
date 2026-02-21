@@ -1,0 +1,333 @@
+[
+  {
+    "id": "a5a20e4c1893d0aec16bf7b4",
+    "country": "PAKISTAN",
+    "source_name": "UrduPoint",
+    "source_slug": "urdupoint",
+    "url": "https://www.urdupoint.com/en/pakistan/president-zardari-expresses-condolences-to-la-2141143.html",
+    "title": "President Zardari expresses condolences to late Mian Wattoo’s family",
+    "published_at": "2026-02-18T18:10:29+00:00",
+    "author": null,
+    "summary": null,
+    "content_text": null,
+    "content_length": 0,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "fetch failed: RuntimeError: HTTP 403"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Pakistan"
+    ],
+    "keywords_national_matched": [
+      "Pakistan"
+    ],
+    "keywords_threat_matched": [],
+    "national_relevant": true,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [
+      "Pakistan"
+    ],
+    "kw_threat_hits": [],
+    "relevance_score": 28.0,
+    "evidence_strength": "LOW",
+    "evidence_numeric": 25.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 6.0,
+    "prepriority_score": 43.35,
+    "prepriority_bucket": "MEDIUM",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.urdupoint.com/en/sitemap/news.rss",
+      "fetched_at": "2026-02-18T18:46:09.205965+00:00",
+      "rss": {
+        "published_at": "2026-02-18T18:10:29+00:00"
+      },
+      "kw_national_hits": [
+        "Pakistan"
+      ],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  },
+  {
+    "id": "6a756a51051f3990b0699860",
+    "country": "PAKISTAN",
+    "source_name": "UrduPoint",
+    "source_slug": "urdupoint",
+    "url": "https://www.urdupoint.com/en/pakistan/medical-graduates-pledge-service-to-humanity-2141142.html",
+    "title": "Medical graduates pledge service to humanity at Isra University convocation",
+    "published_at": "2026-02-18T18:10:27+00:00",
+    "author": null,
+    "summary": null,
+    "content_text": null,
+    "content_length": 0,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "fetch failed: RuntimeError: HTTP 403"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Pakistan"
+    ],
+    "keywords_national_matched": [
+      "Pakistan"
+    ],
+    "keywords_threat_matched": [],
+    "national_relevant": true,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [
+      "Pakistan"
+    ],
+    "kw_threat_hits": [],
+    "relevance_score": 28.0,
+    "evidence_strength": "LOW",
+    "evidence_numeric": 25.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 6.0,
+    "prepriority_score": 43.35,
+    "prepriority_bucket": "MEDIUM",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.urdupoint.com/en/sitemap/news.rss",
+      "fetched_at": "2026-02-18T18:46:09.206003+00:00",
+      "rss": {
+        "published_at": "2026-02-18T18:10:27+00:00"
+      },
+      "kw_national_hits": [
+        "Pakistan"
+      ],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  },
+  {
+    "id": "055e94d15bc0f187c4941af7",
+    "country": "PAKISTAN",
+    "source_name": "UrduPoint",
+    "source_slug": "urdupoint",
+    "url": "https://www.urdupoint.com/en/pakistan/punjab-govt-transfers-four-officers-2141141.html",
+    "title": "Punjab govt transfers four officers",
+    "published_at": "2026-02-18T18:10:24+00:00",
+    "author": null,
+    "summary": null,
+    "content_text": null,
+    "content_length": 0,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "fetch failed: RuntimeError: HTTP 403"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Pakistan",
+      "Punjab"
+    ],
+    "keywords_national_matched": [
+      "Pakistan",
+      "Punjab"
+    ],
+    "keywords_threat_matched": [],
+    "national_relevant": true,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [
+      "Pakistan",
+      "Punjab"
+    ],
+    "kw_threat_hits": [],
+    "relevance_score": 63.0,
+    "evidence_strength": "LOW",
+    "evidence_numeric": 25.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 12.0,
+    "prepriority_score": 61.45,
+    "prepriority_bucket": "HIGH",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.urdupoint.com/en/sitemap/news.rss",
+      "fetched_at": "2026-02-18T18:46:09.206021+00:00",
+      "rss": {
+        "published_at": "2026-02-18T18:10:24+00:00"
+      },
+      "kw_national_hits": [
+        "Pakistan",
+        "Punjab"
+      ],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  },
+  {
+    "id": "e77417c43f2ccbae7f2cf71b",
+    "country": "PAKISTAN",
+    "source_name": "UrduPoint",
+    "source_slug": "urdupoint",
+    "url": "https://www.urdupoint.com/en/pakistan/3-shot-dead-cpo-takes-notice-2141140.html",
+    "title": "3 shot dead; CPO takes notice",
+    "published_at": "2026-02-18T18:10:23+00:00",
+    "author": null,
+    "summary": null,
+    "content_text": null,
+    "content_length": 0,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "fetch failed: RuntimeError: HTTP 403"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Pakistan",
+      "dead"
+    ],
+    "keywords_national_matched": [
+      "Pakistan"
+    ],
+    "keywords_threat_matched": [
+      "dead"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Pakistan"
+    ],
+    "kw_threat_hits": [
+      "dead"
+    ],
+    "relevance_score": 28.0,
+    "evidence_strength": "LOW",
+    "evidence_numeric": 25.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 15.0,
+    "prepriority_score": 44.25,
+    "prepriority_bucket": "MEDIUM",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.urdupoint.com/en/sitemap/news.rss",
+      "fetched_at": "2026-02-18T18:46:09.206036+00:00",
+      "rss": {
+        "published_at": "2026-02-18T18:10:23+00:00"
+      },
+      "kw_national_hits": [
+        "Pakistan"
+      ],
+      "kw_threat_hits": [
+        "dead"
+      ],
+      "kw_shortlisted": true
+    }
+  },
+  {
+    "id": "aed91e3660c6b3d9de82b125",
+    "country": "PAKISTAN",
+    "source_name": "UrduPoint",
+    "source_slug": "urdupoint",
+    "url": "https://www.urdupoint.com/en/pakistan/impc-organizes-farewell-ceremony-to-honour-pr-2141139.html",
+    "title": "IMPC organizes farewell ceremony to honour Prof Tahir Mahmood & Prof Abdul Rauf on their retirement",
+    "published_at": "2026-02-18T18:10:22+00:00",
+    "author": null,
+    "summary": null,
+    "content_text": null,
+    "content_length": 0,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "fetch failed: RuntimeError: HTTP 403"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Pakistan"
+    ],
+    "keywords_national_matched": [
+      "Pakistan"
+    ],
+    "keywords_threat_matched": [],
+    "national_relevant": true,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [
+      "Pakistan"
+    ],
+    "kw_threat_hits": [],
+    "relevance_score": 28.0,
+    "evidence_strength": "LOW",
+    "evidence_numeric": 25.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 6.0,
+    "prepriority_score": 43.35,
+    "prepriority_bucket": "MEDIUM",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.urdupoint.com/en/sitemap/news.rss",
+      "fetched_at": "2026-02-18T18:46:09.206050+00:00",
+      "rss": {
+        "published_at": "2026-02-18T18:10:22+00:00"
+      },
+      "kw_national_hits": [
+        "Pakistan"
+      ],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  }
+]

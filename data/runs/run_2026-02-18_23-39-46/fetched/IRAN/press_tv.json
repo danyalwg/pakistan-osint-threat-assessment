@@ -1,0 +1,309 @@
+[
+  {
+    "id": "aa126a38e1db27bb574ce0ac",
+    "country": "IRAN",
+    "source_name": "Press TV",
+    "source_slug": "press_tv",
+    "url": "https://presstv.ir/Detail/2026/02/18/764292/Iran,-Russia-to-hold-joint-naval-drill-in-Sea-of-Oman,-Northern-Indian-Ocean",
+    "title": "Iran, Russia to hold joint naval drill in Sea of Oman, Indian Ocean",
+    "published_at": null,
+    "author": null,
+    "summary": "The naval forces of the Islamic Republic of Iran and the Russian Federation will conduct a joint naval exercise on Thursday in the Sea of Oman and the northern Indian Ocean.",
+    "content_text": null,
+    "content_length": 0,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "fetch failed: ConnectTimeout: SOCKSHTTPSConnectionPool(host='presstv.ir', port=443): Max retries exceeded with url: /Detail/2026/02/18/764292/Iran,-Russia-to-hold-joint-naval-drill-in-Sea-of-Oman,-Northern-Indian-Ocean (Caused by ConnectTimeoutError(<SOCKSHTTPSConnection(host='presstv.ir', port=443) at 0x187f6d31d10>, 'Connection to presstv.ir timed out. (connect timeout=30)'))"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [],
+    "keywords_national_matched": [],
+    "keywords_threat_matched": [],
+    "national_relevant": false,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [],
+    "kw_threat_hits": [],
+    "relevance_score": 0.0,
+    "evidence_strength": "LOW",
+    "evidence_numeric": 25.0,
+    "urgency_score": 20.0,
+    "keyword_intensity": 0.0,
+    "prepriority_score": 8.75,
+    "prepriority_bucket": "LOW",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.presstv.ir/rss.xml",
+      "fetched_at": "2026-02-18T18:54:15.475143+00:00",
+      "rss": {
+        "published_at": null
+      },
+      "kw_national_hits": [],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  },
+  {
+    "id": "7610b0b7c3ca46a7b0c8bfb6",
+    "country": "IRAN",
+    "source_name": "Press TV",
+    "source_slug": "press_tv",
+    "url": "https://presstv.ir/Detail/2026/02/18/764313/Completion-of-corridor-projects-to-launch-new-chapter-in-Iran-Russia-ties-Pezeshkian",
+    "title": "Completion of corridor projects to open new chapter in Iran-Russia ties: Pezeshkian",
+    "published_at": null,
+    "author": null,
+    "summary": "President Pezeshkian says the completion of joint transit corridor projects will mark a “new chapter” and a significant leap in the comprehensive relations between Iran and Russia.",
+    "content_text": null,
+    "content_length": 0,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "fetch failed: ConnectTimeout: SOCKSHTTPSConnectionPool(host='presstv.ir', port=443): Max retries exceeded with url: /Detail/2026/02/18/764313/Completion-of-corridor-projects-to-launch-new-chapter-in-Iran-Russia-ties-Pezeshkian (Caused by ConnectTimeoutError(<SOCKSHTTPSConnection(host='presstv.ir', port=443) at 0x187f6d32490>, 'Connection to presstv.ir timed out. (connect timeout=30)'))"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [],
+    "keywords_national_matched": [],
+    "keywords_threat_matched": [],
+    "national_relevant": false,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [],
+    "kw_threat_hits": [],
+    "relevance_score": 0.0,
+    "evidence_strength": "MED",
+    "evidence_numeric": 60.0,
+    "urgency_score": 20.0,
+    "keyword_intensity": 0.0,
+    "prepriority_score": 14.0,
+    "prepriority_bucket": "LOW",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.presstv.ir/rss.xml",
+      "fetched_at": "2026-02-18T18:54:15.475170+00:00",
+      "rss": {
+        "published_at": null
+      },
+      "kw_national_hits": [],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  },
+  {
+    "id": "2dd907ab30d1ef467901be56",
+    "country": "IRAN",
+    "source_name": "Press TV",
+    "source_slug": "press_tv",
+    "url": "https://presstv.ir/Detail/2026/02/18/764315/Iranian-FM-IAEA-chief-consult-on-framework-for-potential-Iran-US-deal",
+    "title": "Iran’s foreign minister, IAEA chief discuss framework for potential Iran-US deal",
+    "published_at": null,
+    "author": null,
+    "summary": "Iran’s Foreign Minister Abbas Araghchi and the Director General of the IAEA Rafael Grossi held a high-level discussion on Wednesday.",
+    "content_text": null,
+    "content_length": 0,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "fetch failed: ConnectTimeout: SOCKSHTTPSConnectionPool(host='presstv.ir', port=443): Max retries exceeded with url: /Detail/2026/02/18/764315/Iranian-FM-IAEA-chief-consult-on-framework-for-potential-Iran-US-deal (Caused by ConnectTimeoutError(<SOCKSHTTPSConnection(host='presstv.ir', port=443) at 0x187f6d32c10>, 'Connection to presstv.ir timed out. (connect timeout=30)'))"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [],
+    "keywords_national_matched": [],
+    "keywords_threat_matched": [],
+    "national_relevant": false,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [],
+    "kw_threat_hits": [],
+    "relevance_score": 0.0,
+    "evidence_strength": "MED",
+    "evidence_numeric": 60.0,
+    "urgency_score": 20.0,
+    "keyword_intensity": 0.0,
+    "prepriority_score": 14.0,
+    "prepriority_bucket": "LOW",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.presstv.ir/rss.xml",
+      "fetched_at": "2026-02-18T18:54:15.475182+00:00",
+      "rss": {
+        "published_at": null
+      },
+      "kw_national_hits": [],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  },
+  {
+    "id": "8a2d8bfde42a0b067ea4c57b",
+    "country": "IRAN",
+    "source_name": "Press TV",
+    "source_slug": "press_tv",
+    "url": "https://presstv.ir/Detail/2026/02/17/764232/Warships-can-be-sent-to-seabed-warns-Leader-US",
+    "title": "Warships can be sent to the seabed, Leader warns in response to Trump’s threats",
+    "published_at": null,
+    "author": null,
+    "summary": "The Leader of the Islamic Revolution has responded to repeated US military threats against Iran, saying that the weapon which can sink the hyped aircraft carriers are more dangerous than the warships.",
+    "content_text": null,
+    "content_length": 0,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "fetch failed: ConnectTimeout: SOCKSHTTPSConnectionPool(host='presstv.ir', port=443): Max retries exceeded with url: /Detail/2026/02/17/764232/Warships-can-be-sent-to-seabed-warns-Leader-US (Caused by ConnectTimeoutError(<SOCKSHTTPSConnection(host='presstv.ir', port=443) at 0x187f6d33390>, 'Connection to presstv.ir timed out. (connect timeout=30)'))"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Military",
+      "weapon",
+      "threats"
+    ],
+    "keywords_national_matched": [
+      "Military"
+    ],
+    "keywords_threat_matched": [
+      "weapon",
+      "threats"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Military"
+    ],
+    "kw_threat_hits": [
+      "weapon",
+      "threats"
+    ],
+    "relevance_score": 10.0,
+    "evidence_strength": "LOW",
+    "evidence_numeric": 25.0,
+    "urgency_score": 20.0,
+    "keyword_intensity": 24.0,
+    "prepriority_score": 16.15,
+    "prepriority_bucket": "LOW",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.presstv.ir/rss.xml",
+      "fetched_at": "2026-02-18T18:54:15.475192+00:00",
+      "rss": {
+        "published_at": null
+      },
+      "kw_national_hits": [
+        "Military"
+      ],
+      "kw_threat_hits": [
+        "weapon",
+        "threats"
+      ],
+      "kw_shortlisted": true
+    }
+  },
+  {
+    "id": "b166f48330c6d01a466f56d6",
+    "country": "IRAN",
+    "source_name": "Press TV",
+    "source_slug": "press_tv",
+    "url": "https://presstv.ir/Detail/2026/02/18/764308/explainer-how-latest-iran-us-talks-unfolded-what-next-nuclear-diplomacy",
+    "title": "Explainer: How the latest Iran-US Geneva talks unfolded and what’s next for nuclear diplomacy",
+    "published_at": null,
+    "author": null,
+    "summary": "Iran and the US held the second round of indirect talks in Geneva on Tuesday, with both sides noting progress on guiding principles while tensions persist amid continued US military posturing.",
+    "content_text": null,
+    "content_length": 0,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "fetch failed: ConnectTimeout: SOCKSHTTPSConnectionPool(host='presstv.ir', port=443): Max retries exceeded with url: /Detail/2026/02/18/764308/explainer-how-latest-iran-us-talks-unfolded-what-next-nuclear-diplomacy (Caused by ConnectTimeoutError(<SOCKSHTTPSConnection(host='presstv.ir', port=443) at 0x187f6d33b10>, 'Connection to presstv.ir timed out. (connect timeout=30)'))"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Military"
+    ],
+    "keywords_national_matched": [
+      "Military"
+    ],
+    "keywords_threat_matched": [],
+    "national_relevant": true,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [
+      "Military"
+    ],
+    "kw_threat_hits": [],
+    "relevance_score": 10.0,
+    "evidence_strength": "LOW",
+    "evidence_numeric": 25.0,
+    "urgency_score": 20.0,
+    "keyword_intensity": 6.0,
+    "prepriority_score": 14.35,
+    "prepriority_bucket": "LOW",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.presstv.ir/rss.xml",
+      "fetched_at": "2026-02-18T18:54:15.475202+00:00",
+      "rss": {
+        "published_at": null
+      },
+      "kw_national_hits": [
+        "Military"
+      ],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  }
+]

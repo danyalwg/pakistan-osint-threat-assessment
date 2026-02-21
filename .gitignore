@@ -1,0 +1,19 @@
+# Tor runtime state (do not commit)
+tor_data/
+
+
+
+# Local LLM model binaries (do not commit)
+data/models/*.gguf
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# OS junk
+Thumbs.db
+.DS_Store

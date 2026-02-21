@@ -1,0 +1,85 @@
+[
+  {
+    "id": "ded7a0e9cfde528111d64b8a",
+    "country": "PAKISTAN",
+    "source_name": "Geo News",
+    "source_slug": "geo_news",
+    "url": "https://www.geo.tv/latest/651600-pm-shehbaz-to-seek-clarity-on-troops-for-gaza-in-us-visit-sources",
+    "title": "PM Shehbaz to seek clarity on troops for Gaza in US visit: sources",
+    "published_at": "2026-02-18T12:51:00+00:00",
+    "author": "Reuters",
+    "summary": "<img src=\"https://www.geo.tv/assets/uploads/updates/2026-02-18/l_651600_053514_updates.jpg\" />\n\t            \tPrime Minister Shehbaz Sharif  speaks with US President Donald Trump at the &ldquo;Board of Peace&rdquo; meeting during the World Economic Forum  2026 in Davos on January 22, 2026. &mdash; AFPTrump Gaza plan envisioned stabilisation force from Muslim nations.Pakistan has concerns over scope...",
+    "content_text": "February 18, 2026\nISLAMABAD: Before Pakistan commits to sending troops to Gaza as part of the International Stabilisation Force it wants assurances from the United States that it will be a peacekeeping mission rather than tasked with disarming Hamas, three sources told Reuters.\nPrime Minister Shehbaz Sharif is set to attend the first formal meeting of President Donald Trump's Board of Peace in Washington on Thursday, alongside delegations from at least 20 countries.\nTrump, who will chair the meeting, is expected to announce a multi-billion dollar reconstruction plan for Gaza and detail plans for a UN-authorised stabilisation force for the Palestinian enclave.\nThree government sources said during the Washington visit PM Shehbaz wanted to better understand the goal of the ISF, what authority they were operating under and what the chain of command was before making a decision on deploying troops.\n\"We are ready to send troops. Let me make it clear that our troops could only be part of a peace mission in Gaza,\" said one of the sources, a close aide of PM Shehbaz.\n\"We will not be part of any other role, such as disarming Hamas. It is out of the question,\" he said.\nLast month, Foreign Office Spokesperson Tahir Andrabi said that Pakistan would continue to engage with international efforts aimed at peace and security in Gaza.\n“Pakistan will remain engaged with international efforts for peace and security in Gaza, leading to a lasting solution to the Palestine issue in accordance with United Nations resolutions,” he said.\nPakistan has reiterated at international forums its readiness to play a “constructive role” in the US peace plan for Palestine.\nUS President Trump launched his new board at World Economic Forum in Davos in late January, with world leaders, including PM Shehbaz, signing on to pursue a lasting agreement for Gaza.\nTrump's 20-point Gaza plan calls for a force from Muslim nations to oversee a transition period for reconstruction and economic recovery in the devastated Palestinian territory, and Washington has been pressing Islamabad to join.\nAnalysts say Pakistan would be an asset to the multinational force, with its experienced military that has gone to war with arch-rival India and tackled insurgencies.\n\"We can send initially a couple of thousand troops anytime, but we need to know what role they are going to play,\" the source added.\nTwo of the sources said it was likely PM Shehbaz, who has met Trump earlier this year in Davos and late last year at the White House, would either have an audience with him on the sidelines of the meeting or the following day at the White House.\nInitially designed to cement Gaza's ceasefire, Trump sees the Board of Peace, launched in late January, taking a wider role in resolving global conflicts. Some countries have reacted cautiously, fearing it could become a rival to the United Nations.\nWhile Pakistan has supported the establishment of the board, it has voiced concerns against the mission to demilitarise Hamas.",
+    "content_length": 3003,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Pakistan",
+      "Islamabad",
+      "Foreign Office",
+      "Military",
+      "wanted"
+    ],
+    "keywords_national_matched": [
+      "Pakistan",
+      "Islamabad",
+      "Foreign Office",
+      "Military"
+    ],
+    "keywords_threat_matched": [
+      "wanted"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Pakistan",
+      "Islamabad",
+      "Foreign Office",
+      "Military"
+    ],
+    "kw_threat_hits": [
+      "wanted"
+    ],
+    "relevance_score": 100.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 33.0,
+    "prepriority_score": 91.8,
+    "prepriority_bucket": "CRITICAL",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.geo.tv/rss/1/1",
+      "fetched_at": "2026-02-18T18:39:55.484002+00:00",
+      "rss": {
+        "published_at": "2026-02-18T12:51:00+00:00"
+      },
+      "kw_national_hits": [
+        "Pakistan",
+        "Islamabad",
+        "Foreign Office",
+        "Military"
+      ],
+      "kw_threat_hits": [
+        "wanted"
+      ],
+      "kw_shortlisted": true
+    }
+  }
+]

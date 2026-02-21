@@ -1,0 +1,368 @@
+[
+  {
+    "id": "cdf3ded2c288e33d5c0cde98",
+    "country": "QATAR",
+    "source_name": "Gulf Times",
+    "source_slug": "gulf_times",
+    "url": "https://www.gulf-times.com/article/720772/international/aseanphilippines/takaichi-reelected-as-japan-pm",
+    "title": "Takaichi Reelected as Japan PM",
+    "published_at": "2026-02-18T11:48:00+00:00",
+    "author": "info@gulf-times.com (Gulf Times)",
+    "summary": "Japan&#039;s House of Representatives reelected Sanae Takaichi as prime minister in parliament today, ten days after her Liberal Democratic Party&#039;s historic landslide victory in the general elect...",
+    "content_text": "Japan's House of Representatives reelected Sanae Takaichi as prime minister in parliament today, ten days after her Liberal Democratic Party's historic landslide victory in the general election held on Feb. 8.\nBefore the start of the 150-day session, Takaichi's Cabinet resigned en masse, as required by the constitution.\nShe is set to form a new Cabinet later in the day, with all ministers set to retain their positions.\nThe lower house election gave a boost to Takaichi and her party toward delivering on their policies, including her expansionary fiscal measures.\nTakaichi, known for her hawkish views on defense and security, expressed readiness to work toward amending the pacifist constitution, the Liberal Democratic Party's long-held goal.",
+    "content_length": 748,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Cabinet",
+      "Defense"
+    ],
+    "keywords_national_matched": [
+      "Cabinet",
+      "Defense"
+    ],
+    "keywords_threat_matched": [],
+    "national_relevant": true,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [
+      "Cabinet",
+      "Defense"
+    ],
+    "kw_threat_hits": [],
+    "relevance_score": 20.0,
+    "evidence_strength": "MED",
+    "evidence_numeric": 60.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 12.0,
+    "prepriority_score": 45.2,
+    "prepriority_bucket": "MEDIUM",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "feed_directory",
+      "endpoint_used": "https://www.gulf-times.com/Rss/Index",
+      "fetched_at": "2026-02-18T19:06:35.458604+00:00",
+      "rss": {
+        "published_at": "2026-02-18T11:48:00+00:00"
+      },
+      "kw_national_hits": [
+        "Cabinet",
+        "Defense"
+      ],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  },
+  {
+    "id": "b8f59694948d7e294fac3de3",
+    "country": "QATAR",
+    "source_name": "Gulf Times",
+    "source_slug": "gulf_times",
+    "url": "https://www.gulf-times.com/article/720770/international/uslatin-america/armed-attack-on-us-capitol-building-thwarted",
+    "title": "Armed attack on US Capitol building thwarted",
+    "published_at": "2026-02-18T11:40:00+00:00",
+    "author": "info@gulf-times.com (Gulf Times)",
+    "summary": "US authorities thwarted an armed attack on the US Capitol building in Washington, DC. An 18-year-old was arrested after breaking into the building wearing a bulletproof vest and carrying a loaded rifl...",
+    "content_text": "US authorities thwarted an armed attack on the US Capitol building in Washington, DC.\nAn 18-year-old was arrested after breaking into the building wearing a bulletproof vest and carrying a loaded rifle, in an incident that triggered a security alert around the congress, (CNN) reported, citing police.\nPolice explained that the detainee is from Smyrna, Georgia, and acted alone, while investigations are still underway to determine his motives.\nAuthorities charged the young man with possessing an unlicensed rifle, possessing unregistered firearms and ammunition, and engaging in other illegal activities. Police affirmed he was not previously known to them.\nInvestigations are ongoing to uncover the circumstances of the incident and its possible motives.",
+    "content_length": 757,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Police",
+      "attack",
+      "armed",
+      "security alert",
+      "arrested",
+      "ammunition",
+      "rifle"
+    ],
+    "keywords_national_matched": [
+      "Police"
+    ],
+    "keywords_threat_matched": [
+      "attack",
+      "armed",
+      "security alert",
+      "arrested",
+      "ammunition",
+      "rifle"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Police"
+    ],
+    "kw_threat_hits": [
+      "attack",
+      "armed",
+      "security alert",
+      "arrested",
+      "ammunition",
+      "rifle"
+    ],
+    "relevance_score": 35.0,
+    "evidence_strength": "MED",
+    "evidence_numeric": 60.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 60.0,
+    "prepriority_score": 57.5,
+    "prepriority_bucket": "MEDIUM",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "feed_directory",
+      "endpoint_used": "https://www.gulf-times.com/Rss/Index",
+      "fetched_at": "2026-02-18T19:06:35.458615+00:00",
+      "rss": {
+        "published_at": "2026-02-18T11:40:00+00:00"
+      },
+      "kw_national_hits": [
+        "Police"
+      ],
+      "kw_threat_hits": [
+        "attack",
+        "armed",
+        "security alert",
+        "arrested",
+        "ammunition",
+        "rifle"
+      ],
+      "kw_shortlisted": true
+    }
+  },
+  {
+    "id": "feafa0d064338b792edff81f",
+    "country": "QATAR",
+    "source_name": "Gulf Times",
+    "source_slug": "gulf_times",
+    "url": "https://www.gulf-times.com/article/720768/international/iranian-oil-minister-meets-russian-counterpart",
+    "title": "Iranian Oil Minister meets Russian Counterpart",
+    "published_at": "2026-02-18T11:31:00+00:00",
+    "author": "info@gulf-times.com (Gulf Times)",
+    "summary": "Iranian Oil Minister Mohsen Bakhtiar met Tuesday with his Russian counterpart Sergey Tsivilev, currently in Iran to participate in the 19th session of the Joint Economic Cooperation Committee between...",
+    "content_text": "Iranian Oil Minister Mohsen Bakhtiar met Tuesday with his Russian counterpart Sergey Tsivilev, currently in Iran to participate in the 19th session of the Joint Economic Cooperation Committee between the two countries.\nThe meeting focused on ways to expand bilateral cooperation across various economic sectors, particularly in oil, energy, transportation, and trade.\nDiscussions also covered the completion and review of cooperation documents established in previous committee meetings.",
+    "content_length": 487,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [],
+    "keywords_national_matched": [],
+    "keywords_threat_matched": [],
+    "national_relevant": false,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [],
+    "kw_threat_hits": [],
+    "relevance_score": 0.0,
+    "evidence_strength": "LOW",
+    "evidence_numeric": 25.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 0.0,
+    "prepriority_score": 28.75,
+    "prepriority_bucket": "LOW",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "feed_directory",
+      "endpoint_used": "https://www.gulf-times.com/Rss/Index",
+      "fetched_at": "2026-02-18T19:06:35.458626+00:00",
+      "rss": {
+        "published_at": "2026-02-18T11:31:00+00:00"
+      },
+      "kw_national_hits": [],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  },
+  {
+    "id": "0657bf4bce50f16922927b11",
+    "country": "QATAR",
+    "source_name": "Gulf Times",
+    "source_slug": "gulf_times",
+    "url": "https://www.gulf-times.com/article/720810/international/pakistan/pakistan-pm-to-seek-clarity-on-troops-for-gaza-in-us-visit-sources",
+    "title": "Pakistan PM to seek clarity on troops for Gaza in US visit: sources",
+    "published_at": "2026-02-17T21:00:00+00:00",
+    "author": "info@gulf-times.com (Gulf Times)",
+    "summary": "Before Pakistan commits to sending troops to Gaza as ‌part of the International Stabilisation Force (ISF) it wants assurances from the ​United States that it will be ‌a peacekeeping mission, three sou...",
+    "content_text": "Before Pakistan commits to sending troops to Gaza as part of the International Stabilisation Force (ISF) it wants assurances from the United States that it will be a peacekeeping mission, three sources told Reuters.\nPakistan's Prime Minister Shehbaz Sharif is set to attend the first formal meeting of President Donald Trump's Board of Peace in Washington today, alongside delegations from at least 20 countries.\nTrump, who will chair the meeting, is expected to announce a multi-billion dollar reconstruction plan for Gaza and detail plans for a UN-authorised stabilisation force for the Palestinian enclave. Three government sources said during the Washington visit Sharif wanted to better understand the goal of the ISF, what authority they were operating under and what the chain of command was before making a decision on deploying troops.\n\"We are ready to send troops. Let me make it clear that our troops could only be part of a peace mission in Gaza,\" said one of the sources, a close aide of Sharif.\nPakistan's foreign ministry did not respond to a Reuters request for a comment.\nTrump's 20-point Gaza plan calls for a force from Muslim nations to oversee a transition period for reconstruction and economic recovery in the devastated Palestinian territory, and Washington has been pressing Islamabad to join. Analysts say Pakistan would be an asset to the multinational force, with its experienced military that has gone to war with arch-rival India and tackled insurgencies.\n\"We can send initially a couple of thousand troops anytime, but we need to know what role they are going to play,\" the source added.\nTwo of the sources said it was likely Sharif, who has met Trump earlier this year in Davos and late last year at the White House, would either have an audience with him on the sidelines of the meeting or the following day at the White House.\nInitially designed to cement Gaza's ceasefire, Trump sees the Board of Peace, launched in late January, taking a wider role in resolving global conflicts. Some countries have reacted cautiously, fearing it could become a rival to the United Nations.\nHusain Haqqani, a former Pakistan ambassador to the United States, said the Pakistani public supported sending troops to Gaza only to help protect Palestinians.\n\"If developments in Gaza after the deployment do not improve the position of Palestinians, there could be a massive reaction at the public level in Pakistan,\" said Haqqani, currently a scholar at the Hudson Institute in Washington.",
+    "content_length": 2503,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Pakistan",
+      "Pakistani",
+      "Islamabad",
+      "Military",
+      "wanted"
+    ],
+    "keywords_national_matched": [
+      "Pakistan",
+      "Pakistani",
+      "Islamabad",
+      "Military"
+    ],
+    "keywords_threat_matched": [
+      "wanted"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Pakistan",
+      "Pakistani",
+      "Islamabad",
+      "Military"
+    ],
+    "kw_threat_hits": [
+      "wanted"
+    ],
+    "relevance_score": 100.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 33.0,
+    "prepriority_score": 91.8,
+    "prepriority_bucket": "CRITICAL",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "feed_directory",
+      "endpoint_used": "https://www.gulf-times.com/Rss/Index",
+      "fetched_at": "2026-02-18T19:06:35.458556+00:00",
+      "rss": {
+        "published_at": "2026-02-17T21:00:00+00:00"
+      },
+      "kw_national_hits": [
+        "Pakistan",
+        "Pakistani",
+        "Islamabad",
+        "Military"
+      ],
+      "kw_threat_hits": [
+        "wanted"
+      ],
+      "kw_shortlisted": true
+    }
+  },
+  {
+    "id": "f2591af4782bdf42972463e1",
+    "country": "QATAR",
+    "source_name": "Gulf Times",
+    "source_slug": "gulf_times",
+    "url": "https://www.gulf-times.com/article/720806/international/pakistan/ramadan-in-rawalpindi",
+    "title": "Ramadan in Rawalpindi",
+    "published_at": "2026-02-17T21:00:00+00:00",
+    "author": "info@gulf-times.com (Gulf Times)",
+    "summary": "Worshippers perform Tarawih prayers marking the start of the holy month of Ramadan at a mosque in Rawalpindi Wednesday.",
+    "content_text": "Worshippers perform Tarawih prayers marking the start of the holy month of Ramadan at a mosque in Rawalpindi Wednesday. Worshippers Tarawih prayers Ramadan Rawalpindi Related Story Ramadan a month of self-discipline, responsibility, and rational living Qatar announces start of Ramadan on Wednesday",
+    "content_length": 298,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "text from DOM fallback; ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Pakistan",
+      "Rawalpindi"
+    ],
+    "keywords_national_matched": [
+      "Pakistan",
+      "Rawalpindi"
+    ],
+    "keywords_threat_matched": [],
+    "national_relevant": true,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [
+      "Pakistan",
+      "Rawalpindi"
+    ],
+    "kw_threat_hits": [],
+    "relevance_score": 53.0,
+    "evidence_strength": "LOW",
+    "evidence_numeric": 25.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 12.0,
+    "prepriority_score": 56.45,
+    "prepriority_bucket": "MEDIUM",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "feed_directory",
+      "endpoint_used": "https://www.gulf-times.com/Rss/Index",
+      "fetched_at": "2026-02-18T19:06:35.458580+00:00",
+      "rss": {
+        "published_at": "2026-02-17T21:00:00+00:00"
+      },
+      "kw_national_hits": [
+        "Pakistan",
+        "Rawalpindi"
+      ],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  }
+]

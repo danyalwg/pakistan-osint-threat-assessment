@@ -1,0 +1,85 @@
+[
+  {
+    "id": "eae87a71248c03e27e1f47e0",
+    "country": "EUROPE (INTERNATIONAL)",
+    "source_name": "France 24",
+    "source_slug": "france_24",
+    "url": "https://www.france24.com/en/video/20260218-france-parliamentary-aide-arrested-after-death-of-far-right-activist",
+    "title": "France: Parliamentary aide arrested after death of far-right activist",
+    "published_at": "2026-02-18T17:27:08+00:00",
+    "author": "FRANCE24",
+    "summary": "French police investigating the beating of a far-right militant who died of brain injuries have arrested 11 people, prosecutors said, in a case adding fuel to long-standing divides in French politics ahead of mayoral elections.\n \nThe 11 people in police custody include the parliamentary aide of far-left France Unbowed MP Raphaël Arnault.",
+    "content_text": null,
+    "content_length": 0,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "fetch failed: RuntimeError: HTTP 403"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Police",
+      "militant",
+      "death",
+      "arrested",
+      "custody"
+    ],
+    "keywords_national_matched": [
+      "Police"
+    ],
+    "keywords_threat_matched": [
+      "militant",
+      "death",
+      "arrested",
+      "custody"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Police"
+    ],
+    "kw_threat_hits": [
+      "militant",
+      "death",
+      "arrested",
+      "custody"
+    ],
+    "relevance_score": 35.0,
+    "evidence_strength": "MED",
+    "evidence_numeric": 60.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 42.0,
+    "prepriority_score": 55.7,
+    "prepriority_bucket": "MEDIUM",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.france24.com/en/rss",
+      "fetched_at": "2026-02-18T19:10:10.154398+00:00",
+      "rss": {
+        "published_at": "2026-02-18T17:27:08+00:00"
+      },
+      "kw_national_hits": [
+        "Police"
+      ],
+      "kw_threat_hits": [
+        "militant",
+        "death",
+        "arrested",
+        "custody"
+      ],
+      "kw_shortlisted": true
+    }
+  }
+]

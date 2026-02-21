@@ -1,0 +1,401 @@
+[
+  {
+    "id": "ded7a0e9cfde528111d64b8a",
+    "country": "PAKISTAN",
+    "source_name": "Geo News",
+    "source_slug": "geo_news",
+    "url": "https://www.geo.tv/latest/651600-pm-shehbaz-to-seek-clarity-on-troops-for-gaza-in-us-visit-sources",
+    "title": "PM Shehbaz to seek clarity on troops for Gaza in US visit: sources",
+    "published_at": "2026-02-18T12:51:00+00:00",
+    "author": "Reuters",
+    "summary": "<img src=\"https://www.geo.tv/assets/uploads/updates/2026-02-18/l_651600_053514_updates.jpg\" />\n\t            \tPrime Minister Shehbaz Sharif  speaks with US President Donald Trump at the &ldquo;Board of Peace&rdquo; meeting during the World Economic Forum  2026 in Davos on January 22, 2026. &mdash; AFPTrump Gaza plan envisioned stabilisation force from Muslim nations.Pakistan has concerns over scope...",
+    "content_text": "February 18, 2026\nISLAMABAD: Before Pakistan commits to sending troops to Gaza as part of the International Stabilisation Force it wants assurances from the United States that it will be a peacekeeping mission rather than tasked with disarming Hamas, three sources told Reuters.\nPrime Minister Shehbaz Sharif is set to attend the first formal meeting of President Donald Trump's Board of Peace in Washington on Thursday, alongside delegations from at least 20 countries.\nTrump, who will chair the meeting, is expected to announce a multi-billion dollar reconstruction plan for Gaza and detail plans for a UN-authorised stabilisation force for the Palestinian enclave.\nThree government sources said during the Washington visit PM Shehbaz wanted to better understand the goal of the ISF, what authority they were operating under and what the chain of command was before making a decision on deploying troops.\n\"We are ready to send troops. Let me make it clear that our troops could only be part of a peace mission in Gaza,\" said one of the sources, a close aide of PM Shehbaz.\n\"We will not be part of any other role, such as disarming Hamas. It is out of the question,\" he said.\nLast month, Foreign Office Spokesperson Tahir Andrabi said that Pakistan would continue to engage with international efforts aimed at peace and security in Gaza.\n“Pakistan will remain engaged with international efforts for peace and security in Gaza, leading to a lasting solution to the Palestine issue in accordance with United Nations resolutions,” he said.\nPakistan has reiterated at international forums its readiness to play a “constructive role” in the US peace plan for Palestine.\nUS President Trump launched his new board at World Economic Forum in Davos in late January, with world leaders, including PM Shehbaz, signing on to pursue a lasting agreement for Gaza.\nTrump's 20-point Gaza plan calls for a force from Muslim nations to oversee a transition period for reconstruction and economic recovery in the devastated Palestinian territory, and Washington has been pressing Islamabad to join.\nAnalysts say Pakistan would be an asset to the multinational force, with its experienced military that has gone to war with arch-rival India and tackled insurgencies.\n\"We can send initially a couple of thousand troops anytime, but we need to know what role they are going to play,\" the source added.\nTwo of the sources said it was likely PM Shehbaz, who has met Trump earlier this year in Davos and late last year at the White House, would either have an audience with him on the sidelines of the meeting or the following day at the White House.\nInitially designed to cement Gaza's ceasefire, Trump sees the Board of Peace, launched in late January, taking a wider role in resolving global conflicts. Some countries have reacted cautiously, fearing it could become a rival to the United Nations.\nWhile Pakistan has supported the establishment of the board, it has voiced concerns against the mission to demilitarise Hamas.",
+    "content_length": 3003,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Pakistan",
+      "Islamabad",
+      "Foreign Office",
+      "Military",
+      "wanted"
+    ],
+    "keywords_national_matched": [
+      "Pakistan",
+      "Islamabad",
+      "Foreign Office",
+      "Military"
+    ],
+    "keywords_threat_matched": [
+      "wanted"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Pakistan",
+      "Islamabad",
+      "Foreign Office",
+      "Military"
+    ],
+    "kw_threat_hits": [
+      "wanted"
+    ],
+    "relevance_score": 100.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 33.0,
+    "prepriority_score": 91.8,
+    "prepriority_bucket": "CRITICAL",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.geo.tv/rss/1/1",
+      "fetched_at": "2026-02-18T18:39:55.484002+00:00",
+      "rss": {
+        "published_at": "2026-02-18T12:51:00+00:00"
+      },
+      "kw_national_hits": [
+        "Pakistan",
+        "Islamabad",
+        "Foreign Office",
+        "Military"
+      ],
+      "kw_threat_hits": [
+        "wanted"
+      ],
+      "kw_shortlisted": true
+    }
+  },
+  {
+    "id": "69ef68d3248697ef6ee30f6e",
+    "country": "PAKISTAN",
+    "source_name": "Geo News",
+    "source_slug": "geo_news",
+    "url": "https://www.geo.tv/latest/651601-govt-assures-uninterrupted-gas-supply-during-sehr-and-iftar",
+    "title": "Govt assures uninterrupted gas supply during Sehr and Iftar",
+    "published_at": "2026-02-18T12:40:00+00:00",
+    "author": "Shahid Farooq",
+    "summary": "<img src=\"https://www.geo.tv/assets/uploads/updates/2026-02-18/l_651601_052623_updates.jpg\" />\n\t            \tA representational image of flames of a lit gas stove. &mdash; AFP/FileGas supply at maximum pressure from 3am to 10:30pm: minister.Petroleum minister says &ldquo;additional volume&rdquo; of gas arranged.Says &ldquo;situation rooms&rdquo; established at head offices SNGPL, SSGC. <p...",
+    "content_text": "February 18, 2026\nISLAMABAD: The federal government on Wednesday announced that it would ensure gas supply during Sehri and Iftar hours to facilitate consumers across the country during the holy month of Ramadan.\nAddressing a joint press conference alongside Power Minister Awais Leghari, Petroleum Minister Ali Pervaiz Malik said that all arrangements were in place to ensure gas supply at “maximum pressure” from 3am to 10:30pm throughout the fasting month.\nIn order to facilitate consumers, the minister said that “additional volume” of gas has been arranged.\nThe petroleum minister said “situation rooms” have been established at the head offices of Sui Northern Gas Pipelines Limited (SNGPL) and Sui Southern Gas Company (SSGC) to ensure uninterrupted gas supply and a swift response to complaints.\nThe minister said that the regional offices have been directed to monitor the gas supply, especially on the tail ends.\nAll the complaint would be addressed as per the Oil and Gas Regulatory Authority (OGRA) regulations, he added.\n“With all these efforts, the Power Division and the Petroleum Division are trying to become a source of ease during the holy month,” the minister added.\nSeparately, the SSGC said it is committed to ensuring an uninterrupted gas supply at maximum pressure for consumers during Sehri and Iftar hours in Ramadan.\nDespite annual declines of up to 10% in national gas reserves, SSGC spokesperson Salman Ahmed Siddiqui said supply would continue from 3:00am to 10:30pm throughout the holy month.\nHe urged consumers to use gas responsibly and warned that use of compressors could result in strict legal action.\nSpeaking on the occasion, Power Minister Awais Leghari assured the nation that there would be no power loadshedding during Sehr and Iftar in the holy month.\nThe minister said that the decision has been taken on the special instructions of Prime Minister Shehbaz Sharif to facilitate people across the country.\nHe said the Power Division and the Petroleum Division, after a detailed review of the situation, have finalised arrangements to ensure that no power and gas outage occur during Sehri and Iftar timings anywhere in the country.\nThe minister said the government has decided that even in high-loss or technically sensitive areas, electricity supply will remain uninterrupted during these hours.\nHe added that in case of any major technical fault, immediate action will be taken to restore power supply so that the people do not face any inconvenience.\nLeghari said a special control room has been established to effectively monitor the situation and oversee all electricity feeders across the country.\nHe advised consumers to lodge complaints on helpline number 118 in case of any difficulty regarding electricity supply, adding that complaints will be addressed promptly.",
+    "content_length": 2816,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Islamabad",
+      "Federal Government",
+      "OGRA"
+    ],
+    "keywords_national_matched": [
+      "Islamabad",
+      "Federal Government",
+      "OGRA"
+    ],
+    "keywords_threat_matched": [],
+    "national_relevant": true,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [
+      "Islamabad",
+      "Federal Government",
+      "OGRA"
+    ],
+    "kw_threat_hits": [],
+    "relevance_score": 65.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 18.0,
+    "prepriority_score": 72.8,
+    "prepriority_bucket": "HIGH",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.geo.tv/rss/1/1",
+      "fetched_at": "2026-02-18T18:39:55.484034+00:00",
+      "rss": {
+        "published_at": "2026-02-18T12:40:00+00:00"
+      },
+      "kw_national_hits": [
+        "Islamabad",
+        "Federal Government",
+        "OGRA"
+      ],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  },
+  {
+    "id": "79f1d1ee98540aa36dbb8b54",
+    "country": "PAKISTAN",
+    "source_name": "Geo News",
+    "source_slug": "geo_news",
+    "url": "https://www.geo.tv/latest/651593-live-ruet-e-hilal-committee-meeting-underway-for-ramadan-2026-moon-sighting",
+    "title": "Ramadan moon sighted in Pakistan, first fast to be observed tomorrow",
+    "published_at": "2026-02-18T12:17:00+00:00",
+    "author": "Latif ur Rehman",
+    "summary": "<img src=\"https://www.geo.tv/assets/uploads/updates/2026-02-18/l_651593_074000_updates.jpg\" />\n\t            \tA new crescent seen through a telescope shines beside the tower of a mosque. &mdash; Reuters/File\nPMD, Suparco assisted the committee in moon sighting.Zonal committees convened to collect testimonies of sightings.Bangladesh, India announce Feb 19 as first day of holy month.<p>Pakistan will...",
+    "content_text": "February 18, 2026\nPakistan will observe the first day of Ramadan 2026 tomorrow (Thursday) as the crescent moon for the holy month has been sighted, announced Central Ruet-e-Hilal Committee Chairman Maulana Abdul Khabeer Azad on Wednesday.\nReports of testimonies started coming in around 6:30pm, with sources saying at least testimonies 40 were received from across the country.\nTestimonies were received from different areas of Balochistan and Khyber Pakhtunkhwa.\nA meeting of the committee was convened in Peshawar around 5pm to sight the moon for the holy month, with zonal committees across the country also convened to collect testimonies of moon sightings.\nMinistry of Science and Technology, the Pakistan Meteorological Department (PMD), and Space and Upper Atmosphere Research Commission (Suparco) were also part of the committee and assisted the body in moon sighting.\nThe Suparco had forecast that the crescent for Ramadan 1447 Hijri would be visible today.\nPakistan will begin observing the holy month on the same day as Bangladesh and India, where the crescent moon was also sighted today.\nSeveral Gulf countries, including Saudi Arabia, the United Arab Emirates, and Qatar, marked first day of Ramadan today (Wednesday) after sighting the crescent moon a day earlier.\nThe countries reporting no sighting on Tuesday included Azerbaijan, Kazakhstan, Uzbekistan, the Philippines, Japan, Turkiye, Malaysia, Indonesia, Singapore, and Brunei.\nThe Muslim world welcomes Ramadan with deep religious devotion, as over a billion believers fast to practice patience, self-discipline, and generosity.\nIslamic months last 29 or 30 days, with their start and end determined by the sighting of the crescent moon, so Ramadan does not fall on the same Gregorian date each year.\nAs the ninth month of the 12-month Islamic calendar — which is about 10 days shorter than the Gregorian year due to its lunar basis — Ramadan shifts annually across the Gregorian calendar.",
+    "content_length": 1961,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Pakistan",
+      "Peshawar",
+      "Khyber Pakhtunkhwa",
+      "Balochistan"
+    ],
+    "keywords_national_matched": [
+      "Pakistan",
+      "Peshawar",
+      "Khyber Pakhtunkhwa",
+      "Balochistan"
+    ],
+    "keywords_threat_matched": [],
+    "national_relevant": true,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [
+      "Pakistan",
+      "Peshawar",
+      "Khyber Pakhtunkhwa",
+      "Balochistan"
+    ],
+    "kw_threat_hits": [],
+    "relevance_score": 100.0,
+    "evidence_strength": "MED",
+    "evidence_numeric": 60.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 24.0,
+    "prepriority_score": 86.4,
+    "prepriority_bucket": "CRITICAL",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.geo.tv/rss/1/1",
+      "fetched_at": "2026-02-18T18:39:55.484054+00:00",
+      "rss": {
+        "published_at": "2026-02-18T12:17:00+00:00"
+      },
+      "kw_national_hits": [
+        "Pakistan",
+        "Peshawar",
+        "Khyber Pakhtunkhwa",
+        "Balochistan"
+      ],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  },
+  {
+    "id": "2e2a1db29ad991a97ed3a696",
+    "country": "PAKISTAN",
+    "source_name": "Geo News",
+    "source_slug": "geo_news",
+    "url": "https://www.geo.tv/latest/651566-pti-announces-imran-khan-release-force-to-secure-former-pms-release",
+    "title": "PTI announces 'Imran Khan Release Force' to secure former PM's freedom",
+    "published_at": "2026-02-18T09:31:00+00:00",
+    "author": "Abbas Ali",
+    "summary": "<img src=\"https://www.geo.tv/assets/uploads/updates/2026-02-18/l_651566_023804_updates.jpg\" />\n\t            \tA collage showing PTI founder Imran Khan  and Khyber Pakhtunkhwa Chief Minister Sohail Afridi. &mdash; AFP/APP/FileForce to take oath after Eid ul Fitr, says KP CM Afridi.KP CM Afridi says tasked to lead &ldquo;street movement&rdquo;.Imran Khan has been behind bars since August 2023.<p...",
+    "content_text": "February 18, 2026\nThe Pakistan Tehreek-e-Insaf (PTI) has announced the formation of “Imran Khan Release Force”, which will struggle to secure the former prime minister’s release from jail.\nThe cricketer-turned-politician, 73, has been in jail since August 2023, convicted in a string of cases that he claims were politically driven following his ouster in a 2022 parliamentary vote.\nThe PTI seems to have sped up its call to seek his release following the revelation, in a medical report submitted to the Supreme Court, that he only has 15% vision left in his right eye. The government, however, maintains that the ex-premier is getting the best treatment possible.\nInterior Minister Mohsin Naqvi recently told journalists that the PTI leadership and Imran’s personal doctors were satisfied with the treatment, but his sister, Aleema Khan, was politicising the issue.\nIn a press conference outside the Supreme Court today, Imran’s loyalist Khyber Pakhtunkhwa Chief Minister Sohail Afridi said that he had been assigned the responsibility of leading a \"street movement\" by the incarcerated PTI founder.\nHe alleged that court orders were being “thrown into the dustbin” and claimed that the PTI founding-chairman is still being denied access to his personal doctors.\nAnnouncing the formation of \"Imran Khan Release Force\", the provincial chief executive said the force would be formally registered and would pursue a peaceful struggle. He added that members of the force would take an oath in Peshawar immediately after Eid ul Fitr.\nThe force, he further said, would have a clear chain of command and that the PTI founder would decide who would be given command responsibilities. He stressed that preparations would be completed before launching any struggle.\nAccording to Afridi, the movement would be aimed at the supremacy of the Constitution, democracy and an independent media.",
+    "content_length": 1880,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Pakistan",
+      "Peshawar",
+      "Khyber Pakhtunkhwa",
+      "KP",
+      "Chief Minister",
+      "PTI"
+    ],
+    "keywords_national_matched": [
+      "Pakistan",
+      "Peshawar",
+      "Khyber Pakhtunkhwa",
+      "KP",
+      "Chief Minister",
+      "PTI"
+    ],
+    "keywords_threat_matched": [],
+    "national_relevant": true,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [
+      "Pakistan",
+      "Peshawar",
+      "Khyber Pakhtunkhwa",
+      "KP",
+      "Chief Minister",
+      "PTI"
+    ],
+    "kw_threat_hits": [],
+    "relevance_score": 100.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 36.0,
+    "prepriority_score": 92.1,
+    "prepriority_bucket": "CRITICAL",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.geo.tv/rss/1/1",
+      "fetched_at": "2026-02-18T18:39:55.484081+00:00",
+      "rss": {
+        "published_at": "2026-02-18T09:31:00+00:00"
+      },
+      "kw_national_hits": [
+        "Pakistan",
+        "Peshawar",
+        "Khyber Pakhtunkhwa",
+        "KP",
+        "Chief Minister",
+        "PTI"
+      ],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  },
+  {
+    "id": "a773734f85a6baaff51ee099",
+    "country": "PAKISTAN",
+    "source_name": "Geo News",
+    "source_slug": "geo_news",
+    "url": "https://www.geo.tv/latest/651528-ruet-e-hilal-committee-to-meet-in-peshawar-for-ramadan-2026-moon-sighting-today",
+    "title": "Ruet-e-Hilal Committee to meet in Peshawar for Ramadan 2026 moon sighting today",
+    "published_at": "2026-02-18T07:56:00+00:00",
+    "author": "Nadia Saboohi",
+    "summary": "<img src=\"https://www.geo.tv/assets/uploads/updates/2026-02-18/l_651528_123818_updates.jpg\" />\n\t            \tCentral Ruet-e-Hilal Committee Chairman Maulana Abdul Khabeer Azad, surrounded by religious scholars and clerics, looks in the telescope to spot the crescent moon in this undated image. &mdash; AFP/FileCentral Ruet-e-Hilal Committee to convene at 4:30pm in Peshawar.Zonal committees to meet...",
+    "content_text": "February 18, 2026\nPESHAWAR: Chairman Central Ruet-e-Hilal Committee Maulana Abdul Khabeer Azad has said that the body will meet in Peshawar for Ramadan 2026 moon sighting today.\nThe central committee will convene at 4:30pm at the Auqaf Hall under Maulana Azad, whereas zonal Ruet-e-Hilal committees will meet in Lahore, Karachi, Quetta and Islamabad.\nSpeaking on Geo News' programme \"Geo Pakistan\", Maulana Azad said that in recent years Ramadan has been announced on the same day, in recent years and God willing, this time it will be the same as well.\nThe official also noted that the Ministry of Science and Technology, the Pakistan Meteorological Department (PMD), and Space and Upper Atmosphere Research Commission (Suparco) are also part of the Ruet-e-Hilal Committee and will assist the body in moon sighting.\nThe Suparco has forecast that the crescent for Ramadan 1447 Hijri is likely to be visible on February 18 (today) — making February 19 the expected first day of fasting.\nIt is estimated that at sunset on February 18, the moon's age will be approximately 25 hours and 48 minutes. In coastal areas, the time difference between sunset and moonset is expected to be around 59 minutes, enhancing the chances of naked-eye sighting.\nA day earlier, the Ramadan crescent was sighted in Saudi Arabia and other Gulf states, including the United Arab Emirates (UAE), Qatar and Kuwait, whose residents are observing their first fast today.\nThe countries reporting no sighting on Tuesday include Azerbaijan, Kazakhstan, Uzbekistan, the Philippines, Japan, Turkiye, Malaysia, Indonesia, Singapore, and Brunei.\nThe Muslim world welcomes Ramadan with deep religious devotion, as over a billion believers fast to practice patience, self-discipline, and generosity.\nIslamic months last 29 or 30 days, with their start and end determined by the sighting of the crescent moon, so Ramadan does not fall on the same Gregorian date each year.\nAs the ninth month of the 12-month Islamic calendar — which is about 10 days shorter than the Gregorian year due to its lunar basis — Ramadan shifts annually across the Gregorian calendar.\nIn Pakistan, the government has announced a Ramadan package worth Rs38 billion, benefiting more than 12 million families through digital payments, who will receive Rs13,000 each.\nMeanwhile, the Power Division has directed all electricity distribution companies (Discos), including K-Electric, to ensure an uninterrupted supply during Sehr and Iftar in Ramadan.\nAll Discos have been directed to promptly address electricity consumer complaints and avoid unannounced load-shedding.",
+    "content_length": 2603,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Pakistan",
+      "Islamabad",
+      "Karachi",
+      "Lahore",
+      "Peshawar",
+      "Quetta"
+    ],
+    "keywords_national_matched": [
+      "Pakistan",
+      "Islamabad",
+      "Karachi",
+      "Lahore",
+      "Peshawar",
+      "Quetta"
+    ],
+    "keywords_threat_matched": [],
+    "national_relevant": true,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [
+      "Pakistan",
+      "Islamabad",
+      "Karachi",
+      "Lahore",
+      "Peshawar",
+      "Quetta"
+    ],
+    "kw_threat_hits": [],
+    "relevance_score": 100.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 36.0,
+    "prepriority_score": 92.1,
+    "prepriority_bucket": "CRITICAL",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.geo.tv/rss/1/1",
+      "fetched_at": "2026-02-18T18:39:55.484093+00:00",
+      "rss": {
+        "published_at": "2026-02-18T07:56:00+00:00"
+      },
+      "kw_national_hits": [
+        "Pakistan",
+        "Islamabad",
+        "Karachi",
+        "Lahore",
+        "Peshawar",
+        "Quetta"
+      ],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "id": "8ad82d40cc03e1d8b37f69e6",
+    "country": "TURKEY",
+    "source_name": "Daily Sabah",
+    "source_slug": "daily_sabah",
+    "url": "https://www.dailysabah.com/world/europe/uk-police-investigate-epsteins-use-of-airports-for-trafficking",
+    "title": "UK police investigate Epstein’s use of airports for trafficking",
+    "published_at": "2026-02-18T18:08:00+00:00",
+    "author": "Reuters",
+    "summary": "British police are examining whether Jeffrey Epstein used private flights through two London-area airports and one in central England for trafficking, as part of a nationally coord...",
+    "content_text": "British police are examining whether Jeffrey Epstein used private flights through two London-area airports and one in central England for trafficking, as part of a nationally coordinated effort to investigate the late financier’s connections to the UK.\nThree regional police forces said on Wednesday they were reviewing information about private flights linked to Epstein following the publication by the U.S. government of millions of documents on the disgraced financier at the end of January.\nEssex Police said it was looking at flights in and out of Stansted Airport, northeast of London, while Bedfordshire Police said it was assessing flights in and out of Luton Airport, northwest of the capital.\nWest Midlands Police said it was also assessing evidence connected to Epstein from Birmingham Airport.\nThe forces' assessments, which do not constitute a full investigation, follow the establishment of a national coordination group to support individual police forces in examining Epstein's ties to Britain or British people.\n\"We continue to work collaboratively to assess the details being made public to allow us to understand any potential impact arising from the millions of documents that have been published,\" the National Police Chiefs' Council said in a statement.\nThe BBC reported last year that incomplete flight logs and manifests showed that 87 flights linked to Epstein had arrived or departed from British airports between the early 1990s and 2018, with unidentified \"females\" listed among the passengers.\nReuters could not independently verify the BBC's report.\nDocuments in the Epstein files reviewed by Reuters show multiple references to Stansted, including one that discussed whether a Russian woman with a U.S. visa could switch planes at the airport. The files also include dozens of references to UK visas.\nStansted, Luton and Birmingham airports said in separate statements that private flights were not managed by the terminals they operate, and that Border Force was responsible for immigration and customs checks.\nBorder Force did not respond to a request for comment. Under British law, all individuals arriving in Britain are subject to thorough checks.\nThe Epstein furore has already had a major impact in Britain. Two other police forces are looking into Peter Mandelson, the former British ambassador to the U.S., and the younger brother of King Charles, Andrew Mountbatten-Windsor, over allegations of misconduct in public office. The Epstein files suggested both had forwarded confidential government documents to the late U.S. financier.\nBoth men have denied any wrongdoing and said they regret their friendships with Epstein, but they have not responded to specific requests for comment after the latest files were published.",
+    "content_length": 2764,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Police",
+      "trafficking"
+    ],
+    "keywords_national_matched": [
+      "Police"
+    ],
+    "keywords_threat_matched": [
+      "trafficking"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Police"
+    ],
+    "kw_threat_hits": [
+      "trafficking"
+    ],
+    "relevance_score": 35.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 15.0,
+    "prepriority_score": 57.5,
+    "prepriority_bucket": "MEDIUM",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.dailysabah.com/rss/home-page",
+      "fetched_at": "2026-02-18T19:06:49.690824+00:00",
+      "rss": {
+        "published_at": "2026-02-18T18:08:00+00:00"
+      },
+      "kw_national_hits": [
+        "Police"
+      ],
+      "kw_threat_hits": [
+        "trafficking"
+      ],
+      "kw_shortlisted": true
+    }
+  },
+  {
+    "id": "b551b3770a7b01df4eeaf2ad",
+    "country": "TURKEY",
+    "source_name": "Daily Sabah",
+    "source_slug": "daily_sabah",
+    "url": "https://www.dailysabah.com/world/syrian-crisis/only-small-number-remain-at-syria-camp-for-daesh-families",
+    "title": "Only small number remain at Syria camp for Daesh families",
+    "published_at": "2026-02-18T17:48:00+00:00",
+    "author": "Reuters",
+    "summary": "Fewer than 1,000 families remain at a camp in northeastern Syria's Hassakeh that once held relatives of suspected Daesh members, its former director said Wednesday, after thou...",
+    "content_text": "Fewer than 1,000 families remain at a camp in northeastern Syria's Hassakeh that once held relatives of suspected Daesh members, its former director said Wednesday, after thousands fled last month as government forces seized the area from the YPG/PKK terrorist group.\nAl-Hol, near the Iraqi border, was one of the main detention camps for relatives of suspected Daesh terrorist fighters who were detained during the U.S.-backed campaign against the terrorist group in Syria.\nControl of the camp changed hands last month when government forces under President Ahmed al-Sharaa seized swathes of the northeast from the YPG/PKK-led Syrian Democratic Forces (SDF), including several jails holding Daesh fighters. The U.S. military said last week it had completed a mission to transfer 5,700 adult male Daesh detainees to Iraq.\nJihan Hanna, the former director who still coordinates with international agencies and the Syrian government, told Reuters the remaining families were Syrian nationals and were being transferred to a camp in Aleppo. Most of the camp’s foreign nationals had fled, she said.\nThe Syrian government did not immediately respond to requests for comment.\nAccording to the latest camp data obtained by Reuters, dated Jan. 19 – a day before the government took control of the camp – its population was 6,639 families comprising 23,407 people, mostly Syrians and Iraqis, as well as 6,280 foreigners from more than 40 nationalities.\nUNHCR, the U.N. refugee agency, said it had observed \"a significant decrease in the number of residents in al-Hol camp in recent weeks,\" adding in a statement to Reuters that there were no confirmed figures on the remaining population.\n\"Over the weekend the camp administration advised UNHCR not to enter the camp due to the unrest and anxiety in the camp,\" UNHCR added.\nThe Syrian government accused the SDF of withdrawing from al-Hol on Jan. 20 without any coordination.\nA Syrian government security source said most people in the camp fled that day during a five-hour period when it was unguarded, and that some had left with men who came to take their relatives to unknown destinations.\nThe security source and a source from a non-governmental organisation working there said a section of the camp that housed its most dangerous residents, known as the annex, was empty.\nThe security source said the escapees had spread throughout Syria and that security authorities, working in cooperation with international partners, had established a unit to \"follow up on the matter and pursue those who are wanted.\"\nSome have left Syria.\nIn Lebanon, the army has questioned more than a dozen Lebanese who crossed illegally from Syria after leaving al-Hol, a Lebanese security source said.\nThe Syrian government’s Directorate of International Cooperation said on Tuesday that hundreds of people, mostly women and children, had been transferred from al-Hol to a newly prepared camp near the town of Akhtarin in northern Aleppo.",
+    "content_length": 2962,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Military",
+      "terrorist",
+      "detained",
+      "detention",
+      "wanted",
+      "seized"
+    ],
+    "keywords_national_matched": [
+      "Military"
+    ],
+    "keywords_threat_matched": [
+      "terrorist",
+      "detained",
+      "detention",
+      "wanted",
+      "seized"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Military"
+    ],
+    "kw_threat_hits": [
+      "terrorist",
+      "detained",
+      "detention",
+      "wanted",
+      "seized"
+    ],
+    "relevance_score": 10.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 51.0,
+    "prepriority_score": 48.6,
+    "prepriority_bucket": "MEDIUM",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.dailysabah.com/rss/home-page",
+      "fetched_at": "2026-02-18T19:06:49.690840+00:00",
+      "rss": {
+        "published_at": "2026-02-18T17:48:00+00:00"
+      },
+      "kw_national_hits": [
+        "Military"
+      ],
+      "kw_threat_hits": [
+        "terrorist",
+        "detained",
+        "detention",
+        "wanted",
+        "seized"
+      ],
+      "kw_shortlisted": true
+    }
+  }
+]

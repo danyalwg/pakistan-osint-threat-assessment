@@ -1,0 +1,340 @@
+[
+  {
+    "id": "873aa95a9d06e844353380ed",
+    "country": "TURKEY",
+    "source_name": "Daily Sabah",
+    "source_slug": "daily_sabah",
+    "url": "https://www.dailysabah.com/politics/erdogan-extends-ramadan-wishes-to-turkiye-muslim-world/news",
+    "title": "Erdoğan extends Ramadan wishes to Türkiye, Muslim world",
+    "published_at": "2026-02-18T18:23:00+00:00",
+    "author": "Daily Sabah",
+    "summary": "President Recep Tayyip Erdoğan on Tuesday conveyed his wishes for a blessed Ramadan, expressing hope that the holy month brings goodness and prosperity to Türkiye, the Islamic worl...",
+    "content_text": "President Recep Tayyip Erdoğan on Tuesday conveyed his wishes for a blessed Ramadan, expressing hope that the holy month brings goodness and prosperity to Türkiye, the Islamic world and all humanity while strengthening unity and solidarity.\nIn a statement posted on social media, the president said he prays that the sacred days, marked by the opening of the gates of mercy, reinforce national unity and togetherness.\nThe people in Türkiye will start fasting on Thursday, but various countries started fasting on Wednesday.\nMuslims around the world will fast for approximately 12 to 15 hours a day during Ramadan. In the Northern Hemisphere, fasting hours will lengthen as days grow longer, while in the Southern Hemisphere, they are expected to gradually shorten.",
+    "content_length": 764,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [],
+    "keywords_national_matched": [],
+    "keywords_threat_matched": [],
+    "national_relevant": false,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [],
+    "kw_threat_hits": [],
+    "relevance_score": 0.0,
+    "evidence_strength": "MED",
+    "evidence_numeric": 60.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 0.0,
+    "prepriority_score": 34.0,
+    "prepriority_bucket": "LOW",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.dailysabah.com/rss/home-page",
+      "fetched_at": "2026-02-18T19:06:49.690785+00:00",
+      "rss": {
+        "published_at": "2026-02-18T18:23:00+00:00"
+      },
+      "kw_national_hits": [],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  },
+  {
+    "id": "8ad82d40cc03e1d8b37f69e6",
+    "country": "TURKEY",
+    "source_name": "Daily Sabah",
+    "source_slug": "daily_sabah",
+    "url": "https://www.dailysabah.com/world/europe/uk-police-investigate-epsteins-use-of-airports-for-trafficking",
+    "title": "UK police investigate Epstein’s use of airports for trafficking",
+    "published_at": "2026-02-18T18:08:00+00:00",
+    "author": "Reuters",
+    "summary": "British police are examining whether Jeffrey Epstein used private flights through two London-area airports and one in central England for trafficking, as part of a nationally coord...",
+    "content_text": "British police are examining whether Jeffrey Epstein used private flights through two London-area airports and one in central England for trafficking, as part of a nationally coordinated effort to investigate the late financier’s connections to the UK.\nThree regional police forces said on Wednesday they were reviewing information about private flights linked to Epstein following the publication by the U.S. government of millions of documents on the disgraced financier at the end of January.\nEssex Police said it was looking at flights in and out of Stansted Airport, northeast of London, while Bedfordshire Police said it was assessing flights in and out of Luton Airport, northwest of the capital.\nWest Midlands Police said it was also assessing evidence connected to Epstein from Birmingham Airport.\nThe forces' assessments, which do not constitute a full investigation, follow the establishment of a national coordination group to support individual police forces in examining Epstein's ties to Britain or British people.\n\"We continue to work collaboratively to assess the details being made public to allow us to understand any potential impact arising from the millions of documents that have been published,\" the National Police Chiefs' Council said in a statement.\nThe BBC reported last year that incomplete flight logs and manifests showed that 87 flights linked to Epstein had arrived or departed from British airports between the early 1990s and 2018, with unidentified \"females\" listed among the passengers.\nReuters could not independently verify the BBC's report.\nDocuments in the Epstein files reviewed by Reuters show multiple references to Stansted, including one that discussed whether a Russian woman with a U.S. visa could switch planes at the airport. The files also include dozens of references to UK visas.\nStansted, Luton and Birmingham airports said in separate statements that private flights were not managed by the terminals they operate, and that Border Force was responsible for immigration and customs checks.\nBorder Force did not respond to a request for comment. Under British law, all individuals arriving in Britain are subject to thorough checks.\nThe Epstein furore has already had a major impact in Britain. Two other police forces are looking into Peter Mandelson, the former British ambassador to the U.S., and the younger brother of King Charles, Andrew Mountbatten-Windsor, over allegations of misconduct in public office. The Epstein files suggested both had forwarded confidential government documents to the late U.S. financier.\nBoth men have denied any wrongdoing and said they regret their friendships with Epstein, but they have not responded to specific requests for comment after the latest files were published.",
+    "content_length": 2764,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Police",
+      "trafficking"
+    ],
+    "keywords_national_matched": [
+      "Police"
+    ],
+    "keywords_threat_matched": [
+      "trafficking"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Police"
+    ],
+    "kw_threat_hits": [
+      "trafficking"
+    ],
+    "relevance_score": 35.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 15.0,
+    "prepriority_score": 57.5,
+    "prepriority_bucket": "MEDIUM",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.dailysabah.com/rss/home-page",
+      "fetched_at": "2026-02-18T19:06:49.690824+00:00",
+      "rss": {
+        "published_at": "2026-02-18T18:08:00+00:00"
+      },
+      "kw_national_hits": [
+        "Police"
+      ],
+      "kw_threat_hits": [
+        "trafficking"
+      ],
+      "kw_shortlisted": true
+    }
+  },
+  {
+    "id": "b551b3770a7b01df4eeaf2ad",
+    "country": "TURKEY",
+    "source_name": "Daily Sabah",
+    "source_slug": "daily_sabah",
+    "url": "https://www.dailysabah.com/world/syrian-crisis/only-small-number-remain-at-syria-camp-for-daesh-families",
+    "title": "Only small number remain at Syria camp for Daesh families",
+    "published_at": "2026-02-18T17:48:00+00:00",
+    "author": "Reuters",
+    "summary": "Fewer than 1,000 families remain at a camp in northeastern Syria's Hassakeh that once held relatives of suspected Daesh members, its former director said Wednesday, after thou...",
+    "content_text": "Fewer than 1,000 families remain at a camp in northeastern Syria's Hassakeh that once held relatives of suspected Daesh members, its former director said Wednesday, after thousands fled last month as government forces seized the area from the YPG/PKK terrorist group.\nAl-Hol, near the Iraqi border, was one of the main detention camps for relatives of suspected Daesh terrorist fighters who were detained during the U.S.-backed campaign against the terrorist group in Syria.\nControl of the camp changed hands last month when government forces under President Ahmed al-Sharaa seized swathes of the northeast from the YPG/PKK-led Syrian Democratic Forces (SDF), including several jails holding Daesh fighters. The U.S. military said last week it had completed a mission to transfer 5,700 adult male Daesh detainees to Iraq.\nJihan Hanna, the former director who still coordinates with international agencies and the Syrian government, told Reuters the remaining families were Syrian nationals and were being transferred to a camp in Aleppo. Most of the camp’s foreign nationals had fled, she said.\nThe Syrian government did not immediately respond to requests for comment.\nAccording to the latest camp data obtained by Reuters, dated Jan. 19 – a day before the government took control of the camp – its population was 6,639 families comprising 23,407 people, mostly Syrians and Iraqis, as well as 6,280 foreigners from more than 40 nationalities.\nUNHCR, the U.N. refugee agency, said it had observed \"a significant decrease in the number of residents in al-Hol camp in recent weeks,\" adding in a statement to Reuters that there were no confirmed figures on the remaining population.\n\"Over the weekend the camp administration advised UNHCR not to enter the camp due to the unrest and anxiety in the camp,\" UNHCR added.\nThe Syrian government accused the SDF of withdrawing from al-Hol on Jan. 20 without any coordination.\nA Syrian government security source said most people in the camp fled that day during a five-hour period when it was unguarded, and that some had left with men who came to take their relatives to unknown destinations.\nThe security source and a source from a non-governmental organisation working there said a section of the camp that housed its most dangerous residents, known as the annex, was empty.\nThe security source said the escapees had spread throughout Syria and that security authorities, working in cooperation with international partners, had established a unit to \"follow up on the matter and pursue those who are wanted.\"\nSome have left Syria.\nIn Lebanon, the army has questioned more than a dozen Lebanese who crossed illegally from Syria after leaving al-Hol, a Lebanese security source said.\nThe Syrian government’s Directorate of International Cooperation said on Tuesday that hundreds of people, mostly women and children, had been transferred from al-Hol to a newly prepared camp near the town of Akhtarin in northern Aleppo.",
+    "content_length": 2962,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Military",
+      "terrorist",
+      "detained",
+      "detention",
+      "wanted",
+      "seized"
+    ],
+    "keywords_national_matched": [
+      "Military"
+    ],
+    "keywords_threat_matched": [
+      "terrorist",
+      "detained",
+      "detention",
+      "wanted",
+      "seized"
+    ],
+    "national_relevant": true,
+    "threat_relevant": true,
+    "shortlisted": true,
+    "kw_national_hits": [
+      "Military"
+    ],
+    "kw_threat_hits": [
+      "terrorist",
+      "detained",
+      "detention",
+      "wanted",
+      "seized"
+    ],
+    "relevance_score": 10.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 51.0,
+    "prepriority_score": 48.6,
+    "prepriority_bucket": "MEDIUM",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.dailysabah.com/rss/home-page",
+      "fetched_at": "2026-02-18T19:06:49.690840+00:00",
+      "rss": {
+        "published_at": "2026-02-18T17:48:00+00:00"
+      },
+      "kw_national_hits": [
+        "Military"
+      ],
+      "kw_threat_hits": [
+        "terrorist",
+        "detained",
+        "detention",
+        "wanted",
+        "seized"
+      ],
+      "kw_shortlisted": true
+    }
+  },
+  {
+    "id": "af33bc10839bc70ac3e531ff",
+    "country": "TURKEY",
+    "source_name": "Daily Sabah",
+    "source_slug": "daily_sabah",
+    "url": "https://www.dailysabah.com/world/mid-east/unsc-to-convene-on-gaza-cease-fire-west-bank-violations",
+    "title": "UNSC to convene on Gaza cease-fire, West Bank violations",
+    "published_at": "2026-02-18T16:27:00+00:00",
+    "author": "Agencies",
+    "summary": "The U.N. Security Council will hold a high-level session Wednesday to address the Gaza cease-fire agreement and Israel’s unlawful moves to expand its control in the West Bank, ahea...",
+    "content_text": "The U.N. Security Council will hold a high-level session Wednesday to address the Gaza cease-fire agreement and Israel’s unlawful moves to expand its control in the West Bank, ahead of a Washington meeting where global leaders are set to discuss the future of the Palestinian territories under President Donald Trump’s newly formed Board of Peace.\nThe U.N. session in New York was originally scheduled for Thursday but was moved up after Trump announced the board's meeting for that same date and it became clear that it would complicate travel plans for diplomats planning to attend both. It is a sign of the potential for overlapping and conflicting agendas between the United Nations’ most powerful body and Trump’s new initiative, whose broader ambitions to broker global conflicts have raised concerns in some countries that it may attempt to rival the U.N. Security Council.\nAsked what he hopes to see from the back-to-back meetings this week, Palestinian U.N. Ambassador Riyad Mansour told reporters: \"We expect from the international community to stop Israel and end their illegal effort against annexation, whether in Washington or in New York.”\nThe foreign ministers of the United Kingdom, Israel, Jordan, Egypt and Indonesia, among others, are expected to attend the monthly Mideast meeting of the 15-member council after many Arab and Muslim countries requested last week that it discuss Gaza and Israel's illegal West Bank settlement project before some of them head to Washington.\nThe board to be chaired by Trump was originally envisioned as a small group of world leaders overseeing his 20-point plan for Gaza’s future. But the Republican president's ambitious new vision for the board to be a mediator of worldwide conflicts has led to skepticism from major allies.\nWhile more than 20 countries have so far accepted an invitation to join the board, close U.S. partners, including France, Germany and others, have opted not to join yet and renewed support for the U.N., which also is in the throes of major reforms and funding cuts.\nMike Waltz, the U.S. ambassador to the U.N., dismissed concerns about the composition of the Board of Peace, telling conservative radio host Hugh Hewitt in an interview Monday that the most relevant countries, including Qatar and Egypt, which are in touch with Hamas' leadership, have accepted the invitation.\n\"All of those countries are on the Board of Peace, singing the same tune as the United States,” he said.\nThe Security Council will be meeting a day after nearly all of its 15 members – minus the United States – and dozens of other diplomats joined Palestinian ambassador Mansour as he read a statement on behalf of 80 countries and several organizations condemning Israel's latest actions in the West Bank, demanding an immediate reversal and underlining \"strong opposition to any form of annexation.”\nIsrael, whose U.N. mission did not immediately respond to requests for comment on Wednesday's meeting, is launching a contentious land regulation process that will deepen its control in the occupied West Bank. Israeli Energy Minister Eli Cohen said it amounts to \"de facto sovereignty” that will block the establishment of a Palestinian state.\nOutraged Palestinians, countries and human rights groups have called the moves an illegal annexation of the territory, home to roughly 3.4 million Palestinians who seek it for a future state.\nThe U.N. meeting is also expected to delve into the U.S.-brokered cease-fire deal that took effect Oct. 10 after more than two years of Israel's genocidal war. The U.K., which currently holds the presidency of the council, said the meeting will include briefings by U.N. political chief Rosemary DiCarlo and by Israeli and Palestinian civil society representatives for the first time since Oct. 7.\nAspects of the cease-fire deal have partially moved forward, including Hamas releasing all the hostages it was holding, but Israel has not kept up to its promise of increased amounts of humanitarian aid getting into Gaza, as said by the U.N. Israel's incessant attacks have also continued to kill Palestinians, claiming over 600 lives. Hamas has called on Trump's Board of Peace to halt Israeli violations of the cease-fire. A new technocratic committee has been appointed to administer Gaza’s daily affairs.\nBut the most challenging steps lie ahead, including the deployment of an international security force, disarming Hamas and rebuilding Gaza.\nTrump said this week that the Board of Peace members have pledged $5 billion toward Gaza reconstruction and will commit thousands of personnel to international stabilization and police forces for the territory. He didn't provide details. Indonesia’s military says up to 8,000 of its troops are expected to be ready by the end of June for a potential deployment to Gaza as part of a humanitarian and peace mission.",
+    "content_length": 4857,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [
+      "Police",
+      "Military"
+    ],
+    "keywords_national_matched": [
+      "Police",
+      "Military"
+    ],
+    "keywords_threat_matched": [],
+    "national_relevant": true,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [
+      "Police",
+      "Military"
+    ],
+    "kw_threat_hits": [],
+    "relevance_score": 45.0,
+    "evidence_strength": "HIGH",
+    "evidence_numeric": 90.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 12.0,
+    "prepriority_score": 62.2,
+    "prepriority_bucket": "HIGH",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.dailysabah.com/rss/home-page",
+      "fetched_at": "2026-02-18T19:06:49.690853+00:00",
+      "rss": {
+        "published_at": "2026-02-18T16:27:00+00:00"
+      },
+      "kw_national_hits": [
+        "Police",
+        "Military"
+      ],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  },
+  {
+    "id": "b06eed31271a2d7f7ee3c16a",
+    "country": "TURKEY",
+    "source_name": "Daily Sabah",
+    "source_slug": "daily_sabah",
+    "url": "https://www.dailysabah.com/business/turkiye-to-pay-incentives-to-tv-dramas-promoting-its-culture-worldwide/news",
+    "title": "Türkiye to pay incentives to TV dramas promoting its culture worldwide",
+    "published_at": "2026-02-18T15:48:00+00:00",
+    "author": "Agence France-Presse",
+    "summary": "The Turkish government announced Wednesday that it will provide financial support to producers of the country’s popular television dramas that help showcase Türkiye and the Turkish...",
+    "content_text": "The Turkish government announced Wednesday that it will provide financial support to producers of the country’s popular television dramas that help showcase Türkiye and the Turkish language to international audiences.\n\"We will provide support of up to the equivalent of 100,000 US dollars in Turkish lira per episode for our TV series\" broadcast abroad, Culture and Tourism Minister Mehmet Nuri Ersoy told a news conference.\nTurkish television dramas and series, known as \"dizi\", are now available in 170 countries. Global demand rose by 184 percent between 2020 and 2023, figures from Parrot Analytics show.\nErsoy said Turkish series have become a \"global brand that touches the lives of nearly one billion people across approximately 170 countries, spanning a vast geography from Asia to America, and from Africa to Europe.\"\n\"Currently, Türkiye as become one of the world's top three television industries in terms of sales and export power,\" he said.\n\"With export revenues exceeding one billion dollars, our sector has recently surpassed a historic threshold.\"\nTo receive the government cash, productions must comply with criteria, including the promotion of Türkiye and its language, whether the countries to which the series are exported are among target markets for Turkish tourism as well as ratings and viewership data, the minister said.\n\"As the ministry, we will also provide significant facilitation to our sector, such as accelerating bureaucratic procedures related to filming locations and the use of historical and cultural sites free of charge,\" he said.",
+    "content_length": 1570,
+    "extraction_method": "rss",
+    "extraction_notes": [
+      "possible botwall content (fetch=requests, status=200); ok (fetch=requests, status=200)"
+    ],
+    "run_id": null,
+    "run_created_at": null,
+    "fetched_at": null,
+    "keywords_matched": [],
+    "keywords_national_matched": [],
+    "keywords_threat_matched": [],
+    "national_relevant": false,
+    "threat_relevant": false,
+    "shortlisted": false,
+    "kw_national_hits": [],
+    "kw_threat_hits": [],
+    "relevance_score": 0.0,
+    "evidence_strength": "MED",
+    "evidence_numeric": 60.0,
+    "urgency_score": 100.0,
+    "keyword_intensity": 0.0,
+    "prepriority_score": 34.0,
+    "prepriority_bucket": "LOW",
+    "threat_score": null,
+    "threat_level": null,
+    "threat_vector": null,
+    "one_liner_threat": null,
+    "reasons": [],
+    "risk_index": null,
+    "truth_score": null,
+    "truth_label": null,
+    "truth_reasons": [],
+    "threat_factors": [],
+    "raw": {
+      "discovery_method": "rss",
+      "endpoint_used": "https://www.dailysabah.com/rss/home-page",
+      "fetched_at": "2026-02-18T19:06:49.690865+00:00",
+      "rss": {
+        "published_at": "2026-02-18T15:48:00+00:00"
+      },
+      "kw_national_hits": [],
+      "kw_threat_hits": [],
+      "kw_shortlisted": false
+    }
+  }
+]

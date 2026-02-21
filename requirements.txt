@@ -1,0 +1,12 @@
+PyQt6
+requests
+pysocks
+feedparser
+beautifulsoup4
+lxml
+trafilatura
+python-dateutil
+stem
+
+# LLM runtime for GGUF models
+llama-cpp-python
